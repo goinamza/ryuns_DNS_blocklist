@@ -12,3 +12,5 @@
 ||manta.net^
 ||tapas.io^
 ||blacktoonurl.com^
+||lifestudy.co.kr^
+||blacktoon*.com^
