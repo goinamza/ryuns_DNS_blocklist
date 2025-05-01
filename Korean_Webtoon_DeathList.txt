@@ -338,7 +338,7 @@
 ||mangacat.xyz^
 ||yayaya*.com^
 ||showme-*.com^
-||park2.link^
+||park*.link^
 ||ohli24.net^
 ||bufftoon.plaync.com^
 /bufftoon/
@@ -362,7 +362,7 @@
 ||adulti*.com^
 ||metoon*.com^
 ||linktv.biz^
-||5rs-a36.com^
+||5rs-a3*.com^
 ||dangtoon*.com^
 ||freetoon*.com^
 ||torrentgirl*.com^
@@ -525,8 +525,20 @@
 ||super10*.net^
 ||pingko*.link^
 ||star-0*.link^
-
-
+||yg0*.net^
+||funbe.best^
+||ohli365.com^
+||dang1*.com^
+||5rs-mt*.com^
+||5rs-a40.com^
+||freewebtoon*.com^
+||jjmana.net^
+||mkmk0*.link^
+||realtoon*.link^
+||star-0*.link^
+||batoon.net^
+/moontoon/
+||linkboza.com^
 
 
 
