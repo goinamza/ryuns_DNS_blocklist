@@ -111,6 +111,15 @@ static.melon.co.kr
 ||qmamu.com^
 ||neeva.com^
 ||andisearch.com^
+||kagi.com^
+||infinitysearch.co^
+||peekier.com^
+||andisearch.com^
+||blackle.com^
+||millionshort.com^
+||lycos.com^
+||webcrawler.com^
+||metacrawler.com^
 
 
 
