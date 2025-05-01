@@ -242,6 +242,33 @@
 ||pickleballhop.com^
 ||biviz.ai^
 ||csdn.net^
+||newtoon*.com^
+/newtoon/
+||marumaru*.com^
+||bam3*.com^
+||buzztoon*.com^
+/buzztoon/
+||blackmanaimg.com^
+/blackmana/
+||skytoon*.com^
+/skytoon/
+||fxfx2*.com^
+||copytoon*.com^
+/copytoon/
+||tkr2*.com^
+||tkr3*.com^
+||tkr4*.com^
+||tkr5*.com^
+||tkr6*.com^
+||hdhd3*.net^
+||wtwt2*.com^
+
+
+
+
+
+
+
 
 
 
