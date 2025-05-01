@@ -94,6 +94,25 @@ static.melon.co.kr
 ||baidu.^$important
 ||zum.com^$important
 ||weibo.com^$important
+||aol.com^$important
+||dogpile.^
+||metager.^
+||searx.org^
+||fireball.de^
+||exalead.com^
+||entireweb.com^
+||yippy.com^
+||searchencrypt.com^
+||search.disconnect.me^
+||infinitysearch.co^
+||peekier.com^
+||gibiru.com^
+||oscobo.com^
+||qmamu.com^
+||neeva.com^
+||andisearch.com^
+
+
 
 
 
