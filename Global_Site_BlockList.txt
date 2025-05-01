@@ -117,10 +117,14 @@ static.melon.co.kr
 ||andisearch.com^
 ||blackle.com^
 ||millionshort.com^
-||lycos.com^
+||lycos.^
 ||webcrawler.com^
 ||metacrawler.com^
-
+||korea.com^
+||paran.^
+||empas.^
+||sayclub.^
+||dreamwiz.^
 
 
 
