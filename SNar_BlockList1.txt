@@ -194,8 +194,8 @@
 @@||microsoft.com^
 @@||nts.go.kr^
 @@||slack.com^
-@@||fastly-edge.com^$important
-@@||fastly.com^$important
+@@||fastly-edge.com^
+@@||fastly.com^
 @@||googleapis.com^
 @@||gvt1.com^
 @@||gvt3.com^
