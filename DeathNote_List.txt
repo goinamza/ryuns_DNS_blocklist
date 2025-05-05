@@ -132,5 +132,41 @@ mtproto.telegram.org
 proxy.telegram.org
 cloudflare.telegram.org
 cdn-telegram.org
+instagram.com
+www.instagram.com
+graph.instagram.com
+i.instagram.com
+b.instagram.com
+z-p3.instagram.com
+z-p4.instagram.com 
+cdninstagram.com
+scontent.cdninstagram.com
+scontent-icn1-1.fna.fbcdn.net
+scontent-icn1-2.fna.fbcdn.net
+scontent-icn2-1.fna.fbcdn.net
+instagram.fdel1-1.fna.fbcdn.net  # 지역 CDN endpoint
+facebook.com
+www.facebook.com
+graph.facebook.com
+fbcdn.net
+fb.com
+login.facebook.com
+secure.facebook.com
+api.facebook.com
+connect.facebook.net
+l.instagram.com
+business.instagram.com
+static.xx.fbcdn.net
+static-icn1-1.xx.fbcdn.net
+static-icn1-2.xx.fbcdn.net
+static-hkg4-1.xx.fbcdn.net
+
+
+
+
+
+
+
+
 
 
