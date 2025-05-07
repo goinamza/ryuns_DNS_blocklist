@@ -1,3 +1,4 @@
+# DNS
 g.dns.kr
 doh.nsone.net
 doh.cleanbrowsing.org
@@ -9,6 +10,7 @@ dns.msftncsi.com
 mozilla.cloudflare-dns.com
 dns.google.com
 paydns.weixin.qq.com
+# Telegram
 telegram.org
 t.me
 core.telegram.org
@@ -30,6 +32,7 @@ mtproto.telegram.org
 proxy.telegram.org
 cloudflare.telegram.org
 cdn-telegram.org
+# Instagram
 instagram.com
 www.instagram.com
 graph.instagram.com
@@ -43,6 +46,7 @@ scontent-icn1-1.fna.fbcdn.net
 scontent-icn1-2.fna.fbcdn.net
 scontent-icn2-1.fna.fbcdn.net
 instagram.fdel1-1.fna.fbcdn.net
+# Facebook
 facebook.com
 www.facebook.com
 graph.facebook.com
@@ -53,11 +57,17 @@ secure.facebook.com
 api.facebook.com
 connect.facebook.net
 l.instagram.com
+i.instagram.com
 business.instagram.com
+scontent-lax3-1.cdninstagram.com
+scontent-lax3-2.cdninstagram.com
 static.xx.fbcdn.net
 static-icn1-1.xx.fbcdn.net
 static-icn1-2.xx.fbcdn.net
 static-hkg4-1.xx.fbcdn.net
+mqtt-ig-p4.facebook.com
+edge-mqtt.facebook.com
+# Tiktok
 tiktok.com
 api.tiktokv.com
 api16-normal-c-useast1a.tiktokv.com
