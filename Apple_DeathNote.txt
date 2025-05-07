@@ -3,6 +3,7 @@ doh.dns.apple.com
 gateway.fe2.apple-dns.net
 ocsp2-lb.apple.com.akadns.net
 fpinit-apac-n.edge-itunes-apple.com.akadns.net
+apple-relay.cloudflare.com
 mesu.apple.com
 #ocsp.apple.com
 #ocsp2.apple.com
@@ -91,7 +92,7 @@ librarydaap.itunes.apple.com
 #gsa.apple.com
 #gsas.apple.com
 #configuration.ls.apple.com
-#radio-activity.itunes.apple.com
+radio-activity.itunes.apple.com
 #gs-loc.apple.com
 init.ess.apple.com
 service.ess.apple.com
