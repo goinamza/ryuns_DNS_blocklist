@@ -193,7 +193,6 @@
 @@||live.com^
 @@||microsoft.com^
 @@||nts.go.kr^
-@@||slack.com^
 @@||fastly-edge.com^
 @@||fastly.com^
 @@||googleapis.com^
@@ -237,6 +236,7 @@
 @@||time.apple.com^$important
 @@||ebs.co.kr^
 @@||ntp.kornet.net^$important
+||slack.com^
 ||youtubei.googleapis.com^$important
 ||mobile.events.data.microsoft.com^$important
 ||apple-relay.fastly-edge.com^$important
