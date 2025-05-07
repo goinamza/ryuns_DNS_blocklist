@@ -36,6 +36,7 @@ cdn-telegram.org
 instagram.com
 www.instagram.com
 graph.instagram.com
+gateway.instagram.com
 i.instagram.com
 b.instagram.com
 z-p3.instagram.com
@@ -50,6 +51,8 @@ instagram.fdel1-1.fna.fbcdn.net
 facebook.com
 www.facebook.com
 graph.facebook.com
+graph-fallback.facebook.com
+web.facebook.com
 fbcdn.net
 fb.com
 login.facebook.com
@@ -57,7 +60,6 @@ secure.facebook.com
 api.facebook.com
 connect.facebook.net
 l.instagram.com
-i.instagram.com
 business.instagram.com
 scontent-lax3-1.cdninstagram.com
 scontent-lax3-2.cdninstagram.com
