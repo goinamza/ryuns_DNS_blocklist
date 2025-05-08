@@ -13,6 +13,11 @@ gateway.push.apple.com
 gateway.sandbox.push.apple.com
 api.push.apple.com
 api.sandbox.push.apple.com
+courier.push.apple.com
+apple.com
+icould.com
+bag.itunes.apple.com
+api.smoot.apple.com
 #pancake.apple.com
 #sylvan.apple.com
 #gsp-ssl-kr.ls.apple.com
@@ -21,8 +26,6 @@ api.sandbox.push.apple.com
 #gsp64-ssl.ls.apple.com
 #gspe79-ssl.ls.apple.com
 #configuration.apple.com
-api.smoot.apple.com
-bag.itunes.apple.com
 #1-courier.push.apple.com
 #2-courier.push.apple.com
 #3-courier.push.apple.com
@@ -84,8 +87,6 @@ bag.itunes.apple.com
 #29-courier.sandbox.push.apple.com
 #30-courier.sandbox.push.apple.com
 #keyvalueservice.icloud.com
-apple.com
-icould.com
 #updates.cdn-apple.com
 pd.itunes.apple.com
 #librarydaap.itunes.apple.com
