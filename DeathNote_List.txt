@@ -10,6 +10,7 @@ dns.msftncsi.com
 mozilla.cloudflare-dns.com
 dns.google.com
 paydns.weixin.qq.com
+dns101.ovh.net
 fi.doh.dns.snopyta.org
 # Telegram
 telegram.org
