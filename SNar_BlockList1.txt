@@ -365,4 +365,15 @@
 ||music-phinf.pstatic.net^$important
 ||musicmeta-phinf.pstatic.net^$important
 ||cdn-vibe.pstatic.net^$important
+||st-audiop.pstatic.net^$important
+||dthumb-phinf.pstatic.net^$important
+||nelo2-col.navercorp.com^$important
+||doh.cleanbrowsing.org^$important
+@@||www.weather.go.kr^$important
+@@||kma.go.kr^$important
+@@||ocsp2.apple.com^$important
+@@||ocsp.apple.com^$important
+@@||ocsp2.g.aaplimg.com^$important
+
+
 
