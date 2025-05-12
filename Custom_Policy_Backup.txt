@@ -91,7 +91,7 @@ sf.symcb.com$important
 ||apple-dns.net^$important
 ||gateway.icloud.com^$important
 ||configuration.apple.com^$important
-||*.ess.apple.com^$important
+||*.ess.apple.com^
 ||apple-dns.net^$important
 ||fe.apple-dns.net^$important
 ||mask.apple-dns.net^$important
