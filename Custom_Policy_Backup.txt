@@ -65,7 +65,7 @@ sf.symcb.com$important
 ||upmc.msghub.uplus.co.kr^$important
 ||duckduckgo.com^$important
 ||mail.me.com^$important
-||push.apple.com^$important
+# ||push.apple.com^$important
 ||courier.push.apple.com^$important
 ||yimg.com^$important
 ||kgirls.net^$important
@@ -91,7 +91,6 @@ sf.symcb.com$important
 ||mask.apple-dns.net^$important
 ||apple-dns.net^$important
 ||gateway.icloud.com^$important
-||push.apple.com^$important
 ||configuration.apple.com^$important
 ||*.ess.apple.com^$important
 ||apple-dns.net^$important
