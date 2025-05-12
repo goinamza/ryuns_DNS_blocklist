@@ -99,9 +99,8 @@ sf.symcb.com$important
 ||gateway.fe2.apple-dns.net^$important
 ||relay.fe.apple-dns.net^$important
 ||gs-loc.apple-dns.net^$important
-||configuration.apple.com.akadns.net^$important
+||configuration.apple.com.akadns.net^
 ||appldnld.apple.com^$important
-||configuration.apple.com.akadns.net^$important
 ||icloud-dns.com^
 apple.com.doh.icloud-dns.com$important
 proxy.safebrowsing.apple^
@@ -184,7 +183,7 @@ t.co
 ||mzstatic.com^
 ||icloud-content.com^
 ||api.apple-cloudkit.com^$important
-||apple.com.akadns.net^$important
+||apple.com.akadns.net^
 ||idms-apple.com.akadns.net^$important
 ||mail.me.com.akadns.net^$important
 ||a1051.dscg4.akamai.net^$important
@@ -201,7 +200,7 @@ t.co
 ||db._dns-sd._udp.firesn.com^$important
 ||e5871.dscd.akamaiedge.net^$important
 ||a1864.gi3.akamai.net^$important
-||ls-apple.com.akadns.net^$important
+||ls-apple.com.akadns.net^
 ||a1806.dscw154.akamai.net^$important
 ||ohttp-relay1.fastly-edge.com^$important
 ||skyapi.live.net^$important
