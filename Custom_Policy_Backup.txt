@@ -169,7 +169,7 @@ t.co
 ||prod-lt-playstoregatewayadapter-pa.googleapis.com^$important
 ||appstoreconnect.apple.com^$important
 ||apps.apple.com^$important
-||mzstatic.com^
+@@||mzstatic.com^
 ||iosapps.itunes.apple.com^$important
 ||dbankcloud.cn^$important
 ||appstore.amazon.com^$important
