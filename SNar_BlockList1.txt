@@ -60,7 +60,6 @@
 
 # Naver
 ||naver.com^
-@@||classcard.net^
 @@||dict.naver.com^
 @@||dict.naver.com.mobile^
 @@||dict.naver.com_search^
@@ -221,6 +220,7 @@ play.orbi.kr$important
 @@||gumstart.co.kr^
 @@||sinjiwonedu.co.kr^
 @@||mmath.co.kr^
+@@||classcard.net^
 @@||cheongsol.co.kr^
 @@||hackers.com^
 @@||hubspot.com^
