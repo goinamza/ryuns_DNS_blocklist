@@ -13,10 +13,17 @@
 ||doh.cleanbrowsing.org^$important
 ||_dns-sd._udp.firesn.com^$important
 ||nextdns.io^$important
+||dns.msftncsi.com^$important
+||share-dns.com^$important
+||share-dns.net^$important
+||lb._dns-sd._udp.firesn.com^$important
+||b._dns-sd._udp.firesn.com^$important
+||db._dns-sd._udp.firesn.com^$important
 
 # Common Function Sites
 @@||ntp.org^
 @@||nts.go.kr^
+@@||lencr.org^
 @@||nprotect.com^
 @@||quickconnect.to^
 @@||ahnlab.com^
@@ -36,6 +43,9 @@
 @@||cdn.megadata.co.kr^$important
 @@||data.iana.org^$important
 @@||op1top.com^$important
+||*.in-addr.arpa^
+||*.ip6.arpa^
+
 
 # Weather Info Services
 @@||kr-weathernews.com^important
@@ -49,6 +59,7 @@
 @@||globalsign.com^
 
 # Naver
+||naver.com^
 @@||classcard.net^
 @@||dict.naver.com^
 @@||dict.naver.com.mobile^
@@ -67,6 +78,15 @@
 @@||toast.com^
 @@||pstatic.net^
 @@||ssl.pstatic.net.nheos.com^$important
+@@||dict.naver.com^
+@@||terms.naver.com^
+@@||nid.naver.com^
+@@nidapi.naver.com^
+@@openapi.naver.com^
+@@logins.naver.com^
+@@apis.naver.com^
+@@nidlogin.naver.com^
+||blog.naver.com.nheos.com^$important
 ||image-comic.pstatic.net^$important
 ||naverwebtoon-phinf.pstatic.net^$important
 ||kr-col-tcp.nelo.navercorp.com.firesn.com^$important
@@ -81,11 +101,23 @@
 ||kream-phinf.pstatic.net^
 ||static.tagmanager.toast.com^$important
 ||adlc-exchange.toast.com^$important
+||naverads.com^
+||shopping.naver.com.nheos.com^$important
+||recoshopping.naver.com.nheos.com^$important
+||shopsquare.naver.com.nheos.com^$important
 
-# Daum
+# Daum Kakao ####
 @@||tts-dic.daum.net^
 @@||dic.daum.net^
 @@||100.daum.net^
+@@||dic.daum.net^
+@@||t1.daumcdn.net^
+||onkakao.net
+||daumcdn.net^
+||daum.net^
+||kgns1.com^
+||kgns3.com^
+||kakaoentcdn.com^
 
 # Orbi
 @@||academy.orbi.kr^
@@ -104,6 +136,10 @@
 @@||spica-assets.orbi.kr^
 @@||s3-utils.orbi.kr^
 @@||mdl.aquan.class.orbi.kr.cdnga.net^$important
+@@||class.orbi.kr^
+@@||login.orbi.kr^
+orbi.kr
+play.orbi.kr$important
 
 # Kollus Aqua Player
 @@||mc-kr.kollus.com^$important
@@ -117,6 +153,7 @@
 
 # Vimeo Player Services
 @@||player.vimeo.com^$important
+||player.vimeo.com.cdn.cloudflare.net^$important
 
 # EBS Family
 @@||ebsi.co.kr^
@@ -290,15 +327,18 @@
 @@||file.megastudy.net.gtmc.hscdn.com^$important
 @@||irontrain.co.kr^$important
 @@||yeolpumta-ko.firebaseio.com^$important
+||tgclab.com^
 @@||goodnotes.com^$important
 @@||vicleague.com^$important
 ||news.seoul.go.kr^$important
 
 # Google Services
+||*google.com^
 @@||googleapis.com^
 @@||gstatic.com^
 @@||googletagmanager.com^
 @@||gvt1.com^
+||*.gvt1.com^
 @@||gvt2.com^
 @@||gvt3.com^
 @@||gvt4.com^
@@ -306,6 +346,10 @@
 @@||gvt6.com^
 @@||analytics.google.com^$important
 @@||optimizationguide-pa.googleapis.com^$important
+@@||accounts.google.com^
+@@||apis.google.com^
+@@||clients6.google.com^
+||google.it^
 ||analytics.google.com^$important
 ||googlevideo.com^
 ||mobilemaps-pa-gz.googleapis.com^$important
@@ -330,6 +374,33 @@
 ||chromewebstore.googleapis.com^$important
 ||waa-pa.clients6.google.com^$important
 ||proactivebackend-pa.googleapis.com^$important
+||play.google.com^$important
+||developer.android.com^$important
+||play.googleapis.com^$important
+||play.googleapis.com.firesn.com^$important
+||gameswhitelisted.googleapis.com^$important
+||play-fe.googleapis.com^$important
+||play-fe.googleapis.com.firesn.com^$important
+||playstoregatewayadapter-pa.googleapis.com^$important
+||prod-lt-playstoregatewayadapter-pa.googleapis.com^$important
+||ohttp-relay1.fastly-edge.com^$important
+||www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com^
+||google-ohttp-relay-safebrowsing.fastly-edge.com^$important
+||googleleadservices.com^
+
+
+######## YouTube YouTube Youtube #########
+||yimg.com^$important
+
+
+### Netflix Netflix #########
+||netflix.com^
+
+### Twitter Twitter ####
+||probe.twitter.com.cdn.cloudflare.net^$important
+||dualstack.video.twitter.map.fastly.net^$important
+||dualstack.twimg.twitter.map.fastly.net^$important
+||platform.twitter.map.fastly.net^$important
 
 # Microsoft Services
 @@||live.com^
@@ -344,14 +415,24 @@
 @@||self.events.data.microsoft.com^$important
 @@||my.microsoftpersonalcontent.com^$important
 @@||ctldl.windowsupdate.com^$important
+||bing.com^
+||mail.live.com^$important
+||outlook.live.com^$important
+||api.onedrive.com^$important
+||skyapi.live.net^$important
 ||teams.events.data.microsoft.com^$important
 ||teams.live.com^$important
 ||mobile.events.data.microsoft.com^$important
+||teams.live.com^$important$important
 ||statics.teams.cdn.live.net^$important
 ||teams.microsoft.com^$important
 ||config.teams.microsoft.com^$important
 ||api-apac.flightproxy.teams.microsoft.com^$important
 ||win1910.ipv6.microsoft.com^$important
+||c-bing-com.ax-0001.ax-msedge.net^$important
+||onedriveclucproddm20036.blob.core.windows.net^$important
+||storage.live.com^$important
+
 
 # Adobe Services
 @@||adobe.io^$important
@@ -362,9 +443,16 @@
 # Fastly, Akamai, Cloudflare, Cloudfront
 @@||fastly-edge.com^
 @@||fastly.com^
+||kr-kst.exp.fastly-masque.net^$important
+||fastly-masque.net^$important
 @@||cloudflare.com^
-@@||cloudfront.net^
+||cloudflareportal.com^
+||engage.cloudflareclient.com^$important
+||identity.cloudflareclient.com^$important
 ||cloudflare-dns.com^
+||privacy-gateway.cloudflare.com^$important
+
+@@||cloudfront.net^
 
 # Firesn
 @@||firesn.com^
@@ -388,10 +476,60 @@
 @@||ocsp2.apple.com^$important
 @@||ocsp.apple.com^$important
 @@||ocsp2.g.aaplimg.com^$important
+@@||mzstatic.com^
+||mail.me.com^$important
+||mail.me.com.akadns.net^$important
+||mask.icloud.com^$important
+||mask-h2.icloud.com^$important
+||mask.apple-dns.net^$important
+||apple-dns.net^$important
+||gateway.icloud.com^$important
+||configuration.apple.com^$important
+||*.ess.apple.com^
+||apple-dns.net^$important
+||fe.apple-dns.net^$important
+||mask.apple-dns.net^$important
+||fe2.apple-dns.net^$important
+||gateway.fe2.apple-dns.net^$important
+||relay.fe.apple-dns.net^$important
+||relay.icloud.apple.com^$important
+||gs-loc.apple-dns.net^$important
+||configuration.apple.com.akadns.net^
+||appldnld.apple.com^$important
+||icloud-dns.com^
+||apple.com.doh.icloud-dns.com$important
+||proxy.safebrowsing.apple^
+/itunes/$important
+||ls-apple.com.akadns.net^
+||courier.push.apple.com^$important
 ||apple-relay.cloudflare.com^$important
 ||apple-relay.fastly-edge.com^$important
+||appstoreconnect.apple.com^$important
+||apps.apple.com^$important
+||iosapps.itunes.apple.com^$important
+||aaplimg.com^
+||mzstatic.com^
+||icloud-content.com^
+||api.apple-cloudkit.com^$important
+||apple.com.akadns.net^
+||idms-apple.com.akadns.net^$important
+||gsp64-ssl.ls-apple.com.akadns.net^$important
+||origin-apple.com.akadns.net^$important
+||ess-apple.com.akadns.net^$important
+||push-apple.com.akadns.net^$important
+||apple-relay.fastly-edge.com^$important
+||download.apple.map.fastly.net^$important
+||lb-apple.com.akadns.net^$important
+||apple.map.fastly.net^$important
+||icloud.com.akadns.net^$important
+||_aaplcache2._tcp.firesn.com^$important
+||_aaplcache._tcp.firesn.com^$important
+||_aaplcache4._tcp.firesn.com^$important
+||_aaplcache1._tcp.firesn.com^$important
+||_aaplcache3._tcp.firesn.com^$important
 
 # Instagram
+/instagram/$important
 ||scontent-ssn1-1.cdninstagram.com.firesn.com^$important
 ||test-gateway.instagram.com.firesn.com^$important
 
