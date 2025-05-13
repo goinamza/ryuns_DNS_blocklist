@@ -15,6 +15,13 @@ fi.doh.dns.snopyta.org
 d1ex46a0eaqlz9.cloudfront.net
 d127n5jiwb3j0b.cloudfront.net
 d1pijg9qb98hxx.cloudfront.net
+# APPLE~~~!!!!!
+doh.dns.apple.com
+mask.apple.com
+mask.icloud.com
+mask-h2.icloud.com
+mask.apple-dns.net
+mask-api.icloud.com
 # Telegram
 telegram.org
 t.me
