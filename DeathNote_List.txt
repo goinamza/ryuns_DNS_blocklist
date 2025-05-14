@@ -18,18 +18,9 @@ fi.doh.dns.snopyta.org
 # VPN
 expressvpn.com
 api.expressvpn.com
-dashboard.expressvpn.com
 www.expressvpn.com
 support.expressvpn.com
-api-roaming.expressvpn.net
-doh.expressapi.net
-resolver.expressvpn.net
-dns.expressvpn.net
-api-pub.expressapi.net
-files.expressvpn.com
-serverlist.expressvpn.com
-location-metadata.expressvpn.com
-connection-check.expressvpn.net
+expressvpn.net
 innovativeconnecting.zendesk.com
 interconnecting.com
 surfshark.com
