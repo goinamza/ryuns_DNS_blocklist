@@ -238,6 +238,12 @@ play.orbi.kr$important
 @@||n2s.co.kr^$important
 @@||catoms.net^$important
 @@||symcb.com^$important
+@@||adam.cdn.toastoven.net^$important
+@@||starplayer-49cba.firebaseio.com^$important
+@@||license.starplayer.net^$important
+@@||cab-starplayer.service.concdn.com^$important
+@@/starplayer/
+@@||ec2-3-34-18-9.ap-northeast-2.compute.amazonaws.com^$important
 
 
 # Vimeo Player Services
