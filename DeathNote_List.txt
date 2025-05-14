@@ -12,9 +12,6 @@ dns.google.com
 paydns.weixin.qq.com
 dns101.ovh.net
 fi.doh.dns.snopyta.org
-# d1ex46a0eaqlz9.cloudfront.net
-# d127n5jiwb3j0b.cloudfront.net
-# d1pijg9qb98hxx.cloudfront.net
 # VPN
 innovativeconnecting.zendesk.com
 interconnecting.com
