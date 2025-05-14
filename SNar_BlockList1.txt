@@ -19,7 +19,6 @@
 ||lb._dns-sd._udp.firesn.com^$important
 ||b._dns-sd._udp.firesn.com^$important
 ||db._dns-sd._udp.firesn.com^$important
-||d1ex46a0eaqlz9.cloudfront.net^
 
 # Common Function Sites
 @@||ntp.org^
