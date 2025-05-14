@@ -14,6 +14,7 @@ paydns.weixin.qq.com
 dns101.ovh.net
 fi.doh.dns.snopyta.org
 # Real_DNS_VPN_Attempts ##########################
+www.nexthop.onl
 d30fuo9j5370uc.cloudfront.net
 d127n5jiwb3j0b.cloudfront.net
 dnh523js9661q.cloudfront.net
