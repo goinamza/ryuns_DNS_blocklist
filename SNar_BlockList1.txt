@@ -19,6 +19,7 @@
 ||lb._dns-sd._udp.firesn.com^$important
 ||b._dns-sd._udp.firesn.com^$important
 ||db._dns-sd._udp.firesn.com^$important
+||d1ex46a0eaqlz9.cloudfront.net^
 
 # Common Function Sites
 @@||ntp.org^
@@ -43,6 +44,15 @@
 @@||cdn.megadata.co.kr^$important
 @@||data.iana.org^$important
 @@||op1top.com^$important
+@@||data-api.connectivityassistant.com^$important
+@@||api.weathercn.com^$important
+@@||gllto2.glpals.com^$important
+@@||gllto1.glpals.com^$important
+@@||skt-prd.connectrcs.com^$important
+@@||aom.sp.sktelecom.com^$important
+@@||auth.prd.planetad.co.kr^$important
+@@||osfsr.lenovomm.com^$important
+@@||skcdn.net^
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
 
@@ -57,6 +67,9 @@
 @@||digicert.com^$important
 @@||ocsp.entrust.net^$important
 @@||globalsign.com^
+@@||ocsp.usertrust.com^$important
+@@||ocsp.comodoca.com^
+@@||us-auth2.samsungosp.com^$important
 
 # Naver
 ||naver.com^
@@ -85,6 +98,17 @@
 @@logins.naver.com^
 @@apis.naver.com^
 @@nidlogin.naver.com^
+@@||tivan.naver.com^$important
+@@||api.nrc.naver.com^$important
+@@||terms.naver.com.nheos.com^$important
+@@||dthumb-phinf.pstatic.net^$important
+@@||s.pstatic.net.nheos.com^$important
+@@||ac-dict.naver.com^$important
+@@||static.nid.naver.com.nheos.com^$important
+@@||kr1-cc.naver.com.nfront.nheos.com^$important
+@@||sm-waf-lb-16-6690352-2a56c6c4c307.kr.lb.naverncp.com^$important
+@@||kr1-lcs.naver.com.nfront.nheos.com^$important
+@@||pstatic.net.dn.gscdn.net^$important
 ||blog.naver.com.nheos.com^$important
 ||image-comic.pstatic.net^$important
 ||naverwebtoon-phinf.pstatic.net^$important
@@ -105,12 +129,24 @@
 ||recoshopping.naver.com.nheos.com^$important
 ||shopsquare.naver.com.nheos.com^$important
 
+@@||e6030.e73.akamaiedge.net^$important
+@@||e6410.d.akamaiedge.net^$important
+@@||a455.w73.akamai.net^$important
+@@||e2671.a.akamaiedge.net^$important
+@@||jp1-nf.naver.com.akadns.net^$important
+@@||a1988.dscw39.akamai.net^$important
+@@||a1928.dscw39.akamai.net^$important
+@@||e673.dsce9.akamaiedge.net^$important
+@@||a652.d.akamai.net^$important
+@@||a1744.dscw154.akamai.net^$important
+
 # Daum Kakao ####
 @@||tts-dic.daum.net^
 @@||dic.daum.net^
 @@||100.daum.net^
 @@||dic.daum.net^
 @@||t1.daumcdn.net^
+@@||t1.kakaocdn.net^$important
 ||onkakao.net
 ||daumcdn.net^
 ||daum.net^
@@ -149,10 +185,16 @@ play.orbi.kr$important
 @@||file.kollus.com.queniuaa.com^$important
 @@||new-aquadrm.drm.cdnetworks.co.kr.wtxcdn.com^$important
 @@||_8389._https.proxy.catoms.net^$important
+@@||catoms.com^$important
+@@||sdk.iad-05.braze.com^$important
+@@||n2s.co.kr^$important
+@@||catoms.net^$important
+@@||symcb.com^$important
+
 
 # Vimeo Player Services
 @@||player.vimeo.com^$important
-||player.vimeo.com.cdn.cloudflare.net^$important
+@@||player.vimeo.com.cdn.cloudflare.net^
 
 # EBS Family
 @@||ebsi.co.kr^
@@ -327,9 +369,14 @@ play.orbi.kr$important
 @@||file.megastudy.net.gtmc.hscdn.com^$important
 @@||irontrain.co.kr^$important
 @@||yeolpumta-ko.firebaseio.com^$important
+@@||picf.tgclab.com^$important
 ||tgclab.com^
+@@||www.vocacoca.com^$important
+@@||tool.cozci.com^$important
 @@||goodnotes.com^$important
 @@||vicleague.com^$important
+@@||hyperclass.co.kr^
+@@||hyperacademy.co.kr^
 ||news.seoul.go.kr^$important
 
 # Google Services
@@ -349,16 +396,42 @@ play.orbi.kr$important
 @@||accounts.google.com^
 @@||apis.google.com^
 @@||clients6.google.com^
+@@||clients.l.google.com^$important
+@@||alt1-mtalk.google.com^$important
+@@||alt3-mtalk.google.com^$important
+@@||alt4-mtalk.google.com^$important
+@@||time.android.com^$important
+@@||alt5-mtalk.google.com^$important
+@@||alt6-mtalk.google.com^$important
+@@||play-fe.googleapis.com^$important
+@@||alt8-mtalk.google.com^$important
+@@||alt7-mtalk.google.com^$important
+@@||clients7.google.com^$important
+@@||clients8.google.com^$important
+@@||android.clients.google.com^$important
+@@||ggpht.com^$important
+@@||mtalk.google.com^$important
+@@||alt2-mtalk.google.com^$important
+@@||time.google.com^$important
+@@||clients1.google.com^$important
+@@||clients2.google.com^$important
+@@||clients5.google.com^$important
+@@||clients3.google.com^$important
+@@||clients4.google.com^$important
+@@||discover-pa.googleapis.com^$important
+@@||b1.nel.goog^$important
+@@||play.googleapis.com^$important
+@@||people-pa.googleapis.com^$important
+@@||lh3.googleusercontent.com^$important
+@@||google-ohttp-relay-safebrowsing.fastly-edge.com^$important
 ||google.it^
 ||analytics.google.com^$important
-||googlevideo.com^
 ||mobilemaps-pa-gz.googleapis.com^$important
 ||mobilemaps.googleapis.com^$important
 ||maps-pa.googleapis.com^$important
 ||gvt3.com^
 ||google-ohttp-relay-safebrowsing.fastly-edge.com^$important
 ||ohttp-relay1.fastly-edge.com^$important
-||youtubei.googleapis.com^$important
 ||nearbysharing-pa.googleapis.com^$important
 ||instantmessaging-pa.googleapis.com^$important
 ||playatoms-pa.googleapis.com^$important
@@ -388,10 +461,11 @@ play.orbi.kr$important
 ||google-ohttp-relay-safebrowsing.fastly-edge.com^$important
 ||googleleadservices.com^
 
-
 ######## YouTube YouTube Youtube #########
 ||yimg.com^$important
-
+||ytimg.com^
+||youtubei.googleapis.com^$important
+||googlevideo.com^
 
 ### Netflix Netflix #########
 ||netflix.com^
@@ -415,6 +489,8 @@ play.orbi.kr$important
 @@||self.events.data.microsoft.com^$important
 @@||my.microsoftpersonalcontent.com^$important
 @@||ctldl.windowsupdate.com^$important
+@@||download.windowsupdate.com^$important
+@@||www.msftconnecttest.com^$important
 ||bing.com^
 ||mail.live.com^$important
 ||outlook.live.com^$important
@@ -432,7 +508,8 @@ play.orbi.kr$important
 ||c-bing-com.ax-0001.ax-msedge.net^$important
 ||onedriveclucproddm20036.blob.core.windows.net^$important
 ||storage.live.com^$important
-
+||skydrive.wns.windows.com^
+||onedrive.live.com^
 
 # Adobe Services
 @@||adobe.io^$important
@@ -451,7 +528,6 @@ play.orbi.kr$important
 ||identity.cloudflareclient.com^$important
 ||cloudflare-dns.com^
 ||privacy-gateway.cloudflare.com^$important
-
 @@||cloudfront.net^
 
 # Firesn
@@ -477,6 +553,45 @@ play.orbi.kr$important
 @@||ocsp.apple.com^$important
 @@||ocsp2.g.aaplimg.com^$important
 @@||mzstatic.com^
+@@||updates.cdn-apple.com^$important
+@@||token.safebrowsing.apple^$important
+@@aidc.origin-apple.com.akadns.net^
+@@||apple.com.akadns.net^
+@@||*.aaplimg.com^
+@@||ls-apple.com.akadns.net^
+@@||idms-apple.com^
+@@||gdmf.apple.com^
+@@pancake.apple.com^
+@@captive.apple.com^
+@@push.apple.com^
+@@crl.apple.com^
+@@api.push.apple.com^$important
+@@init.push.apple.com^$important
+@@gateway.push.apple.com^$important
+@@init.ess.apple.com^$important
+@@||configuration.apple.com^$important
+@@||ocsp2-lb.apple.com.akadns.net^$important
+@@||init.push-apple.com.akadns.net^$important
+@@||fpinit-eu.edge-itunes-apple.com.akadns.net^$important
+@@||gateway.icloud.com^$important
+@@||gsa.apple.com^$important
+@@||cl3.apple.com^$important
+@@||pds.ess.apple.com^$important
+@@||kt-prod.ess.apple.com^$important
+@@||gsa.idms-apple.com.akadns.net^$important
+@@||gsas.apple.com^$important
+@@||gsas.idms-apple.com.akadns.net^$important
+@@||gateway.fe2.apple-dns.net^$important
+@@||query.ess.apple.com^$important
+@@||query.ess-apple.com.akadns.net^$important
+@@||valid.apple.com^$important
+@@||cl3.g.aaplimg.com^$important
+@@||time.asia.apple.com^$important
+@@||publicassets.cdn-apple.com^
+@@||netcts.cdn-apple.com^
+@@||pancake.cdn-apple.com.akadns.net^$important
+||doh.dns.apple.com^$important
+||mask.apple.com^$important
 ||mail.me.com^$important
 ||mail.me.com.akadns.net^$important
 ||mask.icloud.com^$important
@@ -527,6 +642,16 @@ play.orbi.kr$important
 ||_aaplcache4._tcp.firesn.com^$important
 ||_aaplcache1._tcp.firesn.com^$important
 ||_aaplcache3._tcp.firesn.com^$important
+||gs.apple.com^$important
+||api.apple-toolkit.com^$important
+||gs.apple.com.v.aaplimg.com$important
+||*.push.apple.com^$important
+||*.itunes.apple.com^$important
+||ppq.apple.com^$important
+||audiocontentdownload.apple.com^$important
+||download.developer.apple.com^$important
+||playgrounds-assets-cdn.apple.com^$important
+||playgrounds-cdn.apple.com^$important
 
 # Instagram
 /instagram/$important
@@ -557,5 +682,3 @@ play.orbi.kr$important
 ||telemetry.soundcloud.com.firesn.com^$important
 ||app.adjust.com^$important
 ||slack.com^
-
-
