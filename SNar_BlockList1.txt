@@ -1,3 +1,11 @@
+##### Muse Include ####
+@@||localhost^@important
+@@||adguard.local^@important
+@@||neverssl.com^
+@@||_8002._https.snacademyfiresn.com^$important
+@@||snacademyfiresn.com^$important
+||*^
+
 # SN Academy
 @@||sn-timetable.web.app^
 @@||snacademy.co.kr^
