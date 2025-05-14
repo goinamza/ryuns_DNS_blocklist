@@ -27,6 +27,7 @@ d1b98g8hmfhkbr.cloudfront.net
 dm5kn67yecwhs.cloudfront.net
 d1fpdhao7f8ux5.cloudfront.net
 d1mz7hcv7etrz4.cloudfront.net
+d1v05pk7kuguzq.cloudfront.net
 
 # VPN
 expressvpn.com
