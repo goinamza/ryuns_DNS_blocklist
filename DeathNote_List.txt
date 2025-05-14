@@ -25,7 +25,6 @@ d3kcmtojl2di5h.cloudfront.net
 d1b98g8hmfhkbr.cloudfront.net
 dm5kn67yecwhs.cloudfront.net
 d1fpdhao7f8ux5.cloudfront.net
-
 # VPN
 innovativeconnecting.zendesk.com
 interconnecting.com
