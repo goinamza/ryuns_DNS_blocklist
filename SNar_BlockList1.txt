@@ -585,7 +585,6 @@ play.orbi.kr$important
 ||identity.cloudflareclient.com^$important
 ||cloudflare-dns.com^
 ||privacy-gateway.cloudflare.com^$important
-@@||cloudfront.net^
 
 # Firesn
 @@||firesn.com^
