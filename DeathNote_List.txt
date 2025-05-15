@@ -239,6 +239,8 @@ skypecdn.com
 telemetry.skype.com
 pipe.skype.com
 diagnostics.skype.com
+# google
+play.googleapis.com
 youtube.com
 www.youtube.com
 m.youtube.com
