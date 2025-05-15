@@ -188,7 +188,7 @@
 @@||a455.w73.akamai.net^$important
 @@||e2671.a.akamaiedge.net^$important
 @@||jp1-nf.naver.com.akadns.net^$important
-@@||a1988.dscw39.akamai.net^$important
+
 @@||a1928.dscw39.akamai.net^$important
 @@||e673.dsce9.akamaiedge.net^$important
 @@||a652.d.akamai.net^$important
@@ -201,6 +201,8 @@
 @@||dic.daum.net^
 @@||t1.daumcdn.net^
 @@||t1.kakaocdn.net^$important
+@@t1.daumcdn.net.edgesuite.net^$important
+@@||a1988.dscw39.akamai.net^$important
 ||onkakao.net
 ||daumcdn.net^
 ||daum.net^
@@ -547,7 +549,9 @@ play.orbi.kr$important
 @@||my.microsoftpersonalcontent.com^$important
 @@||ctldl.windowsupdate.com^$important
 @@||download.windowsupdate.com^$important
+@@||a767.dscg3.akamai.net^$important
 @@||www.msftconnecttest.com^$important
+@@||ax-msedge.net^$important
 ||bing.com^
 ||mail.live.com^$important
 ||outlook.live.com^$important
