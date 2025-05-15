@@ -15,21 +15,6 @@ dns101.ovh.net
 fi.doh.dns.snopyta.org
 # Real_DNS_VPN_Attempts ##########################
 www.nexthop.onl
-d30fuo9j5370uc.cloudfront.net
-d127n5jiwb3j0b.cloudfront.net
-dnh523js9661q.cloudfront.net
-dyl98pldxvypl.cloudfront.net
-d3byjucwe7ytyp.cloudfront.net
-dqftc2wt1nb48.cloudfront.net
-d38iuo7puywvw.cloudfront.net
-dls8gsji1bvz2.cloudfront.net
-d3kcmtojl2di5h.cloudfront.net
-d1b98g8hmfhkbr.cloudfront.net
-dm5kn67yecwhs.cloudfront.net
-d1fpdhao7f8ux5.cloudfront.net
-d1mz7hcv7etrz4.cloudfront.net
-d1v05pk7kuguzq.cloudfront.net
-d1tru86qrby720.cloudfront.net
 
 # VPN
 expressvpn.com
