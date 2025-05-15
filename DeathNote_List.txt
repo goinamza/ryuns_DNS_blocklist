@@ -111,6 +111,7 @@ hackread.com
 linkedin.com
 # APPLE~~~!!!!!
 doh.dns.apple.com
+itunes.apple.com
 mask.apple.com
 mask.icloud.com
 mask-h2.icloud.com
