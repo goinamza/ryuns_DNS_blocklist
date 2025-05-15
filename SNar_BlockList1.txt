@@ -138,6 +138,8 @@
 @@||o.pki.goog^$important
 @@||crl.pki.goog^$important
 
+
+
 # Naver
 ||naver.com^
 @@||dict.naver.com^
@@ -261,6 +263,7 @@ play.orbi.kr$important
 @@||_8389._https.proxy.catoms.net^$important
 @@||catoms.com^$important
 @@||sdk.iad-05.braze.com^$important
+@@||sdk.iad-05.braze.com.cdn.cloudflare.net^$important
 @@||n2s.co.kr^$important
 @@||catoms.net^$important
 @@||symcb.com^$important
