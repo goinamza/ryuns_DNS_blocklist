@@ -60,6 +60,10 @@
 @@||auth.prd.planetad.co.kr^$important
 @@||osfsr.lenovomm.com^$important
 @@||skcdn.net^
+@@||gos-gsp.io^$important
+@@||api.ipify.org^$important
+@@||xtracloud.net^$important
+@@||amazonaws.com^
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
 
@@ -72,22 +76,21 @@
 # Certification Services
 @@||digicert.com^$important
 @@||ocsp.entrust.net^$important
-@@||globalsign.com^
+@@||globalsign.com^$important
+@@||globalsign.net^$important
 @@||ocsp.usertrust.com^$important
-@@||ocsp.comodoca.com^
 @@||us-auth2.samsungosp.com^$important
 @@||comodoca.com.cdn.cloudflare.net^$important
 @@||globalsign.map.fastly.net^$important
 @@||verisign.com^$important
 @@||globalsigncdn.com.cdn.cloudflare.net^$important
 @@||sectigo.com^$important
+@@||sectigo.com.edgesuite.net^$important
 @@||trust-provider.com^$important
-@@||comodoca.com^$important
-@@||crl.pki.goog^$important
-@@||crl.thawte.com^$important
+@@||comodoca.com^
+@@||thawte.com^
 @@||ts-crl.ws.symantec.com^$important
 @@||crl.quovadisglobal.com^$important
-@@||globalsign.net^$important
 @@||letsencrypt.org^$important
 @@||usertrust.com^$important
 @@||quovadisglobal.com^$important
@@ -97,10 +100,10 @@
 @@||geotrust.com^$important
 @@||certificate-authority.com^$important
 @@||identrust.com^$important
-@@||trustwave.com^$important
+@@||trustwave.com^
 @@||ocsp.pki.goog^$important
 @@||ocsp.omniroot.com^$important
-@@||d-trust.net^$important
+@@||d-trust.net^
 @@||crl.buypass.com^$important
 @@||ocsp.buypass.com^$important
 @@||crl.actalis.it^$important
@@ -124,6 +127,16 @@
 @@||amazontrust.com^$important
 @@||security.iot.i.tplinknbu.com^$important
 @@||secb2b.com^$important
+@@||comodo.net^$important
+@@||comodo.com^$important
+@@||positivessl.com^$important
+@@||ocsp.intel.com^$important
+@@||cacerts.thawte.com^$important
+@@||valid.origin-apple.com.akadns.net^$important
+@@||pki.goog^$important
+@@||ocsp.pki.goog^$important
+@@||o.pki.goog^$important
+@@||crl.pki.goog^$important
 
 # Naver
 ||naver.com^
@@ -163,6 +176,9 @@
 @@||sm-waf-lb-16-6690352-2a56c6c4c307.kr.lb.naverncp.com^$important
 @@||kr1-lcs.naver.com.nfront.nheos.com^$important
 @@||pstatic.net.dn.gscdn.net^$important
+@@||glad-vod.pstatic.net.stream.gscdn.net^$important
+@@||b01-kr-naver-vod.pstatic.net.topo.gscdn.net^$important
+@@||a01-g-naver-vod.akamaized.net^$important
 ||blog.naver.com.nheos.com^$important
 ||image-comic.pstatic.net^$important
 ||naverwebtoon-phinf.pstatic.net^$important
@@ -201,7 +217,7 @@
 @@||dic.daum.net^
 @@||t1.daumcdn.net^
 @@||t1.kakaocdn.net^$important
-@@t1.daumcdn.net.edgesuite.net^$important
+@@||t1.daumcdn.net.edgesuite.net^$important
 @@||a1988.dscw39.akamai.net^$important
 ||onkakao.net
 ||daumcdn.net^
@@ -209,6 +225,8 @@
 ||kgns1.com^
 ||kgns3.com^
 ||kakaoentcdn.com^
+||talk-pilsner.kakao.com.firesn.com^$important
+||ticket-loco.kakao.com.firesn.com^$important
 
 # Orbi
 @@||academy.orbi.kr^
