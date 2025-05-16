@@ -463,6 +463,7 @@ play.orbi.kr$important
 @@||vicleague.com^$important
 @@||hyperclass.co.kr^
 @@||hyperacademy.co.kr^
+@@||horaeng.com^$important
 ||news.seoul.go.kr^$important
 
 # Google Services
@@ -743,6 +744,8 @@ play.orbi.kr$important
 /instagram/$important
 ||scontent-ssn1-1.cdninstagram.com.firesn.com^$important
 ||test-gateway.instagram.com.firesn.com^$important
+# Instagram storiesig
+||storiesig.info^
 
 # Samsung Services
 @@||orcaservice.samsungmobile.com^$important
