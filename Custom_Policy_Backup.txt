@@ -110,7 +110,7 @@ t.co
 ||b1.nel.goog^$important
 ||cm.igaw.io^$important
 
-##### VPN Sites Must Die ######
+##### VPN Sites Must Die VPN은 주로 여기서 죽입니다. ######
 ||vpn^$important
 /vpn/$important
 ||expressvpn.com^$important
