@@ -32,6 +32,7 @@
 ||lb._dns-sd._udp.firesn.com^$important
 ||b._dns-sd._udp.firesn.com^$important
 ||db._dns-sd._udp.firesn.com^$important
+||dns11.quad9.net^$important
 
 # Common Function Sites 일반적 동작에 필요한 싸이트들을 집어넣습니다.
 @@||ntp.org^
@@ -550,6 +551,7 @@ play.orbi.kr$important
 ######## YouTube YouTube Youtube #########
 ||yimg.com^$important
 ||ytimg.com^
+||yt3.ggpht.com^$important
 ||youtubei.googleapis.com^$important
 ||googlevideo.com^
 
@@ -611,11 +613,18 @@ play.orbi.kr$important
 ||kr-kst.exp.fastly-masque.net^$important
 ||fastly-masque.net^$important
 @@||cloudflare.com^
+@@||sdk.iad-05.braze.com.cdn.cloudflare.net^$important
 ||cloudflareportal.com^
 ||engage.cloudflareclient.com^$important
 ||identity.cloudflareclient.com^$important
 ||cloudflare-dns.com^
 ||privacy-gateway.cloudflare.com^$important
+
+####### Cloudfront 특별관리. 이투스가 cloudfront에다가 트롤짓을 해놓았기 때문에 추이를 주시하며 특별 관리합니다.
+# 준비 완료되면 언제든 ON 합니다. 
+#/^d[0-9a-z]{2,}\.cloudfront\.net$/
+@@||*.cloudfront.net^
+#||d*.cloudfront.net^$important
 
 # Firesn
 @@||firesn.com^
