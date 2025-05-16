@@ -1,4 +1,5 @@
-# DNS
+# 여기에 입력되면 해당 도메인의 아이피 주소를 찾아서 막습니다.
+# DNS 추가적으로 알려진 DNS 도메인들
 g.dns.kr
 doh.nsone.net
 doh.cleanbrowsing.org
@@ -17,7 +18,7 @@ fi.doh.dns.snopyta.org
 # Real_DNS_VPN_Attempts ##########################
 www.nexthop.onl
 
-# VPN
+# VPN VPN 관련 반드시 막아야 될 도메인을 입력
 expressvpn.com
 api.expressvpn.com
 www.expressvpn.com
@@ -107,7 +108,7 @@ ext.surfshark.com
 nordcdn.com
 downloads77-windows.nordcdn.com
 
-# APPLE~~~!!!!!
+# APPLE~~~!!!!! 애플 관련 거의 고정인 IP 차단이 필요한 경우에만 입력
 doh.dns.apple.com
 itunes.apple.com
 mask.apple.com
@@ -116,7 +117,7 @@ mask-h2.icloud.com
 mask.apple-dns.net
 mask-api.icloud.com
 
-# Telegram
+# Telegram 텔레그램 아이피 차단
 telegram.org
 t.me
 core.telegram.org
