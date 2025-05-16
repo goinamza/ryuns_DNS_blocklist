@@ -1,3 +1,4 @@
+# 이것들은 대략 광고 싸이트들이고 대부분 작동은 할 것이지만 사실상 큰 필요는 없습니다.
 @@||flvs.daum.net/ad/*
 @@||betanews.net/js/ad.js
 @@||tvpot.daum.net/ad/*
