@@ -22,7 +22,7 @@
 @@||snacademy.direct.quickonnect.to^
 @@||snacademy.synology.me^
 
-# DoH MUST DIE DoH DoH DoH DoH DoH #########
+# DoH MUST DIE DoH DoH DoH DoH DoH DNS, DoH 싸이트들을 넣습니다. 무조건 차단. #########
 ||doh.cleanbrowsing.org^$important
 ||_dns-sd._udp.firesn.com^$important
 ||nextdns.io^$important
@@ -33,7 +33,7 @@
 ||b._dns-sd._udp.firesn.com^$important
 ||db._dns-sd._udp.firesn.com^$important
 
-# Common Function Sites
+# Common Function Sites 일반적 동작에 필요한 싸이트들을 집어넣습니다.
 @@||ntp.org^
 @@||nts.go.kr^
 @@||lencr.org^
@@ -72,13 +72,13 @@
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
 
-# Weather Info Services
+# Weather Info Services 날씨 관련
 @@||kr-weathernews.com^important
 @@||galaxy.kr-weathernews.com^$important
 @@||www.weather.go.kr^$important
 @@||kma.go.kr^$important
 
-# Certification Services
+# Certification Services 인증서 관련 싸이트들. 거의 무조건 허용하는게 좋습니다.
 @@||digicert.com^$important
 @@||ocsp.entrust.net^$important
 @@||globalsign.com^$important
@@ -145,7 +145,7 @@
 
 
 
-# Naver
+# Naver 네이버 fine tuning.
 ||naver.com^
 @@||dict.naver.com^
 @@||dict.naver.com.mobile^
@@ -257,7 +257,7 @@
 orbi.kr
 play.orbi.kr$important
 
-# Kollus Aqua Player
+# Kollus Aqua Player Kollus 계열 도메인들. 메가, 대성, 이투스, 시대인재 등 거의 모든 국내 학원들이 사용합니다. 누락된 것이 있으면 다 풀어줘야 합니다.
 @@||mc-kr.kollus.com^$important
 @@||c-api-kr.kollus.com^$important
 @@||kollus.com^
@@ -331,7 +331,7 @@ play.orbi.kr$important
 @@||inclass-file.s3.ap-northeast-2.amazonaws.com^$important
 @@||inclass.notion.site^$important
 
-# STUDY WebSites
+# STUDY WebSites 일반적인 학습 관련 싸이트들 모음입니다. 규모가 크거나 fine tuning이 필요한 것들은 따로 빼서 운용해도 됩니다. 
 @@||yigam.co.kr^
 @@||kihoedu.com^
 @@||rawgit.com^
@@ -747,7 +747,7 @@ play.orbi.kr$important
 # Samsung Services
 @@||orcaservice.samsungmobile.com^$important
 
-##### Etc. ###############
+##### Etc. 기타 분류하기 애매하거나 잘 모르는 것들은 여기에 놓았는데 확인이 되면 다른 곳으로 옮겨도 됩니다. ###############
 @@||polka.typekit.com^$important
 @@||sfx.ms^
 @@||bootstrapcdn.com^
