@@ -317,12 +317,24 @@ analytics.twitter.com
 ads-twitter.com
 t.co
 
-# App Stores 
+# App Stores  여기에 어플 다운받는 스토어들 핵심 도메인들을 적으면 아이피가 차단됩니다.
 onestore.co.kr	
 www.onestore.co.kr	
 m.onestore.co.kr	
 search.onestore.co.kr	
 cdn.onestore.co.kr
+#AltStore 여기에 샵으로 목록이 있는 싸이트들 찾아서 넣어야 함.
+#Cydia
+#TweakBox
+#AppValley
+#AppCake
+#BuildStore
+#Scarlet
+#AltStore PAL
+#Tencent Appstore
+#GetJar
+#Mobango
+#Opera Mobile Store
 
 # Namu Wiki
 namu.wiki	
