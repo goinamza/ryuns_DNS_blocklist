@@ -95,6 +95,17 @@ thehackernews.com
 sophos.com
 hackread.com
 linkedin.com
+unicorn-soft.com
+api.unicorn-soft.com
+nordvpn.com
+applytics.nordvpn.com
+vpn-api.proton.me
+expressvpn.works
+expressapisv2.net
+api.tunnelbear.com
+ext.surfshark.com
+nordcdn.com
+downloads77-windows.nordcdn.com
 
 # APPLE~~~!!!!!
 doh.dns.apple.com
