@@ -94,6 +94,7 @@ thehackernews.com
 sophos.com
 hackread.com
 linkedin.com
+
 # APPLE~~~!!!!!
 doh.dns.apple.com
 itunes.apple.com
@@ -102,6 +103,7 @@ mask.icloud.com
 mask-h2.icloud.com
 mask.apple-dns.net
 mask-api.icloud.com
+
 # Telegram
 telegram.org
 t.me
@@ -124,43 +126,73 @@ mtproto.telegram.org
 proxy.telegram.org
 cloudflare.telegram.org
 cdn-telegram.org
+
 # Instagram
 instagram.com
 www.instagram.com
+secure.instagram.com	
+accounts.instagram.com	
+login.instagram.com	
 graph.instagram.com
 gateway.instagram.com
+api.instagram.com
 i.instagram.com
 b.instagram.com
 z-p3.instagram.com
 z-p4.instagram.com 
 cdninstagram.com
 scontent.cdninstagram.com
+scontent.xx.fbcdn.net
+scontent-lax3-1.cdninstagram.com
+scontent-lax3-2.cdninstagram.com
 scontent-icn1-1.fna.fbcdn.net
 scontent-icn1-2.fna.fbcdn.net
 scontent-icn2-1.fna.fbcdn.net
 instagram.fdel1-1.fna.fbcdn.net
+igcdn.com
+mqtt.instagram.com
+edge-mqtt.instagram.com
+test-gateway.instagram.com
+i-fallback.instagram.com
+ads.instagram.com
+
 # Facebook
 facebook.com
+m.facebook.com
 www.facebook.com
+accounts.facebook.com	
 graph.facebook.com
 graph-fallback.facebook.com
 web.facebook.com
 fbcdn.net
+cdn.fbsbx.com	
 fb.com
 login.facebook.com
 secure.facebook.com
+lookaside.facebook.com	
 api.facebook.com
+b-api.facebook.com	
 connect.facebook.net
+upload.facebook.com	
 l.instagram.com
 business.instagram.com
-scontent-lax3-1.cdninstagram.com
-scontent-lax3-2.cdninstagram.com
+edge-chat.facebook.com	
+scontent.xx.fbcdn.net	
 static.xx.fbcdn.net
 static-icn1-1.xx.fbcdn.net
 static-icn1-2.xx.fbcdn.net
 static-hkg4-1.xx.fbcdn.net
+mqtt.facebook.com	
 mqtt-ig-p4.facebook.com
 edge-mqtt.facebook.com
+video.xx.fbcdn.net
+messenger.com
+facebookpixel.com
+events.facebook.com	
+ads.facebook.com
+business.facebook.com	
+creative.ak.fbcdn.net
+
 # Tiktok
 tiktok.com
 api.tiktokv.com
@@ -187,6 +219,8 @@ s16.tiktokcdn.com
 security.byteoversea.com
 api-va.tiktokv.com
 api-h2.tiktokv.com
+
+# Kakao, Kakaotalk
 katalk.kakao.com
 talk.kakao.com
 talk-pilsner.kakao.com
@@ -209,6 +243,8 @@ k.kakaocdn.net
 t1.kakaocdn.net
 ad.kakao.com
 business.kakao.com
+
+# Microsoft, Skype, live
 web.skype.com
 api.skype.com
 client-s.gateway.messenger.live.com
@@ -225,7 +261,8 @@ skypecdn.com
 telemetry.skype.com
 pipe.skype.com
 diagnostics.skype.com
-# google
+
+# google Youtube
 play.googleapis.com
 youtube.com
 www.youtube.com
@@ -253,50 +290,8 @@ rr1---sn-3u-bh2zs.googlevideo.com
 rr5---sn-3u-bh2ze.googlevideo.com
 rr2---sn-npoeens7.googlevideo.com
 rr7---sn-3u-bh2l6.googlevideo.com
-www.facebook.com	
-m.facebook.com	
-login.facebook.com	
-accounts.facebook.com	
-graph.facebook.com
-api.facebook.com	
-b-api.facebook.com	
-fbcdn.net
-cdn.fbsbx.com	
-scontent.xx.fbcdn.net	
-lookaside.facebook.com	
-messenger.com
-edge-chat.facebook.com	
-mqtt.facebook.com	
-edge-mqtt.facebook.com	
-video.xx.fbcdn.net
-upload.facebook.com	
-facebookpixel.com
-connect.facebook.net	
-events.facebook.com	
-ads.facebook.com
-business.facebook.com	
-creative.ak.fbcdn.net
-instagram.com	
-www.instagram.com	
-secure.instagram.com	
-accounts.instagram.com	
-login.instagram.com	
-i.instagram.com
-graph.instagram.com
-api.instagram.com
-b.i.instagram.com
-www.instagram.com
-cdninstagram.com
-scontent.cdninstagram.com
-scontent.xx.fbcdn.net
-igcdn.com
-mqtt.instagram.com
-edge-mqtt.instagram.com
-test-gateway.instagram.com
-i-fallback.instagram.com
-connect.facebook.net
-facebookpixel.com
-ads.instagram.com
+
+# Thread, X, Twitter
 threads.net	
 www.threads.net	
 login.threads.net	
@@ -321,11 +316,15 @@ sip.twimg.com
 analytics.twitter.com
 ads-twitter.com
 t.co
+
+# App Stores 
 onestore.co.kr	
 www.onestore.co.kr	
 m.onestore.co.kr	
 search.onestore.co.kr	
 cdn.onestore.co.kr
+
+# Namu Wiki
 namu.wiki	
 www.namu.wiki	
 namu.moe
