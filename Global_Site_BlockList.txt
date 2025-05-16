@@ -1,3 +1,5 @@
+# 기본적으로 default 차단을 하려는 메인 도메인들을 입력합니다. 다른 텍스트에서 세부 조정을 할 수 있습니다.
+# 애플은 특수 케이스입니다.
 ||search.brave.com^
 ||qwant.com^
 ||startpage.com^
