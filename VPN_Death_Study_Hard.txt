@@ -1,3 +1,4 @@
+# 기본적인 VPN 도메인 차단 리스트입니다. 강력한 차단은 Custom_Policy_Backup 이나 SNar를 이용하세요.
 /.zendesk/
 ||innovativeconnecting.zendesk.com^
 ||interconnecting.com^
