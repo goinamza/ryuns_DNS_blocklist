@@ -13,6 +13,7 @@ dns.google.com
 paydns.weixin.qq.com
 dns101.ovh.net
 fi.doh.dns.snopyta.org
+
 # Real_DNS_VPN_Attempts ##########################
 www.nexthop.onl
 
@@ -324,6 +325,8 @@ m.onestore.co.kr
 search.onestore.co.kr	
 cdn.onestore.co.kr
 #AltStore 여기에 샵으로 목록이 있는 싸이트들 찾아서 넣어야 함.
+altstore.io
+altserver.io
 #Cydia
 #TweakBox
 #AppValley
