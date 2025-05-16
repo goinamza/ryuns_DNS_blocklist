@@ -1,3 +1,4 @@
+#여기 있는 것들은 참고용이고, 적용하지 않은 것들입니다. 애플은 특별 관리 대상입니다.
 b._dns-sd._udp.firesn.com
 doh.dns.apple.com
 gateway.fe2.apple-dns.net
