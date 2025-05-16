@@ -110,16 +110,21 @@ t.co
 ||b1.nel.goog^$important
 ||cm.igaw.io^$important
 
-##### VPN Sites ######
-||freevpnapp.co.uk$important
+##### VPN Sites Must Die ######
 ||vpn^$important
 /vpn/$important
 ||expressvpn.com^$important
+||nexthop.onl^$important
+||expressapisv2.net^$important
+||expressvpn.works^$important
+||expressapisv2.net^$important
 ||touchvpn.net^$important
 ||surfshark.com^$important
+||ext.surfshark.com^$important
 ||privateinternetaccess.com^$important
 ||windscribe.com^$important
 ||tunnelbear.com^$important
+||api.tunnelbear.com^$important
 ||mullvad.net^$important
 ||hide.me^$important
 ||ipvanish.com^$important
@@ -132,10 +137,16 @@ t.co
 ||browsec.com^$important
 ||finevpn.org^$important
 ||freevpnapp.co.uk^$important
+||freevpnapp.co.uk$important
 ||stable-vpn.com^$important
 ||dns11.quad9.net^$important
-||nexthop.onl^$important
-||expressapisv2.net^$important
+||unicorn-soft.com^$important
+||api.unicorn-soft.com^$important
+||nordvpn.com^$important
+||nordcdn.com^$important
+||downloads77-windows.nordcdn.com^$important
+||applytics.nordvpn.com^$important
+||vpn-api.proton.me^$important
 
 #### Not Bad but Deny ####
 ||mk.co.kr^$important
