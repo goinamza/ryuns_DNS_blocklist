@@ -145,6 +145,9 @@
 #unicorn-adblock.zendesk.com
 216.198.53.1
 #
+# Proton VPN IPs
+79.110.55.2
+
 # expressVPN nexthop.onl IP리스트. 적발된 IP + 대역 차단
 #162.255.119.40/24
 # MATUTA PC의 성과 목록
