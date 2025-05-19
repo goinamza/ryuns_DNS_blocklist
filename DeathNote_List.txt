@@ -330,6 +330,13 @@ analytics.twitter.com
 ads-twitter.com
 t.co
 
+# Netflix
+www.netflix.com
+logs.netflix.com
+push.prod.netflix.com
+android.prod.ftl.netflix.com
+ios.prod.ftl.netflix.com
+
 # App Stores  여기에 어플 다운받는 스토어들 핵심 도메인들을 적으면 아이피가 차단됩니다.
 onestore.co.kr	
 www.onestore.co.kr	
