@@ -165,7 +165,7 @@ t.co
 ||aptoide.com^
 ||f-droid.org^
 ||reddit.map.fastly.net^$important
-||stags.bluekai.com.firesn.com^$important
+||stags.bluekai.com^$important
 ||nateimg.co.kr^
 ||karrotmarket.com^
 /market/$important
