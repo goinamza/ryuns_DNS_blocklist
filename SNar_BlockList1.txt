@@ -66,6 +66,9 @@
 @@||api.ipify.org^$important
 @@||xtracloud.net^$important
 @@||amazonaws.com^
+@@||concdn.com^
+@@||cab.axissoft.gscdn.com^$important
+@@||hbedu.gscdn.com^$important
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
 
@@ -183,6 +186,9 @@
 @@||glad-vod.pstatic.net.stream.gscdn.net^$important
 @@||b01-kr-naver-vod.pstatic.net.topo.gscdn.net^$important
 @@||a01-g-naver-vod.akamaized.net^$important
+@@||dic-phinf.pstatic.net.nheos.com^$important
+||safebrowsing.naver.com^$important
+||livecloud-slit.pstatic.net^$important
 ||blog.naver.com.nheos.com^$important
 ||image-comic.pstatic.net^$important
 ||naverwebtoon-phinf.pstatic.net^$important
@@ -239,9 +245,7 @@
 @@||docs.orbi.kr^
 @@||login.orbi.kr^
 @@||m.class.orbi.kr^
-@@||play.orbi.kr^
 @@||s3-class.orbi.kr^
-@@||s3-play.orbi.kr^
 @@||s3-units.orbi.kr^
 @@||s3.orbi.kr^
 @@||spica-assets.orbi.kr^
@@ -250,7 +254,8 @@
 @@||class.orbi.kr^
 @@||login.orbi.kr^
 orbi.kr
-play.orbi.kr$important
+||s3-play.orbi.kr^$important
+||play.orbi.kr$important
 
 # Kollus Aqua Player Kollus 계열 도메인들. 메가, 대성, 이투스, 시대인재 등 거의 모든 국내 학원들이 사용합니다. 누락된 것이 있으면 다 풀어줘야 합니다.
 @@||mc-kr.kollus.com^$important
@@ -336,6 +341,11 @@ play.orbi.kr$important
 @@||conects.com^
 @@||etoos.com^
 @@||etoos.gscdn.com^
+@@||etoos.net^$important
+@@||hiqri.ai^$important
+@@||auth.neoneo.co.kr^$important
+@@||sf.symcd.com^$important
+@@||linker.ac^$important
 @@||mimacstudy.com^
 @@||megals.co.kr^
 @@||megastudy.net^
@@ -459,6 +469,11 @@ play.orbi.kr$important
 @@||hyperclass.co.kr^
 @@||hyperacademy.co.kr^
 @@||horaeng.com^$important
+@@||milkt.co.kr^
+@@||kimstudy.com^
+@@||place5.com^$important
+@@||u.expo.dev^$important
+@@||kimstudy.blob.core.windows.net^$important
 ||news.seoul.go.kr^$important
 
 # Google Services
@@ -537,6 +552,12 @@ play.orbi.kr$important
 ||ohttp-relay1.fastly-edge.com^$important
 ||www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com^
 ||googleleadservices.com^
+||safebrowsing.googleapis.com^$important
+||safebrowsing.google.com^$important
+||sb-ssl.google.com^$important
+||firebaseremoteconfigrealtime.googleapis.com^$important
+||firestore.googleapis.com^$important
+||firebaseremoteconfig.googleapis.com^$important
 
 ######## YouTube YouTube Youtube #########
 ||yimg.com^$important
@@ -607,7 +628,8 @@ play.orbi.kr$important
 ||cloudflareportal.com^
 ||engage.cloudflareclient.com^$important
 ||identity.cloudflareclient.com^$important
-||cloudflare-dns.com^
+||cloudflare-dns.com^$important
+||cloudflare-ech.com^important
 ||privacy-gateway.cloudflare.com^$important
 
 ####### Cloudfront 특별관리. 이투스가 cloudfront에다가 트롤짓을 해놓았기 때문에 추이를 주시하며 특별 관리합니다.
@@ -728,6 +750,11 @@ play.orbi.kr$important
 ||download.developer.apple.com^$important
 ||playgrounds-assets-cdn.apple.com^$important
 ||playgrounds-cdn.apple.com^$important
+||mask.icloud-dns.net^
+||mask-tunnel.apple.com^$important
+||safebrowsing-proxy.g.aaplimg.com^$important
+||doh.dns.apple.com.v.aaplimg.com^$important
+||safebrowsing.g.aaplimg.com^$important
 
 # Instagram
 /instagram/$important
