@@ -678,7 +678,7 @@ orbi.kr
 @@||fpinit-eu.edge-itunes-apple.com.akadns.net^$important
 @@||gateway.icloud.com^$important
 @@||gsa.apple.com^$important
-@@||cl3.apple.com^$important
+||cl3.apple.com^$important
 @@||pds.ess.apple.com^$important
 @@||kt-prod.ess.apple.com^$important
 @@||gsa.idms-apple.com.akadns.net^$important
@@ -688,7 +688,7 @@ orbi.kr
 @@||query.ess.apple.com^$important
 @@||query.ess-apple.com.akadns.net^$important
 @@||valid.apple.com^$important
-@@||cl3.g.aaplimg.com^$important
+||cl3.g.aaplimg.com^$important
 @@||time.asia.apple.com^$important
 @@||publicassets.cdn-apple.com^
 @@||netcts.cdn-apple.com^
