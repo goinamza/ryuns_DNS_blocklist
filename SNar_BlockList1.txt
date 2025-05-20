@@ -24,14 +24,10 @@
 
 # DoH MUST DIE DoH DoH DoH DoH DoH DNS, DoH 싸이트들을 넣습니다. 무조건 차단. #########
 ||doh.cleanbrowsing.org^$important
-||_dns-sd._udp.firesn.com^$important
 ||nextdns.io^$important
 ||dns.msftncsi.com^$important
 ||share-dns.com^$important
 ||share-dns.net^$important
-||lb._dns-sd._udp.firesn.com^$important
-||b._dns-sd._udp.firesn.com^$important
-||db._dns-sd._udp.firesn.com^$important
 ||dns11.quad9.net^$important
 
 # Common Function Sites 일반적 동작에 필요한 싸이트들을 집어넣습니다.
@@ -190,14 +186,12 @@
 ||blog.naver.com.nheos.com^$important
 ||image-comic.pstatic.net^$important
 ||naverwebtoon-phinf.pstatic.net^$important
-||kr-col-tcp.nelo.navercorp.com.firesn.com^$important
 ||music-phinf.pstatic.net^$important
 ||musicmeta-phinf.pstatic.net^$important
 ||cdn-vibe.pstatic.net^$important
 ||st-audiop.pstatic.net^$important
 ||dthumb-phinf.pstatic.net^$important
 ||nelo2-col.navercorp.com^$important
-||naverwebtoon-phinf.pstatic.net.firesn.com^$important
 ||shared-comic.pstatic.net^$important
 ||kream-phinf.pstatic.net^
 ||static.tagmanager.toast.com^$important
@@ -233,8 +227,8 @@
 ||kgns1.com^
 ||kgns3.com^
 ||kakaoentcdn.com^
-||talk-pilsner.kakao.com.firesn.com^$important
-||ticket-loco.kakao.com.firesn.com^$important
+||talk-pilsner.kakao.com^$important
+||ticket-loco.kakao.com^$important
 
 # Orbi
 @@||academy.orbi.kr^
@@ -536,10 +530,8 @@ play.orbi.kr$important
 ||play.google.com^$important
 ||developer.android.com^$important
 ||play.googleapis.com^$important
-||play.googleapis.com.firesn.com^$important
 ||gameswhitelisted.googleapis.com^$important
 ||play-fe.googleapis.com^$important
-||play-fe.googleapis.com.firesn.com^$important
 ||playstoregatewayadapter-pa.googleapis.com^$important
 ||prod-lt-playstoregatewayadapter-pa.googleapis.com^$important
 ||ohttp-relay1.fastly-edge.com^$important
@@ -625,13 +617,7 @@ play.orbi.kr$important
 #||d*.cloudfront.net^$important
 
 # Firesn
-@@||firesn.com^
-@@||wpad.firesn.com^$important
-||_ldap._tcp.dc._msdcs.workgroup.firesn.com^$important
-||_vlmcs._tcp.firesn.com^$important
-||_ldap._tcp.dc._msdcs.firesn.com^$important
-||app-measurement.com.firesn.com^$important
-||in.appcenter.ms.firesn.com^$important
+||*.firesn.com^
 
 # Criteo Services
 ||criteo.com^$important
@@ -732,11 +718,6 @@ play.orbi.kr$important
 ||lb-apple.com.akadns.net^$important
 ||apple.map.fastly.net^$important
 ||icloud.com.akadns.net^$important
-||_aaplcache2._tcp.firesn.com^$important
-||_aaplcache._tcp.firesn.com^$important
-||_aaplcache4._tcp.firesn.com^$important
-||_aaplcache1._tcp.firesn.com^$important
-||_aaplcache3._tcp.firesn.com^$important
 ||gs.apple.com^$important
 ||api.apple-toolkit.com^$important
 ||gs.apple.com.v.aaplimg.com$important
@@ -750,8 +731,6 @@ play.orbi.kr$important
 
 # Instagram
 /instagram/$important
-||scontent-ssn1-1.cdninstagram.com.firesn.com^$important
-||test-gateway.instagram.com.firesn.com^$important
 # Instagram storiesig
 ||storiesig.info^
 
@@ -776,6 +755,5 @@ play.orbi.kr$important
 @@||images.unsplash.com^$important
 @@||http-inputs-notion.splunkcloud.com^$important
 ||catalog.gamepass.com^$important
-||telemetry.soundcloud.com.firesn.com^$important
 ||app.adjust.com^$important
 ||slack.com^
