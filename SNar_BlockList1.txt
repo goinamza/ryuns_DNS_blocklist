@@ -647,7 +647,7 @@ play.orbi.kr$important
 @@||ocsp2.apple.com^$important
 @@||ocsp.apple.com^$important
 @@||ocsp2.g.aaplimg.com^$important
-@@||mzstatic.com^
+||mzstatic.com^$important
 @@||updates.cdn-apple.com^$important
 ||token.safebrowsing.apple^$important
 @@aidc.origin-apple.com.akadns.net^
