@@ -644,6 +644,7 @@ play.orbi.kr$important
 ||sslwidget.criteo.com^$important
 
 # APPLE MUST DIE SERVICES APPLE APPlE Apple ##################################
+@@||apple.com^
 @@||time.apple.com^$important
 @@||ocsp2.apple.com^$important
 @@||ocsp.apple.com^$important
