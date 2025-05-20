@@ -510,7 +510,6 @@ play.orbi.kr$important
 @@||b1.nel.goog^$important
 @@||people-pa.googleapis.com^$important
 @@||lh3.googleusercontent.com^$important
-@@||google-ohttp-relay-safebrowsing.fastly-edge.com^$important
 ||google.it^
 ||analytics.google.com^$important
 ||mobilemaps-pa-gz.googleapis.com^$important
@@ -545,7 +544,6 @@ play.orbi.kr$important
 ||prod-lt-playstoregatewayadapter-pa.googleapis.com^$important
 ||ohttp-relay1.fastly-edge.com^$important
 ||www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com^
-||google-ohttp-relay-safebrowsing.fastly-edge.com^$important
 ||googleleadservices.com^
 
 ######## YouTube YouTube Youtube #########
@@ -651,7 +649,7 @@ play.orbi.kr$important
 @@||ocsp2.g.aaplimg.com^$important
 @@||mzstatic.com^
 @@||updates.cdn-apple.com^$important
-@@||token.safebrowsing.apple^$important
+||token.safebrowsing.apple^$important
 @@aidc.origin-apple.com.akadns.net^
 @@||apple.com.akadns.net^
 @@||*.aaplimg.com^
