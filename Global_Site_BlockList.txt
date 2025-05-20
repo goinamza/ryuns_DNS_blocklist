@@ -92,7 +92,6 @@ icloud.com
 ||spotvnow.co.kr^
 ||melon.^
 .*melon.*
-@@||apple.com^
 static.melon.co.kr
 ||baidu.*^$important
 ||zum.com^
