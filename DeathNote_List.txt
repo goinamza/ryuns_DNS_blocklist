@@ -5,7 +5,6 @@ doh.nsone.net
 doh.cleanbrowsing.org
 affcdn.net
 qlga2.doh-json.quad9.net
-lb._dns-sd._udp.firesn.com
 dns.wexin.qq.com
 dns.msftncsi.com
 mozilla.cloudflare-dns.com
