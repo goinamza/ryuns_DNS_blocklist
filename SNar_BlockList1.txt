@@ -525,7 +525,7 @@ orbi.kr
 @@||clients6.google.com^$important
 @@||clients7.google.com^$important
 @@||clients8.google.com^$important
-||discover-pa.googleapis.com^$important
+@@||discover-pa.googleapis.com^$important
 ||b1.nel.goog^$important
 @@||people-pa.googleapis.com^$important
 @@||clients2.googleusercontent.com^
