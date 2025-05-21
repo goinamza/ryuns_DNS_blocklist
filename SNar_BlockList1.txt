@@ -494,7 +494,9 @@ orbi.kr
 @@||apis.google.com^
 @@||time.android.com^$important
 @@||clients.l.google.com^$important
+||mtalk.google.com^$important
 ||alt1-mtalk.google.com^$important
+||alt2-mtalk.google.com^$important
 ||alt3-mtalk.google.com^$important
 ||alt4-mtalk.google.com^$important
 ||alt5-mtalk.google.com^$important
@@ -504,8 +506,6 @@ orbi.kr
 ||alt7-mtalk.google.com^$important
 @@||android.clients.google.com^$important
 @@||ggpht.com^$important
-||mtalk.google.com^$important
-@@||alt2-mtalk.google.com^$important
 @@||time.google.com^$important
 @@||clients1.google.com^$important
 @@||clients2.google.com^$important
