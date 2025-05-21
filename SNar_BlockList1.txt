@@ -515,7 +515,7 @@ orbi.kr
 ||alt8-mtalk.google.com^$important
 ||alt7-mtalk.google.com^$important
 @@||android.clients.google.com^$important
-@@||ggpht.com^$important
+@@||ggpht.com^
 @@||time.google.com^$important
 @@||clients1.google.com^$important
 @@||clients2.google.com^$important
