@@ -733,7 +733,7 @@ orbi.kr
 ||gsp64-ssl.ls-apple.com.akadns.net^$important
 ||origin-apple.com.akadns.net^$important
 ||ess-apple.com.akadns.net^$important
-||push-apple.com.akadns.net^$important
+||*.push-apple.com.akadns.net^$important
 ||apple-relay.fastly-edge.com^$important
 ||download.apple.map.fastly.net^$important
 ||lb-apple.com.akadns.net^$important
