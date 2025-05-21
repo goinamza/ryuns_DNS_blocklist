@@ -650,7 +650,7 @@ orbi.kr
 #||d*.cloudfront.net^$important
 
 # Firesn
-||*.firesn.com^
+@@||*.firesn.com^
 
 # Criteo Services
 ||criteo.com^$important
