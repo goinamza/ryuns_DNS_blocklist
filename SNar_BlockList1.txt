@@ -684,7 +684,6 @@ orbi.kr
 @@||gsa.idms-apple.com.akadns.net^$important
 @@||gsas.apple.com^$important
 @@||gsas.idms-apple.com.akadns.net^$important
-@@||gateway.fe2.apple-dns.net^$important
 @@||query.ess.apple.com^$important
 @@||query.ess-apple.com.akadns.net^$important
 @@||valid.apple.com^$important
