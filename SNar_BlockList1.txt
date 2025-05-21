@@ -565,7 +565,7 @@ orbi.kr
 ||googleleadservices.com^
 ||safebrowsing.googleapis.com^$important
 ||safebrowsing.google.com^$important
-||sb-ssl.google.com^$important
+@@||sb-ssl.google.com^$important
 ||firebaseremoteconfigrealtime.googleapis.com^$important
 ||firestore.googleapis.com^$important
 ||firebaseremoteconfig.googleapis.com^$important
