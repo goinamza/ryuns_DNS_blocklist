@@ -191,6 +191,12 @@
 @@||b01-kr-naver-vod.pstatic.net.topo.gscdn.net^$important
 @@||a01-g-naver-vod.akamaized.net^$important
 @@||dic-phinf.pstatic.net.nheos.com^$important
+# 사용자 데이터 네이버 분석 노노
+||lcs.naver.com^$important
+||cc.naver.com^$important
+||kr1-cc.naver.com.nfront.nheos.com^$important
+||tivan.naver.com^$important
+#
 ||safebrowsing.naver.com^$important
 ||livecloud-slit.pstatic.net^$important
 ||blog.naver.com.nheos.com^$important
