@@ -537,15 +537,14 @@ orbi.kr
 ||nearbysharing-pa.googleapis.com^$important
 ||instantmessaging-pa.googleapis.com^$important
 ||playatoms-pa.googleapis.com^$important
-||discover-pa.googleapis.com^$important
+@@||discover-pa.googleapis.com^$important
 ||applecommerce-pa.googleapis.com^$important
 ||firebaseinappmessaging.googleapis.com^$important
 ||firebaseappcheck.googleapis.com^$important
 ||nearbydevices-pa.googleapis.com^$important
-||people-pa.googleapis.com^$important
 ||searchnotifications-pa.googleapis.com^$important
 ||xgapromomanager-pa.googleapis.com^$important
-||searchlabspartnerservice-pa.googleapis.com^$important
+@@||searchlabspartnerservice-pa.googleapis.com^$important
 ||chromewebstore.googleapis.com^$important
 ||waa-pa.clients6.google.com^$important
 ||proactivebackend-pa.googleapis.com^$important
@@ -557,7 +556,7 @@ orbi.kr
 ||playstoregatewayadapter-pa.googleapis.com^$important
 ||prod-lt-playstoregatewayadapter-pa.googleapis.com^$important
 ||ohttp-relay1.fastly-edge.com^$important
-||www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com^
+@@||www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com^
 ||googleleadservices.com^
 ||safebrowsing.googleapis.com^$important
 ||safebrowsing.google.com^$important
