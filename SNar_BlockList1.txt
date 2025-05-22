@@ -210,8 +210,6 @@
 ||nelo2-col.navercorp.com^$important
 ||shared-comic.pstatic.net^$important
 ||kream-phinf.pstatic.net^
-||static.tagmanager.toast.com^$important
-||adlc-exchange.toast.com^$important
 ||naverads.com^
 ||shopping.naver.com.nheos.com^$important
 ||recoshopping.naver.com.nheos.com^$important
