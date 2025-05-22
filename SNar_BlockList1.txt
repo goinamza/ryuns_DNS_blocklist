@@ -240,8 +240,6 @@
 ||onkakao.net
 ||daumcdn.net^
 ||daum.net^
-||kgns1.com^
-||kgns3.com^
 ||kakaoentcdn.com^
 ||talk-pilsner.kakao.com^$important
 ||ticket-loco.kakao.com^$important
