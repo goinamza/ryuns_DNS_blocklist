@@ -57,7 +57,6 @@
 ||solo.to^
 ||pinterest.com^
 ||mootoon.co.kr^
-||imweb.me^
 ||jusomoa*.com^
 ||cutestat.com^
 /blacktoon/
