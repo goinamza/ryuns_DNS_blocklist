@@ -233,10 +233,7 @@ t.co
 ||jprtb.c.appier.net.akadns.net^$important
 ||ss-sg.appiersig.com.akadns.net^$important
 ||abr.ge^
-||meba.kr^
 ||ptbwa.com^
-||techhub.co.kr^
-||ndash.net^
 ||cm.mman.kr^$important
 ||cookie.momento.dev^$important
 ||sync.bidence.net^$important
