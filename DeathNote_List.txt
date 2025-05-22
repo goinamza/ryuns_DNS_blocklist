@@ -9,6 +9,7 @@ dns.wexin.qq.com
 dns.msftncsi.com
 mozilla.cloudflare-dns.com
 cloudflare-dns.com
+cloudflare-ech.com
 dns.google.com
 paydns.weixin.qq.com
 dns101.ovh.net
