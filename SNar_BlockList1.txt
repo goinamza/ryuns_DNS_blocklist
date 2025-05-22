@@ -715,9 +715,9 @@ orbi.kr
 @@||configuration.apple.com^$important
 @@||*.ess.apple.com^
 ||apple-dns.net^$important
-||fe.apple-dns.net^$important
+@@||fe.apple-dns.net^$important
 ||mask.apple-dns.net^$important
-||fe2.apple-dns.net^$important
+@@||fe2.apple-dns.net^$important
 @@||gateway.fe2.apple-dns.net^$important
 ||relay.fe.apple-dns.net^$important
 ||relay.icloud.apple.com^$important
@@ -741,7 +741,7 @@ orbi.kr
 ||api.apple-cloudkit.com^$important
 @@||apple.com.akadns.net^
 ||idms-apple.com.akadns.net^$important
-||gsp64-ssl.ls-apple.com.akadns.net^$important
+@@||gsp64-ssl.ls-apple.com.akadns.net^$important
 ||origin-apple.com.akadns.net^$important
 @@||ess-apple.com.akadns.net^$important
 ||*.push-apple.com.akadns.net^$important
