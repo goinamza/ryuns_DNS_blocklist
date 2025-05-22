@@ -650,13 +650,6 @@ orbi.kr
 # Firesn
 ||*.firesn.com^
 
-# Criteo Services
-||criteo.com^$important
-||measurement-api.criteo.com^$important
-||fledge.criteo.com^$important
-||fledge.as.criteo.com^$important
-||gum.criteo.com^$important
-||sslwidget.criteo.com^$important
 
 # APPLE MUST DIE SERVICES APPLE APPlE Apple ##################################
 @@||apple.com^
