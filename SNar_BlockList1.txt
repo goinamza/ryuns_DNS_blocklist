@@ -718,7 +718,7 @@ orbi.kr
 ||fe.apple-dns.net^$important
 ||mask.apple-dns.net^$important
 ||fe2.apple-dns.net^$important
-||gateway.fe2.apple-dns.net^$important
+@@||gateway.fe2.apple-dns.net^$important
 ||relay.fe.apple-dns.net^$important
 ||relay.icloud.apple.com^$important
 ||gs-loc.apple-dns.net^$important
