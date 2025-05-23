@@ -593,8 +593,6 @@ orbi.kr
 ||mobilemaps.googleapis.com^$important
 ||maps-pa.googleapis.com^$important
 ||gvt3.com^
-||google-ohttp-relay-safebrowsing.fastly-edge.com^$important
-||ohttp-relay1.fastly-edge.com^$important
 ||nearbysharing-pa.googleapis.com^$important
 ||instantmessaging-pa.googleapis.com^$important
 ||playatoms-pa.googleapis.com^$important
@@ -616,19 +614,10 @@ orbi.kr
 ||play-fe.googleapis.com^$important
 ||playstoregatewayadapter-pa.googleapis.com^$important
 ||prod-lt-playstoregatewayadapter-pa.googleapis.com^$important
-||ohttp-relay1.fastly-edge.com^$important
 @@||www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com^
 ||update.googleapis.com^$important
 ||googleleadservices.com^
-||safebrowsing.googleapis.com^$important
-||safebrowsing.google.com^$important
-||safebrowsingohttpgateway.googleapis.com^$important
 @@||sb-ssl.google.com^$important
-||firebaseremoteconfigrealtime.googleapis.com^$important
-||firestore.googleapis.com^$important
-||firebaseremoteconfig.googleapis.com^$important
-# 짱개구글은 우회용임
-||google.cn^$important
 # 크롬은 풀어주자..
 @@||chrome.google.com^$important
 # 이거 악용많은 구글
@@ -637,13 +626,24 @@ orbi.kr
 ||playgamesemulatorsignals-pa.googleapis.com^$important
 # 구글로 학생이 무슨 자산관리
 ||digitalassetlinks.googleapis.com^$important
-# 악의축 remote의 로그수집을 왜함
-||firebaselogging-pa.googleapis.com^$important
 # 분석이 왜필요
 ||analytics.google.com^$important
 # 학생들한테 푸시알림 하지마라
 ||fcm.googleapis.com^$important
-
+### 구글 우회 관련 ####
+||googlehosted.l.googleusercontent.com^$important
+||firebaseremoteconfigrealtime.googleapis.com^$important
+||firestore.googleapis.com^$important
+||firebaseremoteconfig.googleapis.com^$important
+||safebrowsing.googleapis.com^$important
+||safebrowsing.google.com^$important
+||safebrowsingohttpgateway.googleapis.com^$important
+||ohttp-relay1.fastly-edge.com^$important
+||google-ohttp-relay-safebrowsing.fastly-edge.com^$important
+||ohttp-relay1.fastly-edge.com^$important
+||dns.googleusercontent.com^
+||google.cn^$important
+||firebaselogging-pa.googleapis.com^$important
 
 ######## YouTube YouTube Youtube #########
 ||yimg.com^$important
@@ -738,9 +738,7 @@ orbi.kr
 @@||ocsp2.apple.com^$important
 @@||ocsp.apple.com^$important
 @@||ocsp2.g.aaplimg.com^$important
-||mzstatic.com^$important
 @@||updates.cdn-apple.com^
-||token.safebrowsing.apple^$important
 @@aidc.origin-apple.com.akadns.net^
 @@||apple.com.akadns.net^
 @@||*.aaplimg.com^
@@ -777,43 +775,26 @@ orbi.kr
 @@||publicassets.cdn-apple.com^
 @@||netcts.cdn-apple.com^
 @@||pancake.cdn-apple.com.akadns.net^
-||doh.dns.apple.com^$important
-||doh-dns-apple-com.v.aaplimg.com^$important
-||mask-api.fe2.apple-dns.net^$important
-||mask.apple.com^$important
+||mzstatic.com^$important
 ||mail.me.com^$important
 ||mail.me.com.akadns.net^$important
-||mask.icloud.com^$important
-||mask-h2.icloud.com^$important
-||mask.apple-dns.net^$important
-||apple-dns.net^$important
 ||gateway.icloud.com^$important
 @@||configuration.apple.com^$important
 @@||*.ess.apple.com^
-||apple-dns.net^$important
 @@||fe.apple-dns.net^
-||mask.apple-dns.net^$important
 @@||fe2.apple-dns.net^
 @@||gateway.fe2.apple-dns.net^
-||relay.fe.apple-dns.net^$important
-||relay.icloud.apple.com^$important
 ||gs-loc.apple-dns.net^$important
 @@||configuration.apple.com.akadns.net^
 ||appldnld.apple.com^$important
 ||icloud-dns.com^
-||apple.com.doh.icloud-dns.com$important
-||proxy.safebrowsing.apple^
 /itunes/$important
 ||ls-apple.com.akadns.net^
-||courier.push.apple.com^$important
-||apple-relay.cloudflare.com^$important
-||apple-relay.fastly-edge.com^$important
 ||appstoreconnect.apple.com^$important
 ||apps.apple.com^$important
 ||iosapps.itunes.apple.com^$important
 ||sharedstreams.fe2.apple-dns.net^$important
 ||aaplimg.com^
-||mask-api.fe2.apple-dns.net^$important
 @@||mzstatic.com^
 ||icloud-content.com^
 ||api.apple-cloudkit.com^$important
@@ -823,7 +804,6 @@ orbi.kr
 ||origin-apple.com.akadns.net^$important
 @@||ess-apple.com.akadns.net^$important
 ||*.push-apple.com.akadns.net^$important
-||apple-relay.fastly-edge.com^$important
 ||download.apple.map.fastly.net^$important
 ||lb-apple.com.akadns.net^$important
 ||apple.map.fastly.net^$important
@@ -838,11 +818,6 @@ orbi.kr
 @@||download.developer.apple.com^
 ||playgrounds-assets-cdn.apple.com^$important
 ||playgrounds-cdn.apple.com^$important
-||mask.icloud-dns.net^$important
-||mask-tunnel.apple.com^$important
-||safebrowsing-proxy.g.aaplimg.com^$important
-||doh.dns.apple.com.v.aaplimg.com^$important
-||safebrowsing.g.aaplimg.com^$important
 ||swallow.apple.com^$important
 ||swallow-apple-com.v.aaplimg.com^$important
 @@||cl3.apple.com^$important
@@ -863,6 +838,31 @@ orbi.kr
 # 메모는 아이클라우드 메모 말고 다른 것도 많다.
 ||prod-event-relay-notes-api.v.aaplimg.com^$important
 
+### Apple 우회 관련 ####
+||doh.dns.apple.com^$important
+||doh-dns-apple-com.v.aaplimg.com^$important
+||mask-api.fe2.apple-dns.net^$important
+||mask.apple.com^$important
+||apple-dns.net^$important
+||mask.icloud.com^$important
+||mask-h2.icloud.com^$important
+||mask.apple-dns.net^$important
+||mask.icloud-dns.net^$important
+||mask-tunnel.apple.com^$important
+||mask-api.fe2.apple-dns.net^$important
+||safebrowsing-proxy.g.aaplimg.com^$important
+||doh.dns.apple.com.v.aaplimg.com^$important
+||safebrowsing.g.aaplimg.com^$important
+||apple-relay.fastly-edge.com^$important
+||courier.push.apple.com^$important
+||apple-relay.cloudflare.com^$important
+||apple-relay.fastly-edge.com^$important
+||relay.fe.apple-dns.net^$important
+||relay.icloud.apple.com^$important
+||mask.apple-dns.net^$important
+||apple.com.doh.icloud-dns.com$important
+||proxy.safebrowsing.apple^
+||token.safebrowsing.apple^$important
 
 
 ###### Instagram
