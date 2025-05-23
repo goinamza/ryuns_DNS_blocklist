@@ -79,6 +79,8 @@
 @@||cab.axissoft.gscdn.com^$important
 @@||hbedu.gscdn.com^$important
 @@||ipify.org^$important
+@@||akadns.net^
+
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
 
