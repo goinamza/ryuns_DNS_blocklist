@@ -752,6 +752,7 @@ orbi.kr
 @@||*.aaplimg.com^
 ||aaplimg.com^
 @@||albert.apple.com^
+@@||apple-dns.net^
 # 외부와 단절되어 공부만 해야될 학생이 클라우드를 왜써
 @@icloud.com^
 ||*.icloud.com^
@@ -1044,7 +1045,6 @@ gateway.push-apple.com.akadns.net
 ||doh.dns.apple.com.v.aaplimg.com^$important
 ||doh-dns-apple-com.v.aaplimg.com^$important
 ||apple.com.doh.icloud-dns.com$important
-||apple-dns.net^$important
 ||icloud-dns.net^$important
 ||mask.apple.com^$important
 ||mask.icloud.com^$important
