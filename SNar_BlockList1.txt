@@ -913,7 +913,8 @@ orbi.kr
 @@api.push.apple.com^
 @@api-vs.push-apple.com.akadns.net^
 @@gateway.push.apple.com^
-gateway.push-apple.com.akadns.net
+||gateway.push-apple.com.akadns.net^$important
+||*courier-push-apple.com.akadns.net^$important
 ### Push는 최종적으로 아래 도메인에서 막히게 됨.
 ||*.push-apple.com.akadns.net^$important
 ||*.push.apple.com^$important
