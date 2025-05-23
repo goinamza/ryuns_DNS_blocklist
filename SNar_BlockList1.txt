@@ -798,6 +798,7 @@ p134-acsegateway.icloud.com
 @@||updates.cdn-apple.com^
 @@||updates.g.aaplimg.com^$important
 @@||gdmf.apple.com^
+@@||gdmf-ados.v.aaplimg.com^
 @@||download.developer.apple.com^
 @@||appldnld.apple.com^
 @@||xp.apple.com^
@@ -817,11 +818,14 @@ p134-acsegateway.icloud.com
 ||bag.itunes.apple.com^$important
 ||bag.itunes.apple.com.edgesuite.net^$important
 ||*.itunes.apple.com^$important
+||sync.itunes.apple.com^$important
 ||iosapps.itunes.apple.com^$important
 ||iosapps.itunes.g.aaplimg.com^$important
 ||audiocontentdownload.apple.com^$important
 ||bag-cdn-akam.itunes-apple.com.akadns.net^$important
 ||commerce.itunes.apple.com.edgesuite.net^$important
+||odr.itunes.g.aaplimg.com^$important
+||fpinit-apac-n.edge-itunes-apple.com.akadns.net^$important
 # daap 은 digital audio access protocol 의 약자임. 
 ||librarydaap-cdn.lb-apple.com.akadns.net^$important
 
@@ -858,8 +862,12 @@ p134-acsegateway.icloud.com
 ||mail.me.com.akadns.net^$important
 
 # 컨텐츠 전송 관련
-@@||cl3.apple.com^$important
-@@||cl3.g.aaplimg.com^$important
+@@cl2.apple.com^
+@@cl2.g.aaplimg.com
+@@cl2-cdn.origin-apple.com.akadns.net^
+@@cl3.apple.com^
+@@cl3.g.aaplimg.com^
+@@cl3-cdn.origin-apple.com.akadns.net^
 
 # Configuration. 기기 설정 변경이나 구성 업데이트 인데, 이걸로 애플이 기기들을 조종할 가능성 있음.
 @@||configuration.apple.com^
@@ -879,10 +887,12 @@ p134-acsegateway.icloud.com
 
 # Apple 위치 기반 서비스들
 @@||ls-apple.com.akadns.net^
-@@||gsp64-ssl.ls-apple.com.akadns.net^$important
-||gs-loc.apple-dns.net^$important
-||gs.apple.com^$important
-||gs.apple.com.v.aaplimg.com$important
+@@||gsp64-ssl.ls-apple.com.akadns.net^
+@@||configuration.ls.apple.com^
+@@||configuration.ls.v.aaplimg.com^
+@@||gs-loc.apple-dns.net^$important
+@@||gs.apple.com^
+@@||gs.apple.com.v.aaplimg.com^
 
 # Load Balancing (lb) 데이터 전송 효율 관련
 @@||lb-apple.com.akadns.net^$important
