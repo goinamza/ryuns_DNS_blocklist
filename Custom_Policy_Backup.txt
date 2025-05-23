@@ -186,8 +186,8 @@ t.co
 ||brawlstarsgame.com^
 
 #### Akamai, Akadns, Akamaiedge
-@@||akamai.net^$important
-@@||akamaiedge.net$important
+@@||akamai.net^
+@@||akamaiedge.net^
 #||a1051.dscg4.akamai.net^$important
 #||e3528.dscg.akamaiedge.net^$important
 #||e17437.dsct.akamaiedge.net^$important
