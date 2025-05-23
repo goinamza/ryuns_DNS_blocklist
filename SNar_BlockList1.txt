@@ -807,10 +807,13 @@ p134-acsegateway.icloud.com
 @@init.ess.apple.com^
 @@||pds.ess.apple.com^
 @@||kt-prod.ess.apple.com^
+@@||static.ess.apple.com^
+@@||staticess.g.aaplimg.com^
 @@||query.ess.apple.com^$important
 @@||query.ess-apple.com.akadns.net^$important
 @@||*.ess.apple.com^$important
 @@||ess-apple.com.akadns.net^$important
+
 
 # iTunes 계열, 음악 전반
 /itunes/$important
@@ -819,11 +822,13 @@ p134-acsegateway.icloud.com
 ||bag.itunes.apple.com.edgesuite.net^$important
 ||*.itunes.apple.com^$important
 ||sync.itunes.apple.com^$important
+||amd-infra.itunes.apple.com^$important
 ||iosapps.itunes.apple.com^$important
 ||iosapps.itunes.g.aaplimg.com^$important
 ||audiocontentdownload.apple.com^$important
 ||bag-cdn-akam.itunes-apple.com.akadns.net^$important
 ||commerce.itunes.apple.com.edgesuite.net^$important
+||musicstatus-apac-n.edge-itunes-apple.com.akadns.net^$important
 ||odr.itunes.g.aaplimg.com^$important
 ||fpinit-apac-n.edge-itunes-apple.com.akadns.net^$important
 # daap 은 digital audio access protocol 의 약자임. 
@@ -855,6 +860,15 @@ p134-acsegateway.icloud.com
 @@pancake.apple.com^
 @@||pancake.cdn-apple.com.akadns.net^
 
+# smoot 계열, 애플 검색 편의, 자동완성 등 검색 관련 시스템, 검색 엔진이 있는 것 같은데.. 써보질 않아서 모르겠다..
+@@fbs.smoot.apple.com^
+@@api.smoot.apple.com^
+@@smoot-searchv2-aapne1a.v.aaplimg.com^
+@@api-glb-aapne1a.smoot.apple.com^
+@@bag-smoot.v.aaplimg.com^
+@@smoot-feedback.v.aaplimg.com^
+@@smoot-api-safari-aapne1a.v.aaplimg.com^
+
 # Captive portal 인터넷 접속 관련
 @@captive.apple.com^
 # Mail 관련
@@ -868,6 +882,9 @@ p134-acsegateway.icloud.com
 @@cl3.apple.com^
 @@cl3.g.aaplimg.com^
 @@cl3-cdn.origin-apple.com.akadns.net^
+@@cl3.apple.com^
+@@cl3.g.aaplimg.com^
+@@cl4-cdn.origin-apple.com.akadns.net^
 
 # Configuration. 기기 설정 변경이나 구성 업데이트 인데, 이걸로 애플이 기기들을 조종할 가능성 있음.
 @@||configuration.apple.com^
