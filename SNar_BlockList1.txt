@@ -988,6 +988,7 @@ orbi.kr
 
 ### Apple 우회 관련 (Private relay, ohttp, doh 합작품) ####
 ||doh.dns.apple.com^$important
+||doh.dns.apple.com.v.aaplimg.com^$important
 ||doh-dns-apple-com.v.aaplimg.com^$important
 ||apple.com.doh.icloud-dns.com$important
 ||apple-dns.net^$important
