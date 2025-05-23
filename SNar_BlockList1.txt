@@ -231,17 +231,6 @@
 ||veta.naver.com^$important
 
 
-@@||e6030.e73.akamaiedge.net^$important
-@@||e6410.d.akamaiedge.net^$important
-@@||a455.w73.akamai.net^$important
-@@||e2671.a.akamaiedge.net^$important
-@@||jp1-nf.naver.com.akadns.net^$important
-
-@@||a1928.dscw39.akamai.net^$important
-@@||e673.dsce9.akamaiedge.net^$important
-@@||a652.d.akamai.net^$important
-@@||a1744.dscw154.akamai.net^$important
-
 # Daum Kakao ####
 @@||tts-dic.daum.net^
 @@||dic.daum.net^
@@ -1012,6 +1001,21 @@ orbi.kr
 ||gateway-oblivious.apple.com^$important
 
 # 아직 잘 모르겠는 Apple들
+
+
+# 연관 akamai 계열
+@@||e6030.e73.akamaiedge.net^$important
+@@||e6410.d.akamaiedge.net^$important
+@@||a455.w73.akamai.net^$important
+@@||e2671.a.akamaiedge.net^$important
+@@||jp1-nf.naver.com.akadns.net^$important
+
+@@||a1928.dscw39.akamai.net^$important
+# itunes.apple.com 의 목적지
+||e673.dsce9.akamaiedge.net^$important
+@@||a652.d.akamai.net^$important
+@@||a1744.dscw154.akamai.net^$important
+
 
 
 ###### Instagram
