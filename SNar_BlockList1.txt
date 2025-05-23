@@ -887,7 +887,7 @@ orbi.kr
 @@||cu.ac.kr^
 @@||postech.ac.kr^
 @@||skku.edu^
-@@||snu.ac.kr^
+@@||snu.ac.kr^$important
 @@||hanyang.ac.kr^
 @@||sogang.ac.kr^
 @@||cau.ac.kr^
@@ -899,6 +899,9 @@ orbi.kr
 @@||yonsei.ac.kr^
 @@||dongguk.edu^
 @@||korea.ac.kr^$important
+@@||hanseo.ac.kr^
+@@||hufs.ac.kr^
+
 
 
 
