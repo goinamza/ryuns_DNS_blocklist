@@ -875,6 +875,7 @@ p134-acsegateway.icloud.com
 
 # iCloud 사진 공유 기능
 ||sharedstreams.fe2.apple-dns.net^$important
+||*sharedstreams.icloud.com^$important
 
 # Apple 위치 기반 서비스들
 @@||ls-apple.com.akadns.net^
