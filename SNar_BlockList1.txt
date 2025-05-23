@@ -78,6 +78,7 @@
 @@||concdn.com^
 @@||cab.axissoft.gscdn.com^$important
 @@||hbedu.gscdn.com^$important
+@@||ipify.org^$important
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
 
