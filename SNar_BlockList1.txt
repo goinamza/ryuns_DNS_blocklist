@@ -749,6 +749,7 @@ orbi.kr
 @@||apple.com.akadns.net^
 @@||*.aaplimg.com^
 ||aaplimg.com^
+@@||albert.apple.com^
 # 외부와 단절되어 공부만 해야될 학생이 클라우드를 왜써
 @@icloud.com^
 ||*.icloud.com^
@@ -760,6 +761,9 @@ orbi.kr
 # 시계는 봐야지
 @@||time.apple.com^$important
 @@||time.asia.apple.com^$important
+@@||time-ios.apple.com^$important
+@@||time-ios.g.aaplimg.com^$important
+@@||time-macos.apple.com^$important
 
 # 인증은 해야된다. 인증 계열
 @@||ocsp2.apple.com^$important
@@ -780,25 +784,35 @@ orbi.kr
 @@||appleid.cdn-apple.com^
 @@||idmsa.apple.com^
 @@setup.icloud.com^
+@@setup.apple.com^
+@@||auth.apple.com^
+@@||trustd.apple.com^
+@@static.icloud.com^
 
 # Apple 기기 네트워크 상태 파악 도메인
 @@||netcts.cdn-apple.com^
+
 # 만악의 근원 중 하나 front-end (fe) 지만 여기까진 내준다.
 @@||fe.apple-dns.net^
 @@||fe2.apple-dns.net^
 
-# Gateway 여기를 통과해서 여기저기 뿌려지지만, 일단 여기도 내준다.
+# Gateway 여기를 통과해서 여기저기 뿌려지지만, 이걸 막아햐 하는 것인가..
 ||gateway.icloud.com^$important
-@@||gateway.fe2.apple-dns.net^
-acsegateway.fe2.apple-dns.net
-p125-acsegateway.icloud.com
-p134-acsegateway.icloud.com
+||gateway.fe2.apple-dns.net^$important
+||acsegateway.fe2.apple-dns.net^$important
+||*acsegateway.icloud.com^$important
+||p125-acsegateway.icloud.com^$important
+||p134-acsegateway.icloud.com^$important
 
 # Update 관련(될지 안될지는 모르지만..)
 @@||updates.cdn-apple.com^
+@@||updates-http.cdn-apple.com^
 @@||updates.g.aaplimg.com^$important
 @@||gdmf.apple.com^
 @@||gdmf-ados.v.aaplimg.com^
+@@||swdownload.apple.com^
+@@||swdist.apple.com^
+@@||kt-prod.v.aaplimg.com^
 @@||download.developer.apple.com^
 @@||appldnld.apple.com^
 @@||xp.apple.com^
@@ -814,13 +828,17 @@ p134-acsegateway.icloud.com
 @@||*.ess.apple.com^$important
 @@||ess-apple.com.akadns.net^$important
 
-
 # iTunes 계열, 음악 전반
 /itunes/$important
 ||fpinit-eu.edge-itunes-apple.com.akadns.net^$important
 ||bag.itunes.apple.com^$important
 ||bag.itunes.apple.com.edgesuite.net^$important
+||*buy.itunes.apple.com^$important
 ||*.itunes.apple.com^$important
+||music.apple.com^$important
+||video.itunes.apple.com^$important
+||podcasts.apple.com^$important
+||aod.itunes.apple.com^$important
 ||sync.itunes.apple.com^$important
 ||amd-infra.itunes.apple.com^$important
 ||iosapps.itunes.apple.com^$important
@@ -837,7 +855,9 @@ p134-acsegateway.icloud.com
 # Appstore 계열
 ||appstoreconnect.apple.com^$important
 ||apps.apple.com^$important
+||mzstorekit.apple.com^$important
 ||mzstorekit.lb-apple.com.akadns.net^$important
+||securemetrics.apple.com^$important
 # iTunes에서 뭐 살 때 필요한듯? mzstorekit
 ||mzstorekit.itunes.apple.com^$important
 # mz가 뭔가 스토어 이름 같음
@@ -864,6 +884,7 @@ p134-acsegateway.icloud.com
 @@fbs.smoot.apple.com^
 @@api.smoot.apple.com^
 @@smoot-searchv2-aapne1a.v.aaplimg.com^
+@@api-safari-aapne1a.smoot.apple.com^
 @@api-glb-aapne1a.smoot.apple.com^
 @@bag-smoot.v.aaplimg.com^
 @@smoot-feedback.v.aaplimg.com^
@@ -965,12 +986,12 @@ p134-acsegateway.icloud.com
 # 메모는 아이클라우드 메모 말고 다른 것도 많다.
 ||prod-event-relay-notes-api.v.aaplimg.com^$important
 
-
 ### Apple 우회 관련 (Private relay, ohttp, doh 합작품) ####
 ||doh.dns.apple.com^$important
 ||doh-dns-apple-com.v.aaplimg.com^$important
 ||apple.com.doh.icloud-dns.com$important
 ||apple-dns.net^$important
+||icloud-dns.net^$important
 ||mask.apple.com^$important
 ||mask.icloud.com^$important
 ||mask-h2.icloud.com^$important
