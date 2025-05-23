@@ -574,6 +574,7 @@ orbi.kr
 @@||android.clients.google.com^$important
 @@||ggpht.com^
 @@||time.google.com^$important
+#Clients google 계열들은 우회에 사용될 수 있지만 다른 기능들이 있어서 놔둠.
 @@||clients1.google.com^$important
 @@||clients2.google.com^$important
 @@||clients3.google.com^$important
@@ -587,6 +588,10 @@ orbi.kr
 @@||people-pa.googleapis.com^$important
 @@||clients2.googleusercontent.com^
 @@||lh3.googleusercontent.com^
+@@||lh4.googleusercontent.com^$important
+@@||lh5.googleusercontent.com^$important
+@@||lh6.googleusercontent.com^$important
+||play-lh.googleusercontent.com^$important
 ||google.it^
 ||analytics.google.com^$important
 ||mobilemaps-pa-gz.googleapis.com^$important
@@ -641,9 +646,14 @@ orbi.kr
 ||ohttp-relay1.fastly-edge.com^$important
 ||google-ohttp-relay-safebrowsing.fastly-edge.com^$important
 ||ohttp-relay1.fastly-edge.com^$important
+||google-ohttp-relay-query.fastly-edge.com^$important
 ||dns.googleusercontent.com^
 ||google.cn^$important
 ||firebaselogging-pa.googleapis.com^$important
+||private.googleapis.com^$important
+||restricted.googleapis.com^$important
+||vpn.google.com^$important
+
 
 ######## YouTube YouTube Youtube #########
 ||yimg.com^$important
