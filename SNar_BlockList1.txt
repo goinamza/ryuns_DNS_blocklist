@@ -914,6 +914,12 @@ p134-acsegateway.icloud.com
 @@||pr-pod10-smp-device.apple.com^
 @@||pr-pod10-smp-device.gcsis-apple.com.akadns.net^
 
+# Cabana 애플 콘텐츠 구성 요소 전송 관련
+||cabana-server.cdn-apple.com^$important
+||cabana-config.g.aaplimg.com^$important
+||cabana-config.lb-apple.com.akadns.net^$important
+
+
 # Playgrounds (무슨 코딩인가 뭐시기? swift playgrounds)
 ||playgrounds-assets-cdn.apple.com^$important
 ||playgrounds-cdn.apple.com^$important
