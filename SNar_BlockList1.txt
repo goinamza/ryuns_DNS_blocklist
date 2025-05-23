@@ -834,13 +834,13 @@ orbi.kr
 ||commerce.itunes.apple.com.edgesuite.net^$important
 ||musicstatus-apac-n.edge-itunes-apple.com.akadns.net^$important
 ||fpinit-apac-n.edge-itunes-apple.com.akadns.net^$important
-### 4 목적지
-||a2030.dscapi9.akamai.net^$important
+### 4 목적지 (akamai는 건드리면 안됨. 얘는 풀어줘야함 ㅠㅠㅠ)
+###@@||a2030.dscapi9.akamai.net^$important
 ||bag.itunes.apple.com^$important
 ||bag.itunes.apple.com.edgesuite.net^$important
 ||bag-cdn-akam.itunes-apple.com.akadns.net^$important
 ### bag.itunes.apple.com 등의 목적지
-||a68.dscg4.akamai.net^$important
+###@@||a68.dscg4.akamai.net^$important
 ||*buy.itunes.apple.com^$important
 ||buy.itunes-apple.com.akadns.net^$important
 ||*.itunes.apple.com^$important
@@ -849,11 +849,11 @@ orbi.kr
 ||sync.itunes.apple.com^$important
 ||apps.apple.com^$important
 ### itunes.apple.com, music.apple.com 등의 목적지
-||e673.dsce9.akamaiedge.net^$important
+###@@||e673.dsce9.akamaiedge.net^$important
 
 ||video.itunes.apple.com^$important
 ###video 목적지
-||a722.dscgi3.akamai.net^$important
+###@@||a722.dscgi3.akamai.net^$important
 
 ||aod.itunes.apple.com^$important
 ||aod.itunes.g.aaplimg.com^$important
@@ -861,7 +861,7 @@ orbi.kr
 ||amd-infra.itunes.apple.com^$important
 ||amd-infra.itunes.g.aaplimg.com^$important
 ### 목적지
-||a1911.dscgi3.akamai.net^$important
+###@@||a1911.dscgi3.akamai.net^$important
 
 ||iosapps.itunes.apple.com^$important
 ||iosapps.itunes.g.aaplimg.com^$important
@@ -877,19 +877,19 @@ orbi.kr
 # daap 은 digital audio access protocol 의 약자임. 
 ||librarydaap-cdn.lb-apple.com.akadns.net^$important
 ### 목적지
-||e8506.dsct.akamaiedge.net^$important
+###@@||e8506.dsct.akamaiedge.net^$important
 
 # Appstore 계열
 ||appstoreconnect.apple.com^$important
 ### 목적지
-||e2490.dscb.akamaiedge.net^$important
+###@@||e2490.dscb.akamaiedge.net^$important
 
 # iTunes에서 뭐 살 때 필요한듯? mzstorekit
 ||mzstorekit.itunes.apple.com^$important
 ||mzstorekit.apple.com^$important
 ||mzstorekit.lb-apple.com.akadns.net^$important
 ### Target
-||a1914.dscapi9.akamai.net^$important
+###@@||a1914.dscapi9.akamai.net^$important
 
 ||securemetrics.apple.com^$important
 ||securemetrics.v.aaplimg.com^$important
@@ -901,7 +901,7 @@ orbi.kr
 ||s.mzstatic.itunes-apple.com.akadns.net^$important
 ||mzstatic.com.edgekey.net^$important
 ### Final Target
-||e673.dsce9.akamaiedge.net^$important
+###@@||e673.dsce9.akamaiedge.net^$important
 
 # Push 계열
 @@push.apple.com^
@@ -958,8 +958,8 @@ gateway.push-apple.com.akadns.net
 @@||configuration.apple.com^
 @@||configuration.apple.com.akadns.net^
 @@||configuration.apple.com.edgekey.net^
-### 위의 것들이 결국 여기서 막힘. 이건 itunes가 쓰는거랑 똑같은 도메인임...
-||e673.dsce9.akamaiedge.net^
+### 위의 것들이 결국 여기서 막힘. 이건 itunes가 쓰는거랑 똑같은 도메인임...이건 차단하면 안됨.
+###@@||e673.dsce9.akamaiedge.net^
 
 # 원본 origin 데이터들을 갖고 있는 서버
 @@aidc.origin-apple.com.akadns.net^
