@@ -26,13 +26,18 @@
 @@||s-usc1a-nss-2058.firebaseio.com^$important
 @@||ifh.cc^$important
 
-# DoH MUST DIE DoH DoH DoH DoH DoH DNS, DoH 싸이트들을 넣습니다. 무조건 차단. #########
+# DoH MUST DIE DoH DoH DoH DoH DoH DNS, DoH 또는 우회 관련 싸이트들을 넣습니다. 무조건 차단. #########
 ||doh.cleanbrowsing.org^$important
 ||nextdns.io^$important
 ||dns.msftncsi.com^$important
 ||share-dns.com^$important
 ||share-dns.net^$important
 ||dns11.quad9.net^$important
+||a.nel.cloudflare.com^$important
+||shared.sni.fastly.net^$important
+# linkwang 이거 아주 나쁜 VPN 중계소
+||linkwang.org^$important
+||cyberghostvpn.com^$important
 
 # Common Function Sites 일반적 동작에 필요한 싸이트들을 집어넣습니다.
 @@||ntp.org^
@@ -191,6 +196,11 @@
 @@||b01-kr-naver-vod.pstatic.net.topo.gscdn.net^$important
 @@||a01-g-naver-vod.akamaized.net^$important
 @@||dic-phinf.pstatic.net.nheos.com^$important
+@@||sstatic-g.rmcnmv.naver.net^$important
+@@||dict.naver.com.nheos.com^$important
+@@||s2.e.navercdn.com^$important
+@@||endic.naver.com.nheos.com^$important
+@@||dic-phinf.pstatic.net.static.gscdn.net^$important
 # 사용자 데이터 네이버 분석 노노
 ||lcs.naver.com^$important
 ||cc.naver.com^$important
@@ -214,6 +224,11 @@
 ||shopping.naver.com.nheos.com^$important
 ||recoshopping.naver.com.nheos.com^$important
 ||shopsquare.naver.com.nheos.com^$important
+# 네이버 wcs 차단 명시
+||wcs.naver.net^
+# 네이버 광고 하지마
+||veta.naver.com^$important
+
 
 @@||e6030.e73.akamaiedge.net^$important
 @@||e6410.d.akamaiedge.net^$important
@@ -235,12 +250,17 @@
 @@||t1.kakaocdn.net^$important
 @@||t1.daumcdn.net.edgesuite.net^$important
 @@||a1988.dscw39.akamai.net^$important
+@@||developers.kakao.com^$important
+@@||postcode.map.daum.net^$important
 ||onkakao.net
 ||daumcdn.net^
 ||daum.net^
 ||kakaoentcdn.com^
 ||talk-pilsner.kakao.com^$important
 ||ticket-loco.kakao.com^$important
+# 카카오 꺼져
+||kgslb.com^$important
+||onkakao.net^$important
 
 # Orbi
 @@||academy.orbi.kr^
@@ -262,6 +282,10 @@
 orbi.kr
 ||s3-play.orbi.kr^$important
 ||play.orbi.kr$important
+# 기숙학원에서 과외를 왜구해?
+||s3-tutor.orbi.kr^
+||tutor.orbi.kr^
+||watchdogs.orbi.kr^
 
 # Kollus Aqua Player Kollus 계열 도메인들. 메가, 대성, 이투스, 시대인재 등 거의 모든 국내 학원들이 사용합니다. 누락된 것이 있으면 다 풀어줘야 합니다.
 @@||mc-kr.kollus.com^$important
@@ -283,10 +307,15 @@ orbi.kr
 @@||cab-starplayer.service.concdn.com^$important
 @@/starplayer/
 @@||ec2-3-34-18-9.ap-northeast-2.compute.amazonaws.com^$important
+@@||all.ycdn2.kollus.com.w.cdngslb.com^$important
+
 
 # Vimeo Player Services
 @@||player.vimeo.com^$important
 @@||player.vimeo.com.cdn.cloudflare.net^
+@@||vimeo.com^$important
+@@||vimeocdn.com^$important
+@@||vimeo.map.fastly.net^$important
 
 # EBS Family
 @@||ebsi.co.kr^
@@ -435,6 +464,7 @@ orbi.kr
 @@||studyforce.co.kr^
 @@||sungji.com^
 @@||atom.ac^
+@@||inclass.kr^$important
 @@||mathmedic.kr^
 @@||seoltab.com^
 @@||adiga.kr^
@@ -481,6 +511,36 @@ orbi.kr
 @@||u.expo.dev^$important
 @@||kimstudy.blob.core.windows.net^$important
 ||news.seoul.go.kr^$important
+@@||dshw.co.kr^$important
+# 메가스터디 관련 추가도메인
+@@||russeldata.megastudy.net.gtmc.hscdn.com^$important
+@@||megastudy.com^$important
+@@||megastudyedu.career.greetinghr.com^$important
+@@||megastudybooks.com^
+@@||hscdn.com^
+@@||megalawyers.co.kr^
+@@||megamd.co.kr^
+@@||megaland.co.kr^
+@@||mystudying.sconn.io^$important
+@@||sconn.io^
+@@||aether-study.imweb.me^$important
+@@||unistudy.co.kr^$important
+@@||legendstudy.com^$important
+@@||megastudy.co.kr^$important
+@@||kimstudy.blob.core.windows.net^$important
+@@||edusherpa.kr^
+@@||edujin.co.kr^
+@@||toptutor.co.kr^
+@@||ksredu.com^
+@@||suneungcalc.com^$important
+@@||eonedu.co.kr^$important
+@@||imweb.me^$important
+@@||wecandeo.com^$important
+@@||eseoul.go.kr^$important
+@@||slearn-cdn.eseoul.go.kr^$important
+@@||kmooc.kr^$important
+
+
 
 # Google Services
 ||*google.com^
@@ -557,13 +617,32 @@ orbi.kr
 ||prod-lt-playstoregatewayadapter-pa.googleapis.com^$important
 ||ohttp-relay1.fastly-edge.com^$important
 @@||www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com^
+||update.googleapis.com^$important
 ||googleleadservices.com^
 ||safebrowsing.googleapis.com^$important
 ||safebrowsing.google.com^$important
+||safebrowsingohttpgateway.googleapis.com^$important
 @@||sb-ssl.google.com^$important
 ||firebaseremoteconfigrealtime.googleapis.com^$important
 ||firestore.googleapis.com^$important
 ||firebaseremoteconfig.googleapis.com^$important
+# 짱개구글은 우회용임
+||google.cn^$important
+# 크롬은 풀어주자..
+@@||chrome.google.com^$important
+# 이거 악용많은 구글
+||googlesyndication.com^$important
+# 게임 에뮬레이터 기능이 왜필요함?
+||playgamesemulatorsignals-pa.googleapis.com^$important
+# 구글로 학생이 무슨 자산관리
+||digitalassetlinks.googleapis.com^$important
+# 악의축 remote의 로그수집을 왜함
+||firebaselogging-pa.googleapis.com^$important
+# 분석이 왜필요
+||analytics.google.com^$important
+# 학생들한테 푸시알림 하지마라
+||fcm.googleapis.com^$important
+
 
 ######## YouTube YouTube Youtube #########
 ||yimg.com^$important
@@ -571,6 +650,9 @@ orbi.kr
 ||yt3.ggpht.com^$important
 ||youtubei.googleapis.com^$important
 ||googlevideo.com^
+# 유튜브 차단 명시
+||youtube.com^
+
 
 ### Netflix Netflix #########
 ||netflix.com^
@@ -617,6 +699,7 @@ orbi.kr
 ||storage.live.com^$important
 ||skydrive.wns.windows.com^
 ||onedrive.live.com^
+||copilot.microsoft.com^$important
 
 # Adobe Services
 @@||adobe.io^$important
@@ -674,6 +757,7 @@ orbi.kr
 @@||configuration.apple.com^
 @@||ocsp2-lb.apple.com.akadns.net^
 @@||init.push-apple.com.akadns.net^
+@@||updates.g.aaplimg.com^$important
 ||fpinit-eu.edge-itunes-apple.com.akadns.net^
 @@||gateway.icloud.com^
 @@||gsa.apple.com^
@@ -686,12 +770,15 @@ orbi.kr
 @@||query.ess.apple.com^$important
 @@||query.ess-apple.com.akadns.net^
 @@||valid.apple.com^
+@@||mesu-cdn.origin-apple.com.akadns.net^$important
 ||cl3.g.aaplimg.com^$important
 @@||time.asia.apple.com^$important
 @@||publicassets.cdn-apple.com^
 @@||netcts.cdn-apple.com^
 @@||pancake.cdn-apple.com.akadns.net^
 ||doh.dns.apple.com^$important
+||doh-dns-apple-com.v.aaplimg.com^$important
+||mask-api.fe2.apple-dns.net^$important
 ||mask.apple.com^$important
 ||mail.me.com^$important
 ||mail.me.com.akadns.net^$important
@@ -723,6 +810,7 @@ orbi.kr
 ||appstoreconnect.apple.com^$important
 ||apps.apple.com^$important
 ||iosapps.itunes.apple.com^$important
+||sharedstreams.fe2.apple-dns.net^$important
 ||aaplimg.com^
 ||mask-api.fe2.apple-dns.net^$important
 @@||mzstatic.com^
@@ -754,14 +842,65 @@ orbi.kr
 ||safebrowsing-proxy.g.aaplimg.com^$important
 ||doh.dns.apple.com.v.aaplimg.com^$important
 ||safebrowsing.g.aaplimg.com^$important
+||swallow.apple.com^$important
+||swallow-apple-com.v.aaplimg.com^$important
+@@||cl3.apple.com^$important
+@@||cl3.g.aaplimg.com^$important
+||bag.itunes.apple.com.edgesuite.net^$important
+||cstat-lb.apple.com.akadns.net^$important
+# 학생이 주식을 왜함?
+||stocks-data-service.apple.com^$important
+||stocks-data-service.v.aaplimg.com^$important
+||stocks-sparkline-lb.apple.com.akadns.net^$important
+# 애플에 도움을 왜요청해?
+||help.apple.com^$important
+# 애플 Siri 관련 guzzoni
+||guzzoni.apple.com^$important
+||guzzoni-apple-com.v.aaplimg.com^$important
+# 외부와 단절되어 공부만 해야될 학생이 클라우드를 왜써
+||cdn-icloud-content.g.aaplimg.com^$important
+# 메모는 아이클라우드 메모 말고 다른 것도 많다.
+||prod-event-relay-notes-api.v.aaplimg.com^$important
 
-# Instagram
+
+
+###### Instagram
 /instagram/$important
 # Instagram storiesig
 ||storiesig.info^
 
+###### Facebook
+# Facebook 차단 명시
+||facebook.com^
+@@||connect.facebook.net^
+
+
 # Samsung Services
 @@||orcaservice.samsungmobile.com^$important
+||play.samsungcloud.com^$important
+
+
+######### 대학들 싸이트 ac.kr #####################
+@@||kentech.ac.kr^
+@@||kw.ac.kr^
+@@||anyang.ac.kr^
+@@||cu.ac.kr^
+@@||postech.ac.kr^
+@@||skku.edu^
+@@||snu.ac.kr^
+@@||hanyang.ac.kr^
+@@||sogang.ac.kr^
+@@||cau.ac.kr^
+@@||hongik.ac.kr^
+@@||khu.ac.kr^
+@@||duksung.ac.kr
+@@||navy.ac.kr^
+@@||kma.ac.kr^
+@@||yonsei.ac.kr^
+@@||dongguk.edu^
+@@||korea.ac.kr^$important
+
+
 
 ##### Etc. 기타 분류하기 애매하거나 잘 모르는 것들은 여기에 놓았는데 확인이 되면 다른 곳으로 옮겨도 됩니다. ###############
 @@||polka.typekit.com^$important
@@ -780,6 +919,42 @@ orbi.kr
 @@||img.notionusercontent.com^$important
 @@||images.unsplash.com^$important
 @@||http-inputs-notion.splunkcloud.com^$important
+@@||delivery.dighty.com^$important
+@@||tk.clickon.kr^$important
+@@||bb8-server-prod.okc1.opsnow.com^$important
+@@||slb-25902846.ncloudslb.com^$important
+@@||t1-wg2vgaja.kgslb.com^$important
+@@||sbm.nate.com^$important
+@@||cm.meba.kr^$important
+@@||tk.doem-0tpdlqj.com^$important
+@@||roughtime.int08h.com^$important
+@@||code.jquery.com^$important
+
 ||catalog.gamepass.com^$important
 ||app.adjust.com^$important
 ||slack.com^
+||qualcomm.cn^$important
+# 뭘봐?
+||theboda3.com^$important
+||theboda1.com^$important
+# 비즈스프링 광고
+||logger.co.kr^
+||bizspring.net^
+# toss가 왜필요함?
+||toss.im^
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
