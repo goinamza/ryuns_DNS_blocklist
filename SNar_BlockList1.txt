@@ -851,28 +851,24 @@ orbi.kr
 ### Apple 우회 관련 ####
 ||doh.dns.apple.com^$important
 ||doh-dns-apple-com.v.aaplimg.com^$important
-||mask-api.fe2.apple-dns.net^$important
-||mask.apple.com^$important
+||apple.com.doh.icloud-dns.com$important
 ||apple-dns.net^$important
+||mask.apple.com^$important
 ||mask.icloud.com^$important
 ||mask-h2.icloud.com^$important
 ||mask.apple-dns.net^$important
 ||mask.icloud-dns.net^$important
 ||mask-tunnel.apple.com^$important
 ||mask-api.fe2.apple-dns.net^$important
-||safebrowsing-proxy.g.aaplimg.com^$important
-||doh.dns.apple.com.v.aaplimg.com^$important
-||safebrowsing.g.aaplimg.com^$important
-||apple-relay.fastly-edge.com^$important
 ||courier.push.apple.com^$important
-||apple-relay.cloudflare.com^$important
-||apple-relay.fastly-edge.com^$important
-||relay.fe.apple-dns.net^$important
-||relay.icloud.apple.com^$important
-||mask.apple-dns.net^$important
-||apple.com.doh.icloud-dns.com$important
 ||proxy.safebrowsing.apple^
 ||token.safebrowsing.apple^$important
+||safebrowsing-proxy.g.aaplimg.com^$important
+||safebrowsing.g.aaplimg.com^$important
+||apple-relay.fastly-edge.com^$important
+||apple-relay.cloudflare.com^$important
+||relay.fe.apple-dns.net^$important
+||relay.icloud.apple.com^$important
 
 
 ###### Instagram
