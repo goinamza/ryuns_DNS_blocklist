@@ -635,6 +635,7 @@ orbi.kr
 ||analytics.google.com^$important
 # 학생들한테 푸시알림 하지마라
 ||fcm.googleapis.com^$important
+
 ### 구글 우회 관련 ####
 ||googlehosted.l.googleusercontent.com^$important
 ||firebaseremoteconfigrealtime.googleapis.com^$important
@@ -656,13 +657,13 @@ orbi.kr
 
 
 ######## YouTube YouTube Youtube #########
+# 유튜브 차단 명시
+||youtube.com^
 ||yimg.com^$important
 ||ytimg.com^
 ||yt3.ggpht.com^$important
 ||youtubei.googleapis.com^$important
 ||googlevideo.com^
-# 유튜브 차단 명시
-||youtube.com^
 
 
 ### Netflix Netflix #########
@@ -743,112 +744,195 @@ orbi.kr
 
 
 # APPLE MUST DIE SERVICES APPLE APPlE Apple ##################################
+# 일단 애플 살려는 둘게
 @@||apple.com^
+@@||apple.com.akadns.net^
+@@||*.aaplimg.com^
+||aaplimg.com^
+# 외부와 단절되어 공부만 해야될 학생이 클라우드를 왜써
+@@icloud.com^
+||*.icloud.com^
+||icloud-dns.com^
+||icloud-content.com^
+||icloud.com.akadns.net^$important
+||cdn-icloud-content.g.aaplimg.com^$important
+
+# 시계는 봐야지
 @@||time.apple.com^$important
+@@||time.asia.apple.com^$important
+
+# 인증은 해야된다. 인증 계열
 @@||ocsp2.apple.com^$important
 @@||ocsp.apple.com^$important
 @@||ocsp2.g.aaplimg.com^$important
-@@||updates.cdn-apple.com^
-@@aidc.origin-apple.com.akadns.net^
-@@||apple.com.akadns.net^
-@@||*.aaplimg.com^
-@@||ls-apple.com.akadns.net^
-@@||idms-apple.com^
-@@||gdmf.apple.com^
-@@pancake.apple.com^
-@@captive.apple.com^
-@@push.apple.com^
-@@crl.apple.com^
-@@api.push.apple.com^
-@@init.push.apple.com^
-@@gateway.push.apple.com^
-@@init.ess.apple.com^
-@@||configuration.apple.com^
 @@||ocsp2-lb.apple.com.akadns.net^
-@@||init.push-apple.com.akadns.net^
-@@||updates.g.aaplimg.com^$important
-||fpinit-eu.edge-itunes-apple.com.akadns.net^
-@@||gateway.icloud.com^
+@@crl.apple.com^
 @@||gsa.apple.com^
-@@||cl3.apple.com^
-@@||pds.ess.apple.com^
-@@||kt-prod.ess.apple.com^
 @@||gsa.idms-apple.com.akadns.net^
 @@||gsas.apple.com^$important
 @@||gsas.idms-apple.com.akadns.net^
-@@||query.ess.apple.com^$important
-@@||query.ess-apple.com.akadns.net^
+@@||idms-apple.com^
+@@||idms-apple.com.akadns.net^$important
 @@||valid.apple.com^
-@@||mesu-cdn.origin-apple.com.akadns.net^$important
-||cl3.g.aaplimg.com^$important
-@@||time.asia.apple.com^$important
-@@||publicassets.cdn-apple.com^
+@@||ppq.apple.com^
+
+# 로그인은 해야됨
+@@||appleid.cdn-apple.com^
+@@||idmsa.apple.com^
+@@setup.icloud.com^
+
+# Apple 기기 네트워크 상태 파악 도메인
 @@||netcts.cdn-apple.com^
-@@||pancake.cdn-apple.com.akadns.net^
-||mzstatic.com^$important
-||mail.me.com^$important
-||mail.me.com.akadns.net^$important
-||gateway.icloud.com^$important
-@@||configuration.apple.com^$important
-@@||*.ess.apple.com^
+# 만악의 근원 중 하나 front-end (fe) 지만 여기까진 내준다.
 @@||fe.apple-dns.net^
 @@||fe2.apple-dns.net^
+
+# Gateway 여기를 통과해서 여기저기 뿌려지지만, 일단 여기도 내준다.
+||gateway.icloud.com^$important
 @@||gateway.fe2.apple-dns.net^
-||gs-loc.apple-dns.net^$important
-@@||configuration.apple.com.akadns.net^
-||appldnld.apple.com^$important
-||icloud-dns.com^
+acsegateway.fe2.apple-dns.net
+p125-acsegateway.icloud.com
+p134-acsegateway.icloud.com
+
+# Update 관련(될지 안될지는 모르지만..)
+@@||updates.cdn-apple.com^
+@@||updates.g.aaplimg.com^$important
+@@||gdmf.apple.com^
+@@||download.developer.apple.com^
+@@||appldnld.apple.com^
+@@||xp.apple.com^
+
+# ess 에센셜 계열. 이건 하위까지 풀어줘야됨.
+@@init.ess.apple.com^
+@@||pds.ess.apple.com^
+@@||kt-prod.ess.apple.com^
+@@||query.ess.apple.com^$important
+@@||query.ess-apple.com.akadns.net^$important
+@@||*.ess.apple.com^$important
+@@||ess-apple.com.akadns.net^$important
+
+# iTunes 계열, 음악 전반
 /itunes/$important
-||ls-apple.com.akadns.net^
+||fpinit-eu.edge-itunes-apple.com.akadns.net^$important
+||bag.itunes.apple.com^$important
+||bag.itunes.apple.com.edgesuite.net^$important
+||*.itunes.apple.com^$important
+||iosapps.itunes.apple.com^$important
+||iosapps.itunes.g.aaplimg.com^$important
+||audiocontentdownload.apple.com^$important
+||bag-cdn-akam.itunes-apple.com.akadns.net^$important
+||commerce.itunes.apple.com.edgesuite.net^$important
+# daap 은 digital audio access protocol 의 약자임. 
+||librarydaap-cdn.lb-apple.com.akadns.net^$important
+
+# Appstore 계열
 ||appstoreconnect.apple.com^$important
 ||apps.apple.com^$important
-||iosapps.itunes.apple.com^$important
-||sharedstreams.fe2.apple-dns.net^$important
-||aaplimg.com^
-@@||mzstatic.com^
-||icloud-content.com^
-||api.apple-cloudkit.com^$important
-@@||apple.com.akadns.net^
-||idms-apple.com.akadns.net^$important
-@@||gsp64-ssl.ls-apple.com.akadns.net^$important
-||origin-apple.com.akadns.net^$important
-@@||ess-apple.com.akadns.net^$important
+||mzstorekit.lb-apple.com.akadns.net^$important
+# iTunes에서 뭐 살 때 필요한듯? mzstorekit
+||mzstorekit.itunes.apple.com^$important
+# mz가 뭔가 스토어 이름 같음
+||mzstatic.com^$important
+
+# Push 계열
+@@||init.push-apple.com.akadns.net^
+@@push.apple.com^
+@@api.push.apple.com^
+@@init.push.apple.com^
+@@gateway.push.apple.com^
 ||*.push-apple.com.akadns.net^$important
-||download.apple.map.fastly.net^$important
-||lb-apple.com.akadns.net^$important
-||apple.map.fastly.net^$important
-||icloud.com.akadns.net^$important
-||gs.apple.com^$important
-||api.apple-toolkit.com^$important
-||gs.apple.com.v.aaplimg.com$important
 ||*.push.apple.com^$important
-||*.itunes.apple.com^$important
-@@||ppq.apple.com^
-||audiocontentdownload.apple.com^$important
-@@||download.developer.apple.com^
-||playgrounds-assets-cdn.apple.com^$important
-||playgrounds-cdn.apple.com^$important
-||swallow.apple.com^$important
-||swallow-apple-com.v.aaplimg.com^$important
+
+# mesu 계열 (업데이트와 관련)
+@@||mesu.apple.com^
+@@||mesu.g.aaplimg.com^
+@@||mesu-cdn.origin-apple.com.akadns.net^$important
+# Home sharing 관련 pancake
+@@pancake.apple.com^
+@@||pancake.cdn-apple.com.akadns.net^
+
+# Captive portal 인터넷 접속 관련
+@@captive.apple.com^
+# Mail 관련
+||mail.me.com^$important
+||mail.me.com.akadns.net^$important
+
+# 컨텐츠 전송 관련
 @@||cl3.apple.com^$important
 @@||cl3.g.aaplimg.com^$important
-||bag.itunes.apple.com.edgesuite.net^$important
-||cstat-lb.apple.com.akadns.net^$important
+
+# Configuration. 기기 설정 변경이나 구성 업데이트 인데, 이걸로 애플이 기기들을 조종할 가능성 있음.
+@@||configuration.apple.com^
+@@||configuration.apple.com.akadns.net^
+
+# 원본 origin 데이터들을 갖고 있는 서버
+@@aidc.origin-apple.com.akadns.net^
+@@||origin-apple.com.akadns.net^$important
+
+# API Toolkit 관련
+||api.apple-toolkit.com^$important
+||api.apple-cloudkit.com^$important
+
+# iCloud 사진 공유 기능
+||sharedstreams.fe2.apple-dns.net^$important
+
+# Apple 위치 기반 서비스들
+@@||ls-apple.com.akadns.net^
+@@||gsp64-ssl.ls-apple.com.akadns.net^$important
+||gs-loc.apple-dns.net^$important
+||gs.apple.com^$important
+||gs.apple.com.v.aaplimg.com$important
+
+# Load Balancing (lb) 데이터 전송 효율 관련
+@@||lb-apple.com.akadns.net^$important
+@@||cstat-lb.apple.com.akadns.net^$important
+
+# Apple 지도 관련
+||download.apple.map.fastly.net^$important
+||apple.map.fastly.net^$important
+
+# Siri 음성 AI 서비스 관련 (swallow, guzzoni)
+||swallow.apple.com^$important
+||swallow-apple-com.v.aaplimg.com^$important
+||guzzoni.apple.com^$important
+||guzzoni-apple-com.v.aaplimg.com^$important
+
+# 애플 아이콘, 이미지 등 정적 콘텐츠 전송 관련
+@@||publicassets.cdn-apple.com^
+@@||world-gen.g.aaplimg.com^
+
+# Apple Wallet, Passbook 관련 (결제?)
+@@||smp-device-content.g.aaplimg.com^
+@@||smp-device-content.apple.com^
+@@||smp-device-content.lb-apple.com.akadns.net^
+@@||*-smp-device.apple.com^
+@@||*-smp-device.gcsis-apple.com.akadns.net^
+@@||pr-pod8-smp-device.gcsis-apple.com.akadns.net^
+@@||nc-pod9-smp-device.apple.com^
+@@||nc-pod10-smp-device.gcsis-apple.com.akadns.net^
+@@||pr-pod10-smp-device.apple.com^
+@@||pr-pod10-smp-device.gcsis-apple.com.akadns.net^
+
+# Playgrounds (무슨 코딩인가 뭐시기? swift playgrounds)
+||playgrounds-assets-cdn.apple.com^$important
+||playgrounds-cdn.apple.com^$important
+
 # 학생이 주식을 왜함?
+||stocks-edge.apple.com^$important
+||stocks-sparkline.apple.com^$important
 ||stocks-data-service.apple.com^$important
 ||stocks-data-service.v.aaplimg.com^$important
 ||stocks-sparkline-lb.apple.com.akadns.net^$important
+||stocks-data-service.lb-apple.com.akadns.net^$important
+
 # 애플에 도움을 왜요청해?
 ||help.apple.com^$important
-# 애플 Siri 관련 guzzoni
-||guzzoni.apple.com^$important
-||guzzoni-apple-com.v.aaplimg.com^$important
-# 외부와 단절되어 공부만 해야될 학생이 클라우드를 왜써
-||cdn-icloud-content.g.aaplimg.com^$important
+
 # 메모는 아이클라우드 메모 말고 다른 것도 많다.
 ||prod-event-relay-notes-api.v.aaplimg.com^$important
 
-### Apple 우회 관련 ####
+
+### Apple 우회 관련 (Private relay, ohttp, doh 합작품) ####
 ||doh.dns.apple.com^$important
 ||doh-dns-apple-com.v.aaplimg.com^$important
 ||apple.com.doh.icloud-dns.com$important
@@ -869,6 +953,9 @@ orbi.kr
 ||apple-relay.cloudflare.com^$important
 ||relay.fe.apple-dns.net^$important
 ||relay.icloud.apple.com^$important
+||gateway-oblivious.apple.com^$important
+
+# 아직 잘 모르겠는 Apple들
 
 
 ###### Instagram
