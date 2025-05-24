@@ -860,9 +860,9 @@ orbi.kr
 @@||fpinit.edge-itunes-apple.com.akadns.net^
 @@||fpinit-apac.edge-itunes-apple.com.akadns.net^
 @@||fpinit-apac-n.edge-itunes-apple.com.akadns.net^
+@@||fpinit-eu.edge-itunes-apple.com.akadns.net^
 
 ###/itunes/$important
-||fpinit-eu.edge-itunes-apple.com.akadns.net^$important
 ||entitlements.itunes.apple.com^$important
 ||entitlements.edge-itunes-apple.com.akadns.net^$important
 ||musicstatus.itunes.apple.com^$important
