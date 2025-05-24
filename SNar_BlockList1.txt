@@ -833,6 +833,7 @@ orbi.kr
 @@||updates-http.cdn-apple.com^
 @@||updates.g.aaplimg.com^$important
 @@||gdmf.apple.com^
+@@||gdmf.v.aaplimg.com^
 @@||gdmf-ados.v.aaplimg.com^
 @@||swdownload.apple.com^
 @@||swdist.apple.com^
@@ -902,6 +903,19 @@ orbi.kr
 ||librarydaap-cdn.lb-apple.com.akadns.net^$important
 ### 목적지
 ###@@||e8506.dsct.akamaiedge.net^$important
+
+# 미디어 콘텐츠 전송 관련
+||amp-api.media.apple.com^$important
+||amp-api.media-lb.apple.com.akadns.net^$important
+||amp-api-media-akam.itunes-apple.com.akadns.net^$important
+||h3.apis.apple.map.fastly.net^$important
+
+# Apple TV 관련
+||tv.apple.com^$important
+||tv-cdn.itunes-apple.com.akadns.net^$important
+||itunes.apple.com.edgekey.net^$important
+### 목적지
+##@@e673.dsce9.akamaiedge.net^
 
 # Appstore 계열
 ||appstoreconnect.apple.com^$important
@@ -1026,11 +1040,22 @@ orbi.kr
 # Apple 위치 기반 서비스들
 @@||ls-apple.com^
 @@||ls-apple.com.akadns.net^
-@@||gsp64-ssl.ls-apple.com.akadns.net^
+@@||gspe*-ssl.ls.apple.com^
+@@||gspe*-ssl.ls.apple.com.edgesuite.net^
+### 목적지
+###@@a1366.dscapi6.akamai.net^
+@@||gsp*-ssl.ls-apple.com.akadns.net^
 @@||configuration.ls.apple.com^
 @@||configuration-lb.ls-apple.com.akadns.net^
 @@||configuration.ls.v.aaplimg.com^
+@@||gsp-ssl-kr.ls.apple.com^
+@@||gsp-ssl-kr.ls-apple.com.akadns.net^
+@@||gspe*-kr-ssl.ls.apple.com
+@@||gsp*-kr.ls-apple.com.akadns.net
 
+@@||gs-loc.apple.com^
+@@||gs-loc-new.ls-apple.com.akadns.net^
+@@||gs-loc.ls-apple.com.akadns.net^
 @@||gs-loc.apple-dns.net^$important
 @@||gs.apple.com^
 @@||gs.apple.com.v.aaplimg.com^
