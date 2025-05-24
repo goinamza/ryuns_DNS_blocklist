@@ -57,7 +57,6 @@
 @@||kriss.re.kr^
 @@||notion.so^
 @@||ntp.kornet.net^$important
-@@||sentry.io^
 @@||cdnetworks.co.kr^
 @@||cdnetworks.com^
 @@||wireguard.com^
@@ -1440,7 +1439,7 @@ orbi.kr
 ||toss.im^
 ||spotifycdn.com^
 ||spotify.com^
-
+||sentry.io^
 
 
 
