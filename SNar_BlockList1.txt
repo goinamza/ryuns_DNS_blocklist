@@ -882,8 +882,12 @@ orbi.kr
 
 # ess 에센셜 계열. 이건 하위까지 풀어줘야됨.
 @@||init.ess.apple.com^^$important
+@@||init-cdn-lb.ess-apple.com.akadns.net^
+@@||init.ess.g.aaplimg.com^
 @@||pds.ess.apple.com^^$important
-@@||kt-prod.ess.apple.com^^$important
+@@||pds-prod.v.aaplimg.com^#important
+@@||kt-prod.ess.apple.com^$important
+@@||kt-prod.v.aaplimg.com^$important
 @@||static.ess.apple.com^^$important
 @@||staticess.g.aaplimg.com^^$important
 @@||query.ess.apple.com^$important
@@ -1016,6 +1020,7 @@ orbi.kr
 ||amp-api.media.apple.com^$important
 ||amp-api.media-lb.apple.com.akadns.net^$important
 ||amp-api-media-akam.itunes-apple.com.akadns.net^$important
+||amp-api-apps-akam.itunes-apple.com.akadns.net^$important
 ||h3.apis.apple.map.fastly.net^$important
 ||h3.media.apple.map.fastly.net^$important
 
