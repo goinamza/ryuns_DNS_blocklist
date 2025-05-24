@@ -864,6 +864,7 @@ orbi.kr
 
 ###/itunes/$important
 ||itunes.apple.com^$important
+@@||init.itunes.apple.com^$important
 ||client-api.itunes.apple.com^$important
 ||entitlements.itunes.apple.com^$important
 ||entitlements.edge-itunes-apple.com.akadns.net^$important
@@ -878,7 +879,7 @@ orbi.kr
 ||bag.itunes.apple.com^$important
 ||bag.itunes.apple.com.edgesuite.net^$important
 ||bag-cdn-akam.itunes-apple.com.akadns.net^$important
-bag-cdn-lb2.itunes-apple.com.akadns.net
+||bag-cdn-lb2.itunes-apple.com.akadns.net^$important
 ### bag.itunes.apple.com 등의 목적지
 ###@@||a68.dscg4.akamai.net^$important
 ||*buy.itunes.apple.com^$important
