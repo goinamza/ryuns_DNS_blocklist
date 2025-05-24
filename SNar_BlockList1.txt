@@ -814,12 +814,12 @@ orbi.kr
 @@||iphone-ld.origin-apple.com.akadns.net^$important
 @@||iphone-ld.apple.com-v1.edgesuite.net^$important
 ### 최종 목적지
-###@@a1931.dscgi3.akamai.net^
+@@||a1931.dscgi3.akamai.net^
 @@||init-p01md.apple.com^$important^$important
 @@||init-p01md-lb.push-apple.com.akadns.net^$important
 @@||init-p01md.apple.com.edgesuite.net^$important
 ### 목적지
-###@@a1051.dscg4.akamai.net^
+@@||a1051.dscg4.akamai.net^
 
 # ssl 보안 연결 엔드포인트. 이건 풀어줘야 인증이 될 듯
 @@||gspe*-ssl.ls.apple.com^$important
@@ -858,7 +858,7 @@ orbi.kr
 @@||swdist.apple.com.akadns.net^
 @@||swdist.apple.com.edgekey.net^
 ### 목적지
-##@@e5977.dsce9.akamaiedge.net^
+@@||e5977.dsce9.akamaiedge.net^
 
 @@||kt-prod.apple.com^
 @@||kt-prod.ess-apple.com.akadns.net^
@@ -874,12 +874,12 @@ orbi.kr
 @@||appldnld.g.aaplimg.com^
 @@||appldnld.apple.com.edgesuite.net^
 ### 목적지
-###@@a1271.dscgi3.akamai.net^
+@@||a1271.dscgi3.akamai.net^
 
 @@||xp.apple.com^
 @@||xp.itunes-apple.com.akadns.net^
 @@||xp.apple.com.edgekey.net^
-###@@e17437.dsct.akamaiedge.net^
+@@||e17437.dsct.akamaiedge.net^
 
 # ess 에센셜 계열. 이건 하위까지 풀어줘야됨.
 @@||init.ess.apple.com^^$important
@@ -900,22 +900,25 @@ orbi.kr
 @@||fpinit-apac.edge-itunes-apple.com.akadns.net^^$important
 @@||fpinit-apac-n.edge-itunes-apple.com.akadns.net^^$important
 @@||fpinit-eu.edge-itunes-apple.com.akadns.net^^$important
+@@||commerce.itunes.apple.com.edgesuite.net^$important
+@@||a2030.dscapi9.akamai.net^$important
 
 #### 징글징글한 iTunes... 기본은 허용으로 할 수밖에 없음...
 ||itunes.apple.com^$important
 # 초기 이니셜라이즈. 이것은 풀어보자.
 @@||init.itunes.apple.com^$important
 @@||init-cdn.itunes-apple.com.akadns.net^$important
+###||e673.dsce9.akamaiedge.net^$important
 ||client-api.itunes.apple.com^$important
+||a1838.dscw154.akamai.net^$important
+
 ||entitlements.itunes.apple.com^$important
 ||entitlements.edge-itunes-apple.com.akadns.net^$important
 ||musicstatus.itunes.apple.com^$important
 ||musicstatus.edge-itunes-apple.com.akadns.net^$important
 ||musicstatus-apac.edge-itunes-apple.com.akadns.net^$important
 ||musicstatus-apac-n.edge-itunes-apple.com.akadns.net^$important
-@@||commerce.itunes.apple.com.edgesuite.net^$important
-@@||fpinit-apac-n.edge-itunes-apple.com.akadns.net^$important
-### 4 목적지 (akamai는 건드리면 안됨. 얘는 풀어줘야함 ㅠㅠㅠ)
+### 4 목적지
 ###@@||a2030.dscapi9.akamai.net^$important
 ||bag.itunes.apple.com^$important
 ||bag.itunes.apple.com.edgesuite.net^$important
@@ -923,9 +926,11 @@ orbi.kr
 ||bag-cdn-lb2.itunes-apple.com.akadns.net^$important
 ||bag-cdn-*.itunes-apple.com.akadns.net^$important
 ### bag.itunes.apple.com 등의 목적지
-###@@||a68.dscg4.akamai.net^$important
+||a68.dscg4.akamai.net^$important
+
 ||*buy.itunes.apple.com^$important
 ||buy.itunes-apple.com.akadns.net^$important
+
 ###||*.itunes.apple.com^$important
 # iTunes 음악 백엔드 서비스
 ||pd.itunes.apple.com^$important
@@ -939,19 +944,41 @@ orbi.kr
 ||apps.apple.com^$important
 ||apps-cdn.itunes-apple.com.akadns.net^$important
 ### 위의 것들의 중간 계류지 (매우 중요! itunes의 대부분은 다 이쪽으로 간 뒤에 e673으로 나감)
-@@||itunes.apple.com.edgekey.net^$important
+||itunes.apple.com.edgekey.net^$important
 ### itunes.apple.com, music.apple.com 등의 목적지
-###@@||e673.dsce9.akamaiedge.net^$important
+||e673.dsce9.akamaiedge.net^$important
+# Apple TV 관련
+||tv.apple.com^$important
+||tv-cdn.itunes-apple.com.akadns.net^$important
+||itunes.apple.com.edgekey.net^$important
+### 목적지
+##||e673.dsce9.akamaiedge.net^
+# mz가 뭔가 스토어 이름 같음. 맞겠지. 애플로 뭐 살 때도 필요
+||mzstatic.com^$important
+||apps.mzstatic.com^$important
+||s.mzstatic.com^$important
+||s.mzstatic.itunes-apple.com.akadns.net^$important
+||mzstatic.com.edgekey.net^$important
+||is-ssl.mzstatic.com.itunes-apple.com.akadns.net^$important
+### Final Target
+##||e673.dsce9.akamaiedge.net^$important
+
+# Configuration. 기기 설정 변경이나 구성 업데이트 인데, 이걸로 애플이 기기들을 조종할 가능성 있음.
+@@||configuration.apple.com^
+@@||configuration.apple.com.akadns.net^
+@@||configuration.apple.com.edgekey.net^
+### 위의 것들이 결국 여기서 막힘. 이건 itunes가 쓰는거랑 똑같은 도메인임...애플 조종은 없다.
+###||e673.dsce9.akamaiedge.net^
 
 # iTunes 주로 가사보기 기능
 ||se2.itunes.apple.com^important
 ||se2-cdn.itunes-apple.com.akadns.net^$important
 ||se2.itunes.apple.com.edgesuite.net^$important
-###@@a1802.dscw154.akamai.net^
+||a1802.dscw154.akamai.net^$important
 
 ||video.itunes.apple.com^$important
 ###video 목적지
-###@@||a722.dscgi3.akamai.net^$important
+||a722.dscgi3.akamai.net^$important
 
 ||aod.itunes.apple.com^$important
 ||aod.itunes.g.aaplimg.com^$important
@@ -959,7 +986,7 @@ orbi.kr
 ||amd-infra.itunes.apple.com^$important
 ||amd-infra.itunes.g.aaplimg.com^$important
 ### 목적지
-###@@||a1911.dscgi3.akamai.net^$important
+||a1911.dscgi3.akamai.net^$important
 
 ||iosapps.itunes.apple.com^$important
 ||iosapps.itunes.g.aaplimg.com^$important
@@ -976,55 +1003,37 @@ orbi.kr
 ||downloaddispatch.itunes.apple.com^$important
 ||downloaddispatch.itunes.apple.com.edgesuite.net^$important
 ### 목적지
-###@@a1988.dscapi6.akamai.net^
-
+||a1988.dscapi6.akamai.net^
 
 # daap 은 digital audio access protocol 의 약자임. 이것은 동일 내부 네트워크에 있는 Apple 사용자끼리 음악 공유하는 기능인 것 같음.
 ||librarydaap.itunes.apple.com^$important
 ||librarydaap-cdn.lb-apple.com.akadns.net^$important
 ||librarydaap.itunes.apple.com.edgekey.net^$important
 ### 목적지
-###@@||e8506.dsct.akamaiedge.net^$important
+||e8506.dsct.akamaiedge.net^$important
 
 # 미디어 콘텐츠 전송 관련
 ||amp-api.media.apple.com^$important
 ||amp-api.media-lb.apple.com.akadns.net^$important
 ||amp-api-media-akam.itunes-apple.com.akadns.net^$important
-@@||h3.apis.apple.map.fastly.net^$important
+||h3.apis.apple.map.fastly.net^$important
 ||h3.media.apple.map.fastly.net^$important
-
-# Apple TV 관련
-||tv.apple.com^$important
-||tv-cdn.itunes-apple.com.akadns.net^$important
-@@||itunes.apple.com.edgekey.net^$important
-### 목적지
-##@@e673.dsce9.akamaiedge.net^
 
 # Appstore 계열
 ||appstoreconnect.apple.com^$important
 ### 목적지
-###@@||e2490.dscb.akamaiedge.net^$important
+||e2490.dscb.akamaiedge.net^$important
 
 # iTunes에서 뭐 살 때 필요한듯? mzstorekit
 ||mzstorekit.itunes.apple.com^$important
 ||mzstorekit.apple.com^$important
 ||mzstorekit.lb-apple.com.akadns.net^$important
 ### Target
-###@@||a1914.dscapi9.akamai.net^$important
+||a1914.dscapi9.akamai.net^$important
 
 ||securemetrics.apple.com^$important
 ||securemetrics.v.aaplimg.com^$important
 
-
-# mz가 뭔가 스토어 이름 같음. 맞겠지. 애플로 뭐 살 때도 필요
-||mzstatic.com^$important
-||apps.mzstatic.com^$important
-||s.mzstatic.com^$important
-||s.mzstatic.itunes-apple.com.akadns.net^$important
-||mzstatic.com.edgekey.net^$important
-||is-ssl.mzstatic.com.itunes-apple.com.akadns.net^$important
-### Final Target
-###@@||e673.dsce9.akamaiedge.net^$important
 
 ######## Push 계열 ############# 미치는 부분...
 @@||push.apple.com^
@@ -1048,46 +1057,39 @@ orbi.kr
 @@||mesu.g.aaplimg.com^
 
 # Home sharing 관련 pancake
-@@pancake.apple.com^
+@@||pancake.apple.com^
 @@||pancake.cdn-apple.com.akadns.net^
-@@pancake.g.aaplimg.com^
+@@||pancake.g.aaplimg.com^
 
 # smoot 계열, 애플 검색 편의, 자동완성 등 검색 관련 시스템, 검색 엔진이 있는 것 같은데.. 써보질 않아서 모르겠다..
-@@fbs.smoot.apple.com^
-@@smoot-feedback.v.aaplimg.com^
-@@api.smoot.apple.com^
-@@bag-smoot.v.aaplimg.com^
-@@api-glb-aapne1a.smoot.apple.com^
-@@smoot-searchv2-aapne1a.v.aaplimg.com^
+@@||fbs.smoot.apple.com^
+@@||smoot-feedback.v.aaplimg.com^
+@@||api.smoot.apple.com^
+@@||bag-smoot.v.aaplimg.com^
+@@||api-glb-aapne1a.smoot.apple.com^
+@@||smoot-searchv2-aapne1a.v.aaplimg.com^
 
-@@api-safari-aapne1a.smoot.apple.com^
-@@smoot-api-safari-aapne1a.v.aaplimg.com^
+@@||api-safari-aapne1a.smoot.apple.com^
+@@||smoot-api-safari-aapne1a.v.aaplimg.com^
 
 # Captive portal 인터넷 접속 관련
-@@captive.apple.com^
-@@captive.g.aaplimg.com^
+@@||captive.apple.com^
+@@||captive.g.aaplimg.com^
 
 # Mail 관련
 ||mail.me.com^$important
 ||mail.me.com.akadns.net^$important
 
 # 컨텐츠 전송 관련
-@@cl2.apple.com^
-@@cl2-cdn.origin-apple.com.akadns.net^
-@@cl2.g.aaplimg.com^
-@@cl3.apple.com^
-@@cl3-cdn.origin-apple.com.akadns.net^
-@@cl3.g.aaplimg.com^
-@@cl4.apple.com^
-@@cl4-cdn.origin-apple.com.akadns.net^
-@@cl4.g.aaplimg.com^
-
-# Configuration. 기기 설정 변경이나 구성 업데이트 인데, 이걸로 애플이 기기들을 조종할 가능성 있음.
-@@||configuration.apple.com^
-@@||configuration.apple.com.akadns.net^
-@@||configuration.apple.com.edgekey.net^
-### 위의 것들이 결국 여기서 막힘. 이건 itunes가 쓰는거랑 똑같은 도메인임...이건 차단하면 안됨.
-###@@||e673.dsce9.akamaiedge.net^
+@@||cl2.apple.com^
+@@||cl2-cdn.origin-apple.com.akadns.net^
+@@||cl2.g.aaplimg.com^
+@@||cl3.apple.com^
+@@||cl3-cdn.origin-apple.com.akadns.net^
+@@||cl3.g.aaplimg.com^
+@@||cl4.apple.com^
+@@||cl4-cdn.origin-apple.com.akadns.net^
+@@||cl4.g.aaplimg.com^
 
 # 원본 origin 데이터들을 갖고 있는 서버
 @@||aidc.origin-apple.com.akadns.net^
@@ -1115,15 +1117,15 @@ orbi.kr
 @@||weatherkit.apple.com.akadns.net^
 @@||weather-data.apple.com.akamaized.net^
 ### 목적지
-###@@a2047.dscapi9.akamai.net^
+@@||a2047.dscapi9.akamai.net^
 @@||weather-edge.apple.com^
 @@||weather-edge.fe2.apple-dns.net^
 
 
 # Apple 차등 프라이버시 관련 (우회랑은 상관 적음)
-@@fides-pol.apple.com^
-@@unlinkability.apple.com^
-@@unlinkability.fe2.apple-dns.net^
+@@||fides-pol.apple.com^
+@@||unlinkability.apple.com^
+@@||unlinkability.fe2.apple-dns.net^
 
 # Apple 위치 기반 서비스들
 @@||ls-apple.com^
@@ -1131,13 +1133,20 @@ orbi.kr
 @@||gspe*-ssl.ls.apple.com^
 @@||gspe*-ssl.ls.apple.com.edgesuite.net^
 ### 목적지
-###@@a1366.dscapi6.akamai.net^
+@@||a1366.dscapi6.akamai.net^
+
 @@||gsp*-ssl.ls-apple.com.akadns.net^
+@@||gsp-ssl-geomap.ls-apple.com.akadns.net
+@@||gspx-ssl.ls.apple.com
+@@||get-bx.g.aaplimg.com
+
 @@||configuration.ls.apple.com^
 @@||configuration-lb.ls-apple.com.akadns.net^
 @@||configuration.ls.v.aaplimg.com^
+
 @@||gsp-ssl-kr.ls.apple.com^
 @@||gsp-ssl-kr.ls-apple.com.akadns.net^
+
 @@||gspe*-kr-ssl.ls.apple.com
 @@||gsp*-kr.ls-apple.com.akadns.net
 
@@ -1154,11 +1163,11 @@ orbi.kr
 @@||cds.apple.com.akadns.net^
 @@||cds.apple.com.edgekey.net^
 ### 최종 목적지
-###@@e14768.dscb.akamaiedge.net^
+@@||e14768.dscb.akamaiedge.net^
 
 # 베타버전 소프트웨어 업데이트 등록
-@@bpapi.apple.com^
-@@bpapi.v.aaplimg.com^
+@@||bpapi.apple.com^
+@@||bpapi.v.aaplimg.com^
 
 # Load Balancing (lb) 데이터 전송 효율 관련
 @@||lb-apple.com^
@@ -1177,13 +1186,20 @@ orbi.kr
 @@||world-gen.g.aaplimg.com^
 
 # Apple Wallet, Passbook 관련 (결제?)
-@@||smp-device-content.g.aaplimg.com^
+
 @@||smp-device-content.apple.com^
 @@||smp-device-content.lb-apple.com.akadns.net^
+@@||smp-device-content-us.lb-apple.com.akadns.net^
+@@||smp-device-content.g.aaplimg.com^
+
 @@||*-smp-device.apple.com^
 @@||*-smp-device.gcsis-apple.com.akadns.net^
+
+@@||pr-pod8-smp-device.apple.com^
 @@||pr-pod8-smp-device.gcsis-apple.com.akadns.net^
 @@||nc-pod9-smp-device.apple.com^
+@@||nc-pod9-smp-device.gcsis-apple.com.akadns.net^
+@@||nc-pod10-smp-device.apple.com^
 @@||nc-pod10-smp-device.gcsis-apple.com.akadns.net^
 @@||pr-pod10-smp-device.apple.com^
 @@||pr-pod10-smp-device.gcsis-apple.com.akadns.net^
@@ -1195,7 +1211,7 @@ orbi.kr
 # 애플 기기 위치 찾기 (Find My iPhone) 분실 시 복구 등과 관련. 찾아줘야됨
 @@||*fmipmobile.icloud.com^
 @@||fmipmobile.fe2.apple-dns.net^
-@@fmip.fe2.apple-dns.net^
+@@||fmip.fe2.apple-dns.net^
 @@||fmipalservice.icloud.com^
 @@||fmipalservice.fe2.apple-dns.net^
 @@||fmip.apple.com^
@@ -1216,7 +1232,7 @@ orbi.kr
 ||init.gc.apple.com^$important
 ||init.gc-lb.apple.com.akadns.net^$important
 ||init.gc.apple.com.edgekey.net^$important
-###@@e5871.dscd.akamaiedge.net
+||e5871.dscd.akamaiedge.net
 # Profile만 통과시켜보자.
 @@||profile.gc.apple.com
 @@||profile.gc-apple.com.akadns.net
@@ -1255,8 +1271,8 @@ orbi.kr
 ||mask.apple-dns.net^$important
 ||mask.icloud-dns.net^$important
 ||mask-tunnel.apple.com^$important
-||mask-api.fe2.apple-dns.net^$important
 ||mask-api.icloud.com^$important
+||mask-api.fe2.apple-dns.net^$important
 ||courier.push.apple.com^$important
 
 ||proxy.safebrowsing.apple^
@@ -1280,11 +1296,6 @@ orbi.kr
 ||me.apple-dns.net^$important
 
 # 아직 잘 모르겠는 Apple들
-
-
-
-
-
 
 ###### Instagram
 /instagram/$important
