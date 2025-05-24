@@ -934,7 +934,8 @@ orbi.kr
 
 ||*buy.itunes.apple.com^$important
 ||buy.itunes-apple.com.akadns.net^$important
-
+||p49-buy-lb.itunes-apple.com.akadns.net^$important
+||*-buy-lb.itunes-apple.com.akadns.net^$important
 ###||*.itunes.apple.com^$important
 # iTunes 음악 백엔드 서비스
 ||sandbox.itunes.apple.com^$important
@@ -962,13 +963,23 @@ orbi.kr
 ##||e673.dsce9.akamaiedge.net^
 # mz가 뭔가 스토어 이름 같음. 맞겠지. 애플로 뭐 살 때도 필요
 ||mzstatic.com^$important
-||apps.mzstatic.com^$important
+
 ||s.mzstatic.com^$important
 ||s.mzstatic.itunes-apple.com.akadns.net^$important
+||s-mzstatic-applak.itunes-apple.com.akadns.net^$important
 ||mzstatic.com.edgekey.net^$important
 ||is-ssl.mzstatic.com.itunes-apple.com.akadns.net^$important
+||is-ssl-cdn.itunes-apple.com.akadns.net^$important
+||h3.apis.apple.map.fastly.net^$important
+
 ### Final Target
 ##||e673.dsce9.akamaiedge.net^$important
+
+||apps.mzstatic.com^$important
+||apps-mzstatic-cdn.itunes-apple.com.akadns.net^$important
+||apps-mzstatic-lb2.itunes-apple.com.akadns.net^$important
+||apps.mzstatic.com-v1.edgesuite.net^$important
+||a339.dscgi3.akamai.net^$important
 
 # Configuration. 기기 설정 변경이나 구성 업데이트 인데, 이걸로 애플이 기기들을 조종할 가능성 있음.
 @@||configuration.apple.com^
@@ -1450,7 +1461,7 @@ orbi.kr
 ||spotifycdn.com^
 ||spotify.com^
 ||sentry.io^
-
+||footprintdns.com^
 
 
 
