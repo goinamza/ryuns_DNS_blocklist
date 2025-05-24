@@ -1171,6 +1171,25 @@ orbi.kr
 ||playgrounds-assets-cdn.apple.com^$important
 ||playgrounds-cdn.apple.com^$important
 
+# Apple Game Center 관련
+||gc.apple.com^$important
+||gc.apple.com.akadns.net^$important
+||init.gc.apple.com^$important
+||init.gc-lb.apple.com.akadns.net^$important
+||init.gc.apple.com.edgekey.net^$important
+###@@e5871.dscd.akamaiedge.net
+# Profile만 통과시켜보자.
+@@||profile.gc.apple.com
+@@||profile.gc-apple.com.akadns.net
+@@||profile.gc.fe2.apple-dns.net
+||link.gc.apple.com^$important
+||link.gc-apple.com.akadns.net^$important
+||stats.gc.apple.com^$important
+||stats.gc-apple.com.akadns.net^$important
+||stats.gc.fe2.apple-dns.net^$important
+||static.gc.apple.com^$important
+||static.gc-lb.apple.com.akadns.net^$important
+
 # 학생이 주식을 왜함?
 ||stocks-edge.apple.com^$important
 ||stocks-sparkline.apple.com^$important
