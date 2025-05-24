@@ -746,7 +746,7 @@ orbi.kr
 ||*.firesn.com^
 
 
-# APPLE MUST DIE SERVICES APPLE APPlE Apple ##################################
+############################## APPLE MUST DIE SERVICES APPLE APPlE Apple ##################################
 # 일단 애플 살려는 둘게
 @@||apple.com^
 @@||apple.com.akadns.net^
@@ -820,7 +820,7 @@ orbi.kr
 @@||gspe*-applecdn-cutover.ls-apple.com.akadns.net^$important
 @@||gspe*-cdn.v.aaplimg.com^$important
 
-# 만악의 근원 중 하나 front-end (fe) 지만 여기까진 내준다.
+# 만악의 근원 중 하나 front-end (fe) 지만 여기까진 내준다. 이걸 막으면 난리남.
 @@||fe.apple-dns.net^
 @@||fe2.apple-dns.net^
 
@@ -857,7 +857,7 @@ orbi.kr
 @@||ess.apple.com^$important
 @@||ess-apple.com.akadns.net^$important
 
-# iTunes 계열, 음악 전반
+########## iTunes 계열, 음악 전반 ###################
 
 # 이건 풀어줄 수밖에.. 일부 서드파티에서 DRM 인증으로 사용한다...
 @@||fpinit.itunes.apple.com^^$important
@@ -866,7 +866,7 @@ orbi.kr
 @@||fpinit-apac-n.edge-itunes-apple.com.akadns.net^^$important
 @@||fpinit-eu.edge-itunes-apple.com.akadns.net^^$important
 
-###/itunes/$important
+#### 징글징글한 iTunes... 기본은 허용으로 할 수밖에 없음...
 ||itunes.apple.com^$important
 # 초기 이니셜라이즈. 이것은 풀어보자.
 @@||init.itunes.apple.com^$important
@@ -912,7 +912,6 @@ orbi.kr
 ||se2-cdn.itunes-apple.com.akadns.net^$important
 ||se2.itunes.apple.com.edgesuite.net^$important
 ###@@a1802.dscw154.akamai.net^
-
 
 ||video.itunes.apple.com^$important
 ###video 목적지
@@ -979,7 +978,7 @@ orbi.kr
 ||securemetrics.v.aaplimg.com^$important
 
 
-# mz가 뭔가 스토어 이름 같음
+# mz가 뭔가 스토어 이름 같음. 맞겠지. 애플로 뭐 살 때도 필요
 ||mzstatic.com^$important
 ||s.mzstatic.com^$important
 ||s.mzstatic.itunes-apple.com.akadns.net^$important
