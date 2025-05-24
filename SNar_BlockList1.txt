@@ -882,7 +882,7 @@ orbi.kr
 ||buy.itunes-apple.com.akadns.net^$important
 ###||*.itunes.apple.com^$important
 ||pd-cdn.itunes-apple.com.akadns.net^$important
-||itunes.apple.com.edgekey.net^$important
+@@||itunes.apple.com.edgekey.net^$important
 ||music.apple.com^$important
 ||podcasts.apple.com^$important
 ||sync.itunes.apple.com^$important
