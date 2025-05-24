@@ -880,7 +880,7 @@ orbi.kr
 ###@@||a68.dscg4.akamai.net^$important
 ||*buy.itunes.apple.com^$important
 ||buy.itunes-apple.com.akadns.net^$important
-||*.itunes.apple.com^$important
+###||*.itunes.apple.com^$important
 ||pd-cdn.itunes-apple.com.akadns.net^$important
 ||itunes.apple.com.edgekey.net^$important
 ||music.apple.com^$important
