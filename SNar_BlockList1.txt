@@ -1021,6 +1021,8 @@ orbi.kr
 ||amp-api.media-lb.apple.com.akadns.net^$important
 ||amp-api-media-akam.itunes-apple.com.akadns.net^$important
 ||amp-api-apps-akam.itunes-apple.com.akadns.net^$important
+||amp-api.apps.apple.com.edgesuite.net^$important
+||a533.dscq.akamai.net^$important
 ||h3.apis.apple.map.fastly.net^$important
 ||h3.media.apple.map.fastly.net^$important
 
