@@ -108,6 +108,26 @@ ext.surfshark.com
 nordcdn.com
 downloads77-windows.nordcdn.com
 
+### Google 우회 관련
+googlehosted.l.googleusercontent.com
+firebaseremoteconfigrealtime.googleapis.com
+firestore.googleapis.com
+firebaseremoteconfig.googleapis.com
+safebrowsing.googleapis.com
+safebrowsing.google.com
+safebrowsingohttpgateway.googleapis.com
+ohttp-relay1.fastly-edge.com
+google-ohttp-relay-safebrowsing.fastly-edge.com
+ohttp-relay1.fastly-edge.com
+google-ohttp-relay-query.fastly-edge.com
+dns.googleusercontent.com
+google.cn
+firebaselogging-pa.googleapis.com
+private.googleapis.com
+restricted.googleapis.com
+vpn.google.com
+tunnel.googlezip.net
+
 # APPLE~~~!!!!! 애플 관련 거의 고정인 IP 차단이 필요한 경우에만 입력
 doh.dns.apple.com
 itunes.apple.com
@@ -116,6 +136,25 @@ mask.icloud.com
 mask-h2.icloud.com
 mask.apple-dns.net
 mask-api.icloud.com
+mask.icloud-dns.net
+mask-tunnel.apple.com
+mask-api.fe2.apple-dns.net
+doh.dns.apple.com.v.aaplimg.com
+doh-dns-apple-com.v.aaplimg.com
+apple.com.doh.icloud-dns.com
+proxy.safebrowsing.apple
+token.safebrowsing.apple
+safebrowsing-proxy.g.aaplimg.com
+safebrowsing.g.aaplimg.com
+apple-relay.fastly-edge.com
+apple-relay.cloudflare.com
+relay.fe.apple-dns.net
+relay.icloud.apple.com
+gateway-oblivious.apple.com
+gateway.icloud.com
+gateway.fe2.apple-dns.net
+acsegateway.fe2.apple-dns.net
+acsegateway.icloud.com
 
 # Telegram 텔레그램 아이피 차단
 telegram.org
