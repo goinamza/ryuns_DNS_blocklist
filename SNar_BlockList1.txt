@@ -1133,9 +1133,10 @@ orbi.kr
 @@||fmip.apple.com^
 
 # Cabana 애플 콘텐츠 구성 요소 전송 관련
-||cabana-server.cdn-apple.com^$important
-||cabana-config.lb-apple.com.akadns.net^$important
-||cabana-config.g.aaplimg.com^$important
+@@||cabana-server.cdn-apple.com^$important
+@@||cabana-config.lb-apple.com.akadns.net^$important
+@@||cabana-config.g.aaplimg.com^$important
+@@||cabana-server.g.aaplimg.com^
 
 # Playgrounds (무슨 코딩인가 뭐시기? swift playgrounds)
 ||playgrounds-assets-cdn.apple.com^$important
