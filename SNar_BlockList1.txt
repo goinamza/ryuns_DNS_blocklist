@@ -864,6 +864,7 @@ orbi.kr
 
 ###/itunes/$important
 ||itunes.apple.com^$important
+||client-api.itunes.apple.com^$important
 ||entitlements.itunes.apple.com^$important
 ||entitlements.edge-itunes-apple.com.akadns.net^$important
 ||musicstatus.itunes.apple.com^$important
@@ -892,9 +893,10 @@ bag-cdn-lb2.itunes-apple.com.akadns.net
 ### itunes.apple.com, music.apple.com 등의 목적지
 ###@@||e673.dsce9.akamaiedge.net^$important
 
+# iTunes 주로 가사보기 기능
+||se2.itunes.apple.com^important
 ||se2-cdn.itunes-apple.com.akadns.net^$important
 ||se2.itunes.apple.com.edgesuite.net^$important
-
 ###@@a1802.dscw154.akamai.net^
 
 
@@ -1341,7 +1343,8 @@ is-ssl.mzstatic.com.itunes-apple.com.akadns.net
 ||bizspring.net^
 # toss가 왜필요함?
 ||toss.im^
-
+||spotifycdn.com^
+||spotify.com^
 
 
 
