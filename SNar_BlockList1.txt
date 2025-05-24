@@ -971,7 +971,6 @@ orbi.kr
 ||is-ssl.mzstatic.com.itunes-apple.com.akadns.net^$important
 ||is-ssl-cdn.itunes-apple.com.akadns.net^$important
 ||h3.apis.apple.map.fastly.net^$important
-
 ### Final Target
 ##||e673.dsce9.akamaiedge.net^$important
 
