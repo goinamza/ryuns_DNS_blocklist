@@ -864,7 +864,9 @@ orbi.kr
 
 ###/itunes/$important
 ||itunes.apple.com^$important
+# 초기 이니셜라이즈. 이것은 풀어보자.
 @@||init.itunes.apple.com^$important
+@@||init-cdn.itunes-apple.com.akadns.net^$important
 ||client-api.itunes.apple.com^$important
 ||entitlements.itunes.apple.com^$important
 ||entitlements.edge-itunes-apple.com.akadns.net^$important
@@ -896,7 +898,7 @@ orbi.kr
 ||sync-cdn.itunes-apple.com.akadns.net^$important
 ||apps.apple.com^$important
 ||apps-cdn.itunes-apple.com.akadns.net^$important
-### 위의 것들의 중간 계류지
+### 위의 것들의 중간 계류지 (매우 중요! itunes의 대부분은 다 이쪽으로 간 뒤에 e673으로 나감)
 @@||itunes.apple.com.edgekey.net^$important
 ### itunes.apple.com, music.apple.com 등의 목적지
 ###@@||e673.dsce9.akamaiedge.net^$important
