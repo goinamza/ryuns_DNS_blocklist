@@ -774,28 +774,28 @@ orbi.kr
 @@||ocsp2.apple.com^$important
 @@||ocsp.apple.com^$important
 @@||ocsp2.g.aaplimg.com^$important
-@@||ocsp2-lb.apple.com.akadns.net^
-@@crl.apple.com^
-@@||gsa.apple.com^
-@@||gsa.idms-apple.com.akadns.net^
+@@||ocsp2-lb.apple.com.akadns.net^$important
+@@crl.apple.com^$important
+@@||gsa.apple.com^$important
+@@||gsa.idms-apple.com.akadns.net^$important
 @@||gsas.apple.com^$important
-@@||gsas.idms-apple.com.akadns.net^
-@@||idms-apple.com^
+@@||gsas.idms-apple.com.akadns.net^$important
+@@||idms-apple.com^$important
 @@||idms-apple.com.akadns.net^$important
-@@||valid.apple.com^
-@@||ppq.apple.com^
+@@||valid.apple.com^$important
+@@||ppq.apple.com^$important
 
 # 로그인은 해야됨
-@@||appleid.cdn-apple.com^
-@@||idmsa.apple.com^
-@@setup.icloud.com^
-@@setup.apple.com^
-@@||auth.apple.com^
-@@||trustd.apple.com^
-@@static.icloud.com^
+@@||appleid.cdn-apple.com^$important
+@@||idmsa.apple.com^$important
+@@||setup.icloud.com^$important
+@@||setup.apple.com^$important
+@@||auth.apple.com^$important
+@@||trustd.apple.com^$important
+@@||static.icloud.com^$important
 
 # Apple 기기 네트워크 상태 파악 도메인
-@@||netcts.cdn-apple.com^
+@@||netcts.cdn-apple.com^$important
 
 # Apple 기기 초기 설정, 진단 등
 @@||iphone-ld.apple.com^$important
@@ -810,11 +810,11 @@ orbi.kr
 ###@@a1051.dscg4.akamai.net^
 
 # ssl 보안 연결 엔드포인트. 이건 풀어줘야 인증이 될 듯
-@@||gspe*-ssl.ls.apple.com
-@@||gspe*-cdn.g.aaplimg.com
-@@||gspe*-ssl.ls-apple.com.akadns.net
-@@||gspe*-applecdn-cutover.ls-apple.com.akadns.net
-@@||gspe*-cdn.v.aaplimg.com
+@@||gspe*-ssl.ls.apple.com^$important
+@@||gspe*-cdn.g.aaplimg.com^$important
+@@||gspe*-ssl.ls-apple.com.akadns.net^$important
+@@||gspe*-applecdn-cutover.ls-apple.com.akadns.net^$important
+@@||gspe*-cdn.v.aaplimg.com^$important
 
 # 만악의 근원 중 하나 front-end (fe) 지만 여기까진 내준다.
 @@||fe.apple-dns.net^
@@ -831,7 +831,7 @@ orbi.kr
 # Update 관련(될지 안될지는 모르지만..)
 @@||updates.cdn-apple.com^
 @@||updates-http.cdn-apple.com^
-@@||updates.g.aaplimg.com^$important
+@@||updates.g.aaplimg.com^
 @@||gdmf.apple.com^
 @@||gdmf.v.aaplimg.com^
 @@||gdmf-ados.v.aaplimg.com^
@@ -843,11 +843,11 @@ orbi.kr
 @@||xp.apple.com^
 
 # ess 에센셜 계열. 이건 하위까지 풀어줘야됨.
-@@init.ess.apple.com^
-@@||pds.ess.apple.com^
-@@||kt-prod.ess.apple.com^
-@@||static.ess.apple.com^
-@@||staticess.g.aaplimg.com^
+@@||init.ess.apple.com^^$important
+@@||pds.ess.apple.com^^$important
+@@||kt-prod.ess.apple.com^^$important
+@@||static.ess.apple.com^^$important
+@@||staticess.g.aaplimg.com^^$important
 @@||query.ess.apple.com^$important
 @@||query.ess-apple.com.akadns.net^$important
 @@||ess.apple.com^$important
@@ -856,13 +856,14 @@ orbi.kr
 # iTunes 계열, 음악 전반
 
 # 이건 풀어줄 수밖에.. 일부 서드파티에서 DRM 인증으로 사용한다...
-@@||fpinit.itunes.apple.com^
-@@||fpinit.edge-itunes-apple.com.akadns.net^
-@@||fpinit-apac.edge-itunes-apple.com.akadns.net^
-@@||fpinit-apac-n.edge-itunes-apple.com.akadns.net^
-@@||fpinit-eu.edge-itunes-apple.com.akadns.net^
+@@||fpinit.itunes.apple.com^^$important
+@@||fpinit.edge-itunes-apple.com.akadns.net^^$important
+@@||fpinit-apac.edge-itunes-apple.com.akadns.net^^$important
+@@||fpinit-apac-n.edge-itunes-apple.com.akadns.net^^$important
+@@||fpinit-eu.edge-itunes-apple.com.akadns.net^^$important
 
 ###/itunes/$important
+||itunes.apple.com^$important
 ||entitlements.itunes.apple.com^$important
 ||entitlements.edge-itunes-apple.com.akadns.net^$important
 ||musicstatus.itunes.apple.com^$important
@@ -876,6 +877,7 @@ orbi.kr
 ||bag.itunes.apple.com^$important
 ||bag.itunes.apple.com.edgesuite.net^$important
 ||bag-cdn-akam.itunes-apple.com.akadns.net^$important
+bag-cdn-lb2.itunes-apple.com.akadns.net
 ### bag.itunes.apple.com 등의 목적지
 ###@@||a68.dscg4.akamai.net^$important
 ||*buy.itunes.apple.com^$important
@@ -958,6 +960,7 @@ orbi.kr
 ||s.mzstatic.com^$important
 ||s.mzstatic.itunes-apple.com.akadns.net^$important
 ||mzstatic.com.edgekey.net^$important
+is-ssl.mzstatic.com.itunes-apple.com.akadns.net
 ### Final Target
 ###@@||e673.dsce9.akamaiedge.net^$important
 
@@ -1022,7 +1025,7 @@ orbi.kr
 ###@@||e673.dsce9.akamaiedge.net^
 
 # 원본 origin 데이터들을 갖고 있는 서버
-@@aidc.origin-apple.com.akadns.net^
+@@||aidc.origin-apple.com.akadns.net^
 @@||origin-apple.com.akadns.net^$important
 
 # API Toolkit 관련
