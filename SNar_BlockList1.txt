@@ -884,12 +884,19 @@ bag-cdn-lb2.itunes-apple.com.akadns.net
 ||*buy.itunes.apple.com^$important
 ||buy.itunes-apple.com.akadns.net^$important
 ###||*.itunes.apple.com^$important
+# iTunes 음악 백엔드 서비스
+||pd.itunes.apple.com^$important
 ||pd-cdn.itunes-apple.com.akadns.net^$important
-@@||itunes.apple.com.edgekey.net^$important
 ||music.apple.com^$important
+||music-cdn.itunes-apple.com.akadns.net^$important
 ||podcasts.apple.com^$important
+||podcasts-cdn.itunes-apple.com.akadns.net^$important
 ||sync.itunes.apple.com^$important
+||sync-cdn.itunes-apple.com.akadns.net^$important
 ||apps.apple.com^$important
+||apps-cdn.itunes-apple.com.akadns.net^$important
+### 위의 것들의 중간 계류지
+@@||itunes.apple.com.edgekey.net^$important
 ### itunes.apple.com, music.apple.com 등의 목적지
 ###@@||e673.dsce9.akamaiedge.net^$important
 
