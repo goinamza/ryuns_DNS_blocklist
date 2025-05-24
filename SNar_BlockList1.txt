@@ -754,6 +754,8 @@ orbi.kr
 ||aaplimg.com^
 @@||albert.apple.com^
 @@||apple-dns.net^
+### Apple의 key 엣지. 여기로 많은 애플 도메인들이 모이기 때문에 일단 허용.
+@@||*.edgekey.net^
 # 외부와 단절되어 공부만 해야될 학생이 클라우드를 왜써
 @@icloud.com^
 ||*.icloud.com^
@@ -775,7 +777,8 @@ orbi.kr
 @@||ocsp.apple.com^$important
 @@||ocsp2.g.aaplimg.com^$important
 @@||ocsp2-lb.apple.com.akadns.net^$important
-@@crl.apple.com^$important
+@@||crl.apple.com^$important
+@@||crl2.apple.com^$important
 @@||gsa.apple.com^$important
 @@||gsa.idms-apple.com.akadns.net^$important
 @@||gsas.apple.com^$important
@@ -786,6 +789,7 @@ orbi.kr
 @@||ppq.apple.com^$important
 
 # 로그인은 해야됨
+@@||appleid.apple.com^$important
 @@||appleid.cdn-apple.com^$important
 @@||idmsa.apple.com^$important
 @@||setup.icloud.com^$important
@@ -933,8 +937,16 @@ orbi.kr
 ||download.apple.map.fastly.net^$important
 ||apple.map.fastly.net^$important
 
-# daap 은 digital audio access protocol 의 약자임. 
-@@||librarydaap-cdn.lb-apple.com.akadns.net^$important
+||downloaddispatch.itunes.apple.com^$important
+||downloaddispatch.itunes.apple.com.edgesuite.net^$important
+### 목적지
+###@@a1988.dscapi6.akamai.net^
+
+
+# daap 은 digital audio access protocol 의 약자임. 이것은 동일 내부 네트워크에 있는 Apple 사용자끼리 음악 공유하는 기능인 것 같음.
+||librarydaap.itunes.apple.com^$important
+||librarydaap-cdn.lb-apple.com.akadns.net^$important
+||librarydaap.itunes.apple.com.edgekey.net^$important
 ### 목적지
 ###@@||e8506.dsct.akamaiedge.net^$important
 
@@ -972,7 +984,7 @@ orbi.kr
 ||s.mzstatic.com^$important
 ||s.mzstatic.itunes-apple.com.akadns.net^$important
 ||mzstatic.com.edgekey.net^$important
-is-ssl.mzstatic.com.itunes-apple.com.akadns.net
+||is-ssl.mzstatic.com.itunes-apple.com.akadns.net^$important
 ### Final Target
 ###@@||e673.dsce9.akamaiedge.net^$important
 
@@ -1195,6 +1207,7 @@ is-ssl.mzstatic.com.itunes-apple.com.akadns.net
 ||token.safebrowsing.apple^$important
 ||safebrowsing.g.aaplimg.com^$important
 
+||apple-relay.icloud.com^$important
 ||apple-relay.fastly-edge.com^$important
 ||apple-relay.cloudflare.com^$important
 ||relay.fe.apple-dns.net^$important
@@ -1321,7 +1334,6 @@ is-ssl.mzstatic.com.itunes-apple.com.akadns.net
 @@||gitple.io^
 @@||w6wgmwa4bd.execute-api.us-east-1.amazonaws.com^$important
 @@||license.pallycon.com^$important
-@@||*.edgekey.net^$important
 @@||device-api.urbanairship.com^$important
 @@||collector-pxvlufj7uv.perimeterx.net^$important
 @@||favicon.ico^$important
