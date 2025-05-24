@@ -964,18 +964,18 @@ is-ssl.mzstatic.com.itunes-apple.com.akadns.net
 ### Final Target
 ###@@||e673.dsce9.akamaiedge.net^$important
 
-# Push 계열
+######## Push 계열 ############# 미치는 부분...
 @@push.apple.com^
 @@init.push.apple.com^
 @@||init.push-apple.com.akadns.net^
-@@api.push.apple.com^
-@@api-vs.push-apple.com.akadns.net^
-@@gateway.push.apple.com^
-||gateway.push-apple.com.akadns.net^$important
+@@||api.push.apple.com^
+@@||api-vs.push-apple.com.akadns.net^
+@@||gateway.push.apple.com^
+@@||gateway.push-apple.com.akadns.net^
 ||*courier-push-apple.com.akadns.net^$important
 ### Push는 최종적으로 아래 도메인에서 막히게 됨.
-||*.push-apple.com.akadns.net^$important
-||*.push.apple.com^$important
+##||*.push-apple.com.akadns.net^$important
+##||*.push.apple.com^$important
 
 # mesu 계열 (업데이트와 관련)
 @@||mesu.apple.com^
