@@ -750,6 +750,9 @@ orbi.kr
 # 일단 애플 살려는 둘게
 @@||apple.com^
 @@||apple.com.akadns.net^
+### 일단 *.aaplimg.com 이 대부분 최종 목적지이긴 하지만 일부 추가적으로 akamai로 빠지는 것들이 있으니 확인해야함.
+### *.aaplimg.com 으로 가지 않는다면 akamai가 목적지일 확률이 높음.
+### 구조: 1. 애플 기본 도메인들 -> 2. apple-dns, akadns 등 dns 도메인으로 감. -> 그 이후 frontend로 종착하거나, aaplimg, edgekey, fastly.net, akamai 계열로 최종 종착
 @@||*.aaplimg.com^
 ||aaplimg.com^
 @@||albert.apple.com^
@@ -834,17 +837,44 @@ orbi.kr
 
 # Update 관련(될지 안될지는 모르지만..)
 @@||updates.cdn-apple.com^
-@@||updates-http.cdn-apple.com^
+@@||updates.cdn-apple.com.akadns.net^
 @@||updates.g.aaplimg.com^
+@@||updates-http.cdn-apple.com^
+@@||updates-http.cdn-apple.com.akadns.net^
+@@||updates-http.g.aaplimg.com^
 @@||gdmf.apple.com^
 @@||gdmf.v.aaplimg.com^
+@@||gdmf-ados.apple.com^
 @@||gdmf-ados.v.aaplimg.com^
 @@||swdownload.apple.com^
+@@||p01-swdownload.swu-apple.com.akadns.net^
+@@||*-swdownload.swu-apple.com.akadns.net^
 @@||swdist.apple.com^
+@@||swdist.apple.com.akadns.net^
+@@||swdist.apple.com.edgekey.net^
+### 목적지
+##@@e5977.dsce9.akamaiedge.net^
+
+@@||kt-prod.apple.com^
+@@||kt-prod.ess-apple.com.akadns.net^
+@@||kt-prod.ess.apple.com^
 @@||kt-prod.v.aaplimg.com^
+
 @@||download.developer.apple.com^
+@@||dd-cdn.origin-apple.com.akadns.net^
+@@||download-developer.g.aaplimg.com^
+
 @@||appldnld.apple.com^
+@@||appldnld.apple.com.akadns.net^
+@@||appldnld.g.aaplimg.com^
+@@||appldnld.apple.com.edgesuite.net^
+### 목적지
+###@@a1271.dscgi3.akamai.net^
+
 @@||xp.apple.com^
+@@||xp.itunes-apple.com.akadns.net^
+@@||xp.apple.com.edgekey.net^
+###@@e17437.dsct.akamaiedge.net^
 
 # ess 에센셜 계열. 이건 하위까지 풀어줘야됨.
 @@||init.ess.apple.com^^$important
@@ -934,6 +964,7 @@ orbi.kr
 ||odr.itunes.g.aaplimg.com^$important
 
 ### 뭔가 itunes 관련되어 다운받는 것은 다 여기로 감
+# Apple의 다운로드 관련 메커니즘은 거의 다 download.apple.map.fastly.net 으로 가게 되어 있음.
 ||download.apple.map.fastly.net^$important
 ||apple.map.fastly.net^$important
 
