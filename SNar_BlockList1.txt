@@ -937,6 +937,9 @@ orbi.kr
 
 ###||*.itunes.apple.com^$important
 # iTunes 음악 백엔드 서비스
+||sandbox.itunes.apple.com^$important
+||sandbox.itunes-apple.com.akadns.net^$important
+
 ||pd.itunes.apple.com^$important
 ||pd-cdn.itunes-apple.com.akadns.net^$important
 ||music.apple.com^$important
