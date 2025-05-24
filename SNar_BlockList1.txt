@@ -80,6 +80,7 @@
 @@||hbedu.gscdn.com^$important
 @@||ipify.org^$important
 @@||akadns.net^
+@@||akamaized.net^
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
@@ -761,8 +762,9 @@ orbi.kr
 ||icloud.com.akadns.net^$important
 ||cdn-icloud-content.g.aaplimg.com^$important
 
-# 시계는 봐야지
+# 시계는 봐야지, 하지만 우회 시간 동기화를 위해도 사용되니 참고.
 @@||time.apple.com^$important
+@@||time.g.aaplimg.com^$important
 @@||time.asia.apple.com^$important
 @@||time-ios.apple.com^$important
 @@||time-ios.g.aaplimg.com^$important
@@ -794,6 +796,25 @@ orbi.kr
 
 # Apple 기기 네트워크 상태 파악 도메인
 @@||netcts.cdn-apple.com^
+
+# Apple 기기 초기 설정, 진단 등
+@@||iphone-ld.apple.com^$important
+@@||iphone-ld.origin-apple.com.akadns.net^$important
+@@||iphone-ld.apple.com-v1.edgesuite.net^$important
+### 최종 목적지
+###@@a1931.dscgi3.akamai.net^
+@@||init-p01md.apple.com^$important^$important
+@@||init-p01md-lb.push-apple.com.akadns.net^$important
+@@||init-p01md.apple.com.edgesuite.net^$important
+### 목적지
+###@@a1051.dscg4.akamai.net^
+
+# ssl 보안 연결 엔드포인트. 이건 풀어줘야 인증이 될 듯
+@@||gspe*-ssl.ls.apple.com
+@@||gspe*-cdn.g.aaplimg.com
+@@||gspe*-ssl.ls-apple.com.akadns.net
+@@||gspe*-applecdn-cutover.ls-apple.com.akadns.net
+@@||gspe*-cdn.v.aaplimg.com
 
 # 만악의 근원 중 하나 front-end (fe) 지만 여기까진 내준다.
 @@||fe.apple-dns.net^
@@ -828,7 +849,7 @@ orbi.kr
 @@||staticess.g.aaplimg.com^
 @@||query.ess.apple.com^$important
 @@||query.ess-apple.com.akadns.net^$important
-@@||*.ess.apple.com^$important
+@@||ess.apple.com^$important
 @@||ess-apple.com.akadns.net^$important
 
 # iTunes 계열, 음악 전반
@@ -943,6 +964,7 @@ orbi.kr
 # Captive portal 인터넷 접속 관련
 @@captive.apple.com^
 @@captive.g.aaplimg.com^
+
 # Mail 관련
 ||mail.me.com^$important
 ||mail.me.com.akadns.net^$important
@@ -978,6 +1000,29 @@ orbi.kr
 ||sharedstreams.fe2.apple-dns.net^$important
 ||*sharedstreams.icloud.com^$important
 
+# 캘린더 관련 (caldav)
+@@||*caldav.icloud.com^
+@@||caldav.fe2.apple-dns.net^
+
+# 연락처 동기화
+@@||*contacts.icloud.com^
+@@||contacts.fe2.apple-dns.net^
+
+# Apple 날씨 관련 (weatherkit)
+@@||weatherkit.apple.com^
+@@||weatherkit.apple.com.akadns.net^
+@@||weather-data.apple.com.akamaized.net^
+### 목적지
+###@@a2047.dscapi9.akamai.net^
+@@||weather-edge.apple.com^
+@@||weather-edge.fe2.apple-dns.net^
+
+
+# Apple 차등 프라이버시 관련 (우회랑은 상관 적음)
+@@fides-pol.apple.com^
+@@unlinkability.apple.com^
+@@unlinkability.fe2.apple-dns.net^
+
 # Apple 위치 기반 서비스들
 @@||ls-apple.com^
 @@||ls-apple.com.akadns.net^
@@ -989,6 +1034,18 @@ orbi.kr
 @@||gs-loc.apple-dns.net^$important
 @@||gs.apple.com^
 @@||gs.apple.com.v.aaplimg.com^
+
+# Apple 콘텐츠 전송 및 다운로드 시스템 (cds)
+@@||cds.apple.com^
+@@||cds-cdn.v.aaplimg.com^
+@@||cds.apple.com.akadns.net^
+@@||cds.apple.com.edgekey.net^
+### 최종 목적지
+###@@e14768.dscb.akamaiedge.net^
+
+# 베타버전 소프트웨어 업데이트 등록
+@@bpapi.apple.com^
+@@bpapi.v.aaplimg.com^
 
 # Load Balancing (lb) 데이터 전송 효율 관련
 @@||lb-apple.com^
@@ -1017,6 +1074,18 @@ orbi.kr
 @@||nc-pod10-smp-device.gcsis-apple.com.akadns.net^
 @@||pr-pod10-smp-device.apple.com^
 @@||pr-pod10-smp-device.gcsis-apple.com.akadns.net^
+
+# icloud 저장공간 확인
+||*quota.icloud.com^$important
+||quota.fe2.apple-dns.net^$important
+
+# 애플 기기 위치 찾기 (Find My iPhone) 분실 시 복구 등과 관련. 찾아줘야됨
+@@||*fmipmobile.icloud.com^
+@@||fmipmobile.fe2.apple-dns.net^
+@@fmip.fe2.apple-dns.net^
+@@||fmipalservice.icloud.com^
+@@||fmipalservice.fe2.apple-dns.net^
+@@||fmip.apple.com^
 
 # Cabana 애플 콘텐츠 구성 요소 전송 관련
 ||cabana-server.cdn-apple.com^$important
@@ -1068,6 +1137,12 @@ orbi.kr
 ||relay.icloud.apple.com^$important
 ||gateway-oblivious.apple.com^$important
 ### 이거는 결국 gateway.fe2.apple-dns.net 여기로 감.
+
+### 우회 icloud private relay 관련 추가 도메인
+||ipcdn.apple.com^$important
+||ipcdn-lb.apple.com.akadns.net^$important
+||ipcdn.g.aaplimg.com^$important
+||me.apple-dns.net^$important
 
 # 아직 잘 모르겠는 Apple들
 
