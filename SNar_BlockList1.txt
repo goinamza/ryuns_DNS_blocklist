@@ -920,7 +920,7 @@ orbi.kr
 ||apple.map.fastly.net^$important
 
 # daap 은 digital audio access protocol 의 약자임. 
-||librarydaap-cdn.lb-apple.com.akadns.net^$important
+@@||librarydaap-cdn.lb-apple.com.akadns.net^$important
 ### 목적지
 ###@@||e8506.dsct.akamaiedge.net^$important
 
