@@ -928,12 +928,12 @@ orbi.kr
 ||amp-api.media.apple.com^$important
 ||amp-api.media-lb.apple.com.akadns.net^$important
 ||amp-api-media-akam.itunes-apple.com.akadns.net^$important
-||h3.apis.apple.map.fastly.net^$important
+@@||h3.apis.apple.map.fastly.net^$important
 
 # Apple TV 관련
 ||tv.apple.com^$important
 ||tv-cdn.itunes-apple.com.akadns.net^$important
-||itunes.apple.com.edgekey.net^$important
+@@||itunes.apple.com.edgekey.net^$important
 ### 목적지
 ##@@e673.dsce9.akamaiedge.net^
 
