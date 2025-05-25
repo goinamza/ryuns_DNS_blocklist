@@ -1257,6 +1257,8 @@ orbi.kr
 ||*quota.icloud.com^$important
 ||quota.fe2.apple-dns.net^$important
 
+
+
 # 애플 기기 위치 찾기 (Find My iPhone) 분실 시 복구 등과 관련. 찾아줘야됨
 @@||*fmipmobile.icloud.com^
 @@||fmipmobile.fe2.apple-dns.net^
@@ -1342,6 +1344,7 @@ orbi.kr
 ||ipcdn.apple.com^$important
 ||ipcdn-lb.apple.com.akadns.net^$important
 ||ipcdn.g.aaplimg.com^$important
+||metrics.icloud.com^$important
 ||me.apple-dns.net^$important
 
 # 아직 잘 모르겠는 Apple들
