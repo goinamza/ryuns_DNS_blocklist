@@ -48,8 +48,6 @@
 ||dlcadjfosxue7.cloudfront.net^$important
 ||dm5e8leztlghu.cloudfront.net^$important
 
-@@||asia-northeast3-giyoung.cloudfunctions.net^$important
-
 # Common Function Sites 일반적 동작에 필요한 싸이트들을 집어넣습니다.
 @@||ntp.org^
 @@||nts.go.kr^
@@ -558,6 +556,7 @@ orbi.kr
 @@||orzo.kr^
 @@||giyoung-api-gateway-9s6qpjg4.an.gateway.dev^$important
 @@||giyoung.firebaseapp.com^$important
+@@||asia-northeast3-giyoung.cloudfunctions.net^$important
 
 
 
