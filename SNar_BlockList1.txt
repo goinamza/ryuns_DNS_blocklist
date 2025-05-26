@@ -49,7 +49,6 @@
 @@||nprotect.com^
 @@||quickconnect.to^
 @@||ahnlab.com^
-@@||criteo.com^
 @@||unpkg.com^
 @@||dc.services.visualstudio.com^$important
 @@||supdate.nprotect.net^$important
@@ -1499,7 +1498,7 @@ orbi.kr
 ||spotify.com^
 ||sentry.io^
 ||footprintdns.com^
-
+||criteo.com^
 
 
 
