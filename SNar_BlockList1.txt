@@ -88,6 +88,8 @@
 @@||ipify.org^$important
 @@||akadns.net^
 @@||akamaized.net^
+@@||firebaseapp.com^
+@@||firebaseio.com^
 @@||tag-manager.frontiersin.org^$important
 
 ||*.in-addr.arpa^
