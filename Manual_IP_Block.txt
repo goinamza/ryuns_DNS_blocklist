@@ -198,7 +198,15 @@
 
 # MATUTA PC의 성과 목록
 
-
+# 앱들의 Fallback 고정 IP들
+# mqtt-ig-p4.facebook.com
+# 157.240.5.173
+# go.trouter.skype.com
+20.167.82.225
+# mon31-normal-useast1a.tiktokv.com
+# 71.18.74.198
+# vcs-sg.tiktokv.com
+# 23.32.56.179
 
 
 
