@@ -109,17 +109,11 @@ nordcdn.com
 downloads77-windows.nordcdn.com
 
 ### Google 우회 관련
-firestore.googleapis.com
-safebrowsing.googleapis.com
-safebrowsing.google.com
-safebrowsingohttpgateway.googleapis.com
 ohttp-relay1.fastly-edge.com
 google-ohttp-relay-safebrowsing.fastly-edge.com
 ohttp-relay1.fastly-edge.com
 google-ohttp-relay-query.fastly-edge.com
 google.cn
-private.googleapis.com
-restricted.googleapis.com
 vpn.google.com
 tunnel.googlezip.net
 
