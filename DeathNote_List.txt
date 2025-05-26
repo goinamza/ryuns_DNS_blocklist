@@ -224,6 +224,7 @@ static-icn1-1.xx.fbcdn.net
 static-icn1-2.xx.fbcdn.net
 static-hkg4-1.xx.fbcdn.net
 mqtt.facebook.com	
+edge-mqtt-fallback.facebook.com
 mqtt-ig-p4.facebook.com
 edge-mqtt.facebook.com
 video.xx.fbcdn.net
@@ -302,6 +303,7 @@ skypecdn.com
 telemetry.skype.com
 pipe.skype.com
 diagnostics.skype.com
+go.trouter.skype.com
 
 # Thread, X, Twitter
 threads.net	
