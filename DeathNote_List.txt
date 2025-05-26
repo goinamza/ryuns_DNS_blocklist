@@ -314,25 +314,6 @@ telemetry.skype.com
 pipe.skype.com
 diagnostics.skype.com
 
-# google Youtube
-play.googleapis.com
-youtube.com
-www.youtube.com
-m.youtube.com
-yt3.ggpht.com
-i.ytimg.com
-i9.ytimg.com
-ytimg.l.google.com
-pagead2.googlesyndication.com
-tpc.googlesyndication.com
-s.youtube.com
-ytanalytics.googleusercontent.com
-youtube.googleapis.com
-youtubei.googleapis.com
-music.youtube.com
-youtube-nocookie.com
-play.google.com
-
 # Thread, X, Twitter
 threads.net	
 www.threads.net	
