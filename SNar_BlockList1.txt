@@ -1473,7 +1473,6 @@ orbi.kr
 @@||http-inputs-notion.splunkcloud.com^$important
 @@||delivery.dighty.com^$important
 @@||tk.clickon.kr^$important
-@@||bb8-server-prod.okc1.opsnow.com^$important
 @@||slb-25902846.ncloudslb.com^$important
 @@||t1-wg2vgaja.kgslb.com^$important
 @@||sbm.nate.com^$important
