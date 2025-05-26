@@ -747,7 +747,7 @@ orbi.kr
 #||d*.cloudfront.net^$important
 
 # Firesn
-||*.firesn.com^
+@@||*.firesn.com^
 
 
 ############################## APPLE MUST DIE SERVICES APPLE APPlE Apple ##################################
