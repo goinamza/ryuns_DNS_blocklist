@@ -806,6 +806,8 @@ orbi.kr
 @@||idms-apple.com^$important
 @@||idms-apple.com.akadns.net^$important
 @@||valid.apple.com^$important
+@@||valid.origin-apple.com.akadns.net^$important
+@@||valid-apple.g.aaplimg.com^$important
 @@||ppq.apple.com^$important
 
 # 로그인은 해야됨
@@ -814,6 +816,7 @@ orbi.kr
 @@||idmsa.apple.com^$important
 @@||setup.icloud.com^$important
 @@||setup.apple.com^$important
+@@||setup.fe2.apple-dns.net^
 @@||auth.apple.com^$important
 @@||trustd.apple.com^$important
 @@||static.icloud.com^$important
@@ -839,6 +842,10 @@ orbi.kr
 @@||gspe*-ssl.ls-apple.com.akadns.net^$important
 @@||gspe*-applecdn-cutover.ls-apple.com.akadns.net^$important
 @@||gspe*-cdn.v.aaplimg.com^$important
+
+# Device Config 관련
+@@||device-config.pcms.apple.com^
+@@||device-config.v.aaplimg.com^
 
 # 만악의 근원 중 하나 front-end (fe) 지만 여기까진 내준다. 이걸 막으면 난리남.
 @@||fe.apple-dns.net^
@@ -1012,6 +1019,8 @@ orbi.kr
 ### 위의 것들이 결국 여기서 막힘. 이건 itunes가 쓰는거랑 똑같은 도메인임...애플 조종은 없다.
 ###||e673.dsce9.akamaiedge.net^
 
+
+
 ||cma.itunes.apple.com^$important
 ||cma-china.itunes-apple.com.akadns.net^$important
 ||cma-*.itunes-apple.com.akadns.net^$important
@@ -1130,9 +1139,13 @@ orbi.kr
 @@||bag-smoot.v.aaplimg.com^
 @@||api-glb-aapne1a.smoot.apple.com^
 @@||smoot-searchv2-aapne1a.v.aaplimg.com^
-
+@@||smoot-searchv2-aapne1c.v.aaplimg.com^
 @@||api-safari-aapne1a.smoot.apple.com^
 @@||smoot-api-safari-aapne1a.v.aaplimg.com^
+
+@@||api-glb-aapne1c.smoot.apple.com^
+
+
 
 # Captive portal 인터넷 접속 관련
 @@||captive.apple.com^
@@ -1169,6 +1182,7 @@ orbi.kr
 # 캘린더 관련 (caldav)
 @@||*caldav.icloud.com^
 @@||caldav.fe2.apple-dns.net^
+@@||calenders.icloud.com^
 
 # 연락처 동기화
 @@||*contacts.icloud.com^
@@ -1219,6 +1233,11 @@ orbi.kr
 @@||gs.apple.com^
 @@||gs.apple.com.v.aaplimg.com^
 
+## wps 와이파이정보 위치추적
+||wps.apple.com^$important
+||wps.v.aaplimg.com^$important
+||apse1-wps-prod.apple.com^$important
+
 # Apple 콘텐츠 전송 및 다운로드 시스템 (cds)
 @@||cds.apple.com^
 @@||cds-cdn.v.aaplimg.com^
@@ -1226,6 +1245,10 @@ orbi.kr
 @@||cds.apple.com.edgekey.net^
 ### 최종 목적지
 @@||e14768.dscb.akamaiedge.net^
+
+@@||cstat.cdn-apple.com^
+@@||cstat-lb.apple.com.akadns.net^
+@@||cstat.g.aaplimg.com^
 
 # 베타버전 소프트웨어 업데이트 등록
 @@||bpapi.apple.com^
@@ -1319,6 +1342,14 @@ orbi.kr
 ||stocks-sparkline-lb.apple.com.akadns.net^$important
 ||stocks-data-service.lb-apple.com.akadns.net^$important
 
+##애플광고 iadsdk
+||iadsdk.apple.com^$important
+||iadsdk.apple.com.akadns.net^$important
+||cf.iadsdk.apple.com^$important
+||cf.iadsdk.apple.com.akadns.net^$important
+||iadsdk.apple.com.edgekey.net^$important
+||e4805.dsca.akamaiedge.net^$important
+
 # 애플에 도움을 왜요청해?
 ||help.apple.com^$important
 
@@ -1364,8 +1395,17 @@ orbi.kr
 ||probe.icloud.com^$important
 ||probe-edge.v.aaplimg.com^$important
 ||probe.me.apple-dns.net^$important
+||*escrowproxy.icloud.com^$important
+||escrowproxy.icloud.com^$important
+||escrowproxy.fe2.apple-dns.net^$important
+## metrics와 me 는 우회. 죽임
+||metrics-config.icloud.com^$important
+||config.me.apple-dns.net^$important
 
 # 아직 잘 모르겠는 Apple들
+
+@@||app-site-association.g.aaplimg.com^
+@@||usw2-register-appattest-prod-aws-prod.apple.com^
 
 
 ###### Instagram
