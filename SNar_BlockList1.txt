@@ -41,6 +41,14 @@
 # linkwang 이거 아주 나쁜 VPN 중계소
 ||linkwang.org^$important
 ||cyberghostvpn.com^$important
+### VPN Cloudfront DoH Domains
+||d1radv0oaxye89.cloudfront.net^$important
+||d1mz7hcv7etrz4.cloudfront.net^$important
+||dcbdscbm35nst.cloudfront.net^$important
+||dlcadjfosxue7.cloudfront.net^$important
+||dm5e8leztlghu.cloudfront.net^$important
+
+@@||asia-northeast3-giyoung.cloudfunctions.net^$important
 
 # Common Function Sites 일반적 동작에 필요한 싸이트들을 집어넣습니다.
 @@||ntp.org^
@@ -82,6 +90,7 @@
 @@||ipify.org^$important
 @@||akadns.net^
 @@||akamaized.net^
+@@||tag-manager.frontiersin.org^$important
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
@@ -459,7 +468,6 @@ orbi.kr
 @@||sangsangstudy.com^
 @@||mockingbird.co.kr^
 @@||ingang.go.kr^
-@@||orzo.kr^
 @@||suneung.re.kr^
 @@||iammathking.com^
 @@||hackers.co.kr^
@@ -546,6 +554,10 @@ orbi.kr
 @@||eseoul.go.kr^$important
 @@||slearn-cdn.eseoul.go.kr^$important
 @@||kmooc.kr^$important
+# Orzo 관련 giyoung
+@@||orzo.kr^
+@@||giyoung-api-gateway-9s6qpjg4.an.gateway.dev^$important
+@@||giyoung.firebaseapp.com^$important
 
 
 
@@ -611,6 +623,7 @@ orbi.kr
 ||applecommerce-pa.googleapis.com^$important
 ||firebaseinappmessaging.googleapis.com^$important
 ||firebaseappcheck.googleapis.com^$important
+@@||firestore.googleapis.com^$important
 ||nearbydevices-pa.googleapis.com^$important
 ||searchnotifications-pa.googleapis.com^$important
 ||xgapromomanager-pa.googleapis.com^$important
@@ -645,7 +658,7 @@ orbi.kr
 ### 구글 우회 관련 ####
 ||googlehosted.l.googleusercontent.com^$important
 ||firebaseremoteconfigrealtime.googleapis.com^$important
-||firestore.googleapis.com^$important
+###||firestore.googleapis.com^$important
 ||firebaseremoteconfig.googleapis.com^$important
 ||safebrowsing.googleapis.com^$important
 ||safebrowsing.google.com^$important
@@ -1499,7 +1512,7 @@ orbi.kr
 ||spotify.com^
 ||sentry.io^
 ||footprintdns.com^
-||criteo.com^
+||criteo.com^$important
 
 
 
