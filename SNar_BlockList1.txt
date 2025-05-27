@@ -628,7 +628,8 @@ orbi.kr
 ||nearbydevices-pa.googleapis.com^$important
 ||searchnotifications-pa.googleapis.com^$important
 ||xgapromomanager-pa.googleapis.com^$important
-@@||searchlabspartnerservice-pa.googleapis.com^$important
+||geller-pa.googleapis.com^$important
+||searchlabspartnerservice-pa.googleapis.com^$important
 ||chromewebstore.googleapis.com^$important
 ||waa-pa.clients6.google.com^$important
 ||proactivebackend-pa.googleapis.com^$important
