@@ -167,7 +167,7 @@
 #unicorn-adblock.zendesk.com
 216.198.53.1
 #
-# Proton VPN IPs
+#### Proton VPN IPs
 79.110.55.2
 # Proton VPN api. vpn-api.proton.me
 185.159.159.148
@@ -188,7 +188,7 @@
 69.41.167.119/24
 34.102.215.99
 
-# expressVPN nexthop.onl IP리스트. 적발된 IP + 대역 차단
+##### expressVPN nexthop.onl IP리스트. 적발된 IP + 대역 차단
 #162.255.119.40/24
 185.92.24.165/24
 185.92.24.22
@@ -198,9 +198,11 @@
 45.38.57.80/24
 45.38.57.201
 
-# MATUTA PC의 성과 목록
+##### MATUTA PC의 성과 목록
+# p8464oxs.com 악성 도메인(고정 IP 사용)
+52.205.201.150
 
-# 앱들의 Fallback 고정 IP들
+####### 앱들의 Fallback 고정 IP들
 # mqtt-ig-p4.facebook.com
 # 157.240.5.173
 # go.trouter.skype.com
