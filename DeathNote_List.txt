@@ -262,6 +262,9 @@ security.byteoversea.com
 api-va.tiktokv.com
 api-h2.tiktokv.com
 
+# wetv
+wetvinfo.com
+
 # Kakao, Kakaotalk
 katalk.kakao.com
 talk.kakao.com
