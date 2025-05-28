@@ -11,6 +11,12 @@
 @@||snacademyfiresn.com^$important
 ||*^
 
+# firesn 도메인(자체도메인) 관련
+@@||*.firesn.com^
+||wpad.firesn.com^$important
+||lb._dns-sd._udp.firesn.com^$important
+||ingestion.log.infra.music-flo.io.firesn.com^$important
+
 # SN Academy
 @@||sn-timetable.web.app^
 @@||snacademy.co.kr^
@@ -223,6 +229,10 @@
 @@||ac-dict.naver.com.nheos.com^$important
 @@||dic.naver.com^$important
 @@||dic-phinf.pstatic.net.static.gscdn.net^$important
+@@||weather.naver.com^$important
+@@||m.calendar.naver.com^$important
+@@||m.memo.naver.com^$important
+@@||ekyc.naver.com^$important
 # 사용자 데이터 네이버 분석 노노
 ||lcs.naver.com^$important
 ||cc.naver.com^$important
@@ -250,7 +260,12 @@
 ||wcs.naver.net^
 # 네이버 광고 하지마
 ||veta.naver.com^$important
-
+# 네이버 앱 클립 관련
+||video-phinf.pstatic.net^$important
+||storep-phinf.pstatic.net^$important
+||resources-rmcnmv.pstatic.net^$important
+||dthumb-phinf.pstatic.net^$important
+||b01-kr-naver-vod.pstatic.net^$important
 
 # 연관 akamai 계열 (분류 필요함)
 @@||e6030.e73.akamaiedge.net^$important
@@ -767,8 +782,6 @@ orbi.kr
 @@||*.cloudfront.net^
 #||d*.cloudfront.net^$important
 
-# Firesn
-@@||*.firesn.com^
 
 
 ############################## APPLE MUST DIE SERVICES APPLE APPlE Apple ##################################
@@ -1562,6 +1575,7 @@ orbi.kr
 ||sentry.io^
 ||footprintdns.com^
 ||criteo.com^$important
+||patopi.com^$important
 
 
 ############### 분류가 필요한 것들 #############
