@@ -182,6 +182,7 @@
 
 # Naver 네이버 fine tuning.
 ||naver.com^
+@@||pstatic.net^
 @@||dict.naver.com^
 @@||dict.naver.com.mobile^
 @@||dict.naver.com_search^
@@ -197,7 +198,6 @@
 ||lcs.naver.com^$important
 @@||m.site.naver.com^
 @@||toast.com^
-@@||pstatic.net^
 @@||ssl.pstatic.net.nheos.com^$important
 @@||dict.naver.com^
 @@||terms.naver.com^
@@ -207,10 +207,8 @@
 @@logins.naver.com^
 @@apis.naver.com^
 @@nidlogin.naver.com^
-@@||tivan.naver.com^$important
 @@||api.nrc.naver.com^$important
 @@||terms.naver.com.nheos.com^$important
-@@||dthumb-phinf.pstatic.net^$important
 @@||s.pstatic.net.nheos.com^$important
 @@||ac-dict.naver.com^$important
 @@||static.nid.naver.com.nheos.com^$important
@@ -218,9 +216,6 @@
 @@||sm-waf-lb-16-6690352-2a56c6c4c307.kr.lb.naverncp.com^$important
 @@||kr1-lcs.naver.com.nfront.nheos.com^$important
 @@||pstatic.net.dn.gscdn.net^$important
-@@||glad-vod.pstatic.net.stream.gscdn.net^$important
-@@||b01-kr-naver-vod.pstatic.net.topo.gscdn.net^$important
-@@||a01-g-naver-vod.akamaized.net^$important
 @@||dic-phinf.pstatic.net.nheos.com^$important
 @@||sstatic-g.rmcnmv.naver.net^$important
 @@||dict.naver.com.nheos.com^$important
@@ -233,22 +228,16 @@
 @@||m.calendar.naver.com^$important
 @@||m.memo.naver.com^$important
 @@||ekyc.naver.com^$important
+@@||my.naver.com^$important
 # 사용자 데이터 네이버 분석 노노
 ||lcs.naver.com^$important
 ||cc.naver.com^$important
 ||kr1-cc.naver.com.nfront.nheos.com^$important
-||tivan.naver.com^$important
 #
+||tivan.naver.com^$important
 ||safebrowsing.naver.com^$important
 ||livecloud-slit.pstatic.net^$important
 ||blog.naver.com.nheos.com^$important
-||image-comic.pstatic.net^$important
-||naverwebtoon-phinf.pstatic.net^$important
-||music-phinf.pstatic.net^$important
-||musicmeta-phinf.pstatic.net^$important
-||cdn-vibe.pstatic.net^$important
-||st-audiop.pstatic.net^$important
-||dthumb-phinf.pstatic.net^$important
 ||nelo2-col.navercorp.com^$important
 ||shared-comic.pstatic.net^$important
 ||kream-phinf.pstatic.net^
@@ -265,7 +254,22 @@
 ||storep-phinf.pstatic.net^$important
 ||resources-rmcnmv.pstatic.net^$important
 ||dthumb-phinf.pstatic.net^$important
+||dthumb-phinf.pstatic.net^$important
 ||b01-kr-naver-vod.pstatic.net^$important
+||shopping-phinf.pstatic.net^$important
+||shop-phinf.pstatic.net^$important
+||mblogthumb-phinf.pstatic.net^$important
+||mimgnews.pstatic.net^$important
+||image-comic.pstatic.net^$important
+||naverwebtoon-phinf.pstatic.net^$important
+||music-phinf.pstatic.net^$important
+||musicmeta-phinf.pstatic.net^$important
+||cdn-vibe.pstatic.net^$important
+||st-audiop.pstatic.net^$important
+||glad-vod.pstatic.net.stream.gscdn.net^$important
+||b01-kr-naver-vod.pstatic.net.topo.gscdn.net^$important
+||a01-g-naver-vod.akamaized.net^$important
+
 
 # 연관 akamai 계열 (분류 필요함)
 @@||e6030.e73.akamaiedge.net^$important
