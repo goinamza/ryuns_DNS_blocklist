@@ -41,6 +41,7 @@
 # linkwang 이거 아주 나쁜 VPN 중계소
 ||linkwang.org^$important
 ||cyberghostvpn.com^$important
+||667791.xyz^$important
 ### VPN Cloudfront DoH Domains
 ||d1radv0oaxye89.cloudfront.net^$important
 ||d1mz7hcv7etrz4.cloudfront.net^$important
@@ -91,6 +92,12 @@
 @@||firebaseapp.com^
 @@||firebaseio.com^
 @@||tag-manager.frontiersin.org^$important
+# 넷게이트 라우터 로그인
+@@||routerlogin.net^
+@@||www.netgear.com^$important
+@@||registration.ngxcld.com^$important
+@@||dlcdnets.asus.com^$important
+
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
