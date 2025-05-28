@@ -264,6 +264,8 @@ api-h2.tiktokv.com
 
 # wetv
 wetvinfo.com
+wetv.com
+wetv.vip
 
 # Kakao, Kakaotalk
 katalk.kakao.com
