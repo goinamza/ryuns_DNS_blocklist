@@ -41,13 +41,9 @@ reasonsecurity
 ||pixelgorithm.com^
 ||kochava.com^
 ||p8464oxs.com^
+||cyberghostvpn.com^$important
+||667791.xyz^$important
 
-### VPN Cloudflare etc Domains
-||d1radv0oaxye89.cloudfront.net^$important
-||d1mz7hcv7etrz4.cloudfront.net^$important
-||dcbdscbm35nst.cloudfront.net^$important
-||dlcadjfosxue7.cloudfront.net^$important
-||dm5e8leztlghu.cloudfront.net^$important
 
 ### DoH, Proxy###
 ||dns.msftncsi.com^
@@ -70,6 +66,19 @@ reasonsecurity
 ||getxvpn.com^
 ||xsecureproxy.net^
 ||openwebtorrent.com^
+||nextdns.io^$important
+||share-dns.com^$important
+||share-dns.net^$important
+||shared.sni.fastly.net^$important
+||dns11.quad9.net^$important
+
+### VPN Cloudfront DoH Domains
+||d1radv0oaxye89.cloudfront.net^$important
+||d1mz7hcv7etrz4.cloudfront.net^$important
+||dcbdscbm35nst.cloudfront.net^$important
+||dlcadjfosxue7.cloudfront.net^$important
+||dm5e8leztlghu.cloudfront.net^$important
+
 
 ### Google 우회 관련 ###
 ||dns.google.com^
@@ -143,6 +152,7 @@ reasonsecurity
 ||search.naver.com^
 ||band.us^
 ||line.me^
+
 
 
 
@@ -366,7 +376,6 @@ reasonsecurity
 ||mango54.net^
 ||mingky.net^
 ||mingk.xyz^$important
-||667791.xyz^
 ||sogirl.so^
 ||123av.com^
 
