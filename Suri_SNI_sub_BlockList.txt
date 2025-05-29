@@ -43,6 +43,7 @@ reasonsecurity
 ||p8464oxs.com^
 ||cyberghostvpn.com^$important
 ||667791.xyz^$important
+||surfshark.com^$important
 
 /.zendesk/
 ||innovativeconnecting.zendesk.com^
