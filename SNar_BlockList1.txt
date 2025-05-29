@@ -597,7 +597,7 @@ orbi.kr
 @@||gvt4.com^
 @@||gvt5.com^
 @@||gvt6.com^
-@@||analytics.google.com^$important
+||analytics.google.com^
 @@||optimizationguide-pa.googleapis.com^$important
 @@||accounts.google.com^
 @@||apis.google.com^
