@@ -589,7 +589,7 @@ orbi.kr
 ||*google.com^
 @@||googleapis.com^
 @@||gstatic.com^
-@@||googletagmanager.com^
+||googletagmanager.com^
 @@||gvt1.com^
 ||*.gvt1.com^
 @@||gvt2.com^
