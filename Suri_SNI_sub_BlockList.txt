@@ -44,7 +44,6 @@ reasonsecurity
 ||cyberghostvpn.com^$important
 ||667791.xyz^$important
 ||surfshark.com^$important
-
 /.zendesk/
 ||innovativeconnecting.zendesk.com^
 ||interconnecting.com^
@@ -122,6 +121,18 @@ reasonsecurity
 ||sophos.com^
 ||hackread.com^
 ||linkedin.com^
+||expressvpn.com^$important
+||expressapisv2.net^$important
+||expressvpn.works^$important
+||tunnelbear.com^$important
+||nortonlifelock.com^$important
+||finevpn.org^$important
+||freevpnapp.co.uk^$important
+||stable-vpn.com^$important
+||unicorn-soft.com^$important
+||nordcdn.com^$important
+||vpn-api.proton.me^$important
+
 
 ### DoH, Proxy###
 ||dns.msftncsi.com^
@@ -385,7 +396,6 @@ reasonsecurity
 ||azar.app^
 ||anipang.com^
 ||vlive.tv^
-||linkedin.com^
 ||viber.com^
 ||kik.com^
 ||wechat.com^
