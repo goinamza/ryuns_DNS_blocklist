@@ -16,7 +16,7 @@ dcinside
 
 ### 도메인 문자열 ###
 
-### VPN ###
+### VPN 관련 ###
 ||nexthop.onl^
 ||linkwang.org^
 ||free-signal.com^
@@ -44,6 +44,83 @@ reasonsecurity
 ||cyberghostvpn.com^$important
 ||667791.xyz^$important
 
+/.zendesk/
+||innovativeconnecting.zendesk.com^
+||interconnecting.com^
+||turbovpn.com^
+||cyberghostvpn.com^
+||vyprvpn.com^
+||privateinternetaccess.com^
+||privatevpn.com^
+||purevpn.com^
+||ipvanish.com^
+||avg.com^
+||avast.com^
+||nordvpn.com^
+||top10vpn*.com^
+||ivacy.com^
+||protonvpn.com^
+||browsec.com^
+||mullvad.net^
+||vpn.ac^
+||undercurrentss.com^
+||torguard.net^
+||fastestvpn.com^
+||zenmate.com^
+||hotspotshield.com^
+/tunnelbear/
+||atlasvpn.com^
+||vpnunlimited.com^
+||adguard-vpn.com^
+||vpngate.net^
+||windscribe.com^
+||veilduck.com^
+||hola.org^
+||uvpn.me^
+||vpn-mentors.com^
+/vpnmentor/
+||vpnpro.com^
+||cybernews.com^
+/surf-vpn./
+||surfeasy.com^
+||touchvpn.com^
+||opera.com^
+||speedify.com^
+||betternet.co^
+||speedify.com^
+||hide.me^
+||vpnbook.com^
+||hidemyass.com^
+||setupvpn.com^
+||haiip.net^
+||safevisit.org^
+||vpngate.net^
+||1clickvpn.net^
+||mobilejump.mobi^
+/mobilejump/
+||getintra.org^
+/vpn-tomato/
+/vpn-proxy/
+/proxy-vpn/
+||securevpn.com^
+/secure-vpn/
+||ovpn.com^
+||trust.zone^
+||ivpn.net^
+||zoogvpn.com^
+||limevpn.com^
+||malwarebytes.com^
+||bitdefender.com^
+||namecheap.com^
+||vps02.net.orel.ru^
+/.net.orel.ru/
+||freevpn.zone^
+||wizcase.com^
+/firefox-private-network/
+||thehackernews.com^
+||sophos.com^
+||hackread.com^
+||linkedin.com^
 
 ### DoH, Proxy###
 ||dns.msftncsi.com^
@@ -152,7 +229,39 @@ reasonsecurity
 ||search.naver.com^
 ||band.us^
 ||line.me^
-
+||lcs.naver.com^$important
+||cc.naver.com^$important
+||kr1-cc.naver.com.nfront.nheos.com^$important
+||tivan.naver.com^$important
+||safebrowsing.naver.com^$important
+||livecloud-slit.pstatic.net^$important
+||blog.naver.com.nheos.com^$important
+||nelo2-col.navercorp.com^$important
+||shared-comic.pstatic.net^$important
+||kream-phinf.pstatic.net^
+||naverads.com^
+||shopping.naver.com.nheos.com^$important
+||recoshopping.naver.com.nheos.com^$important
+||shopsquare.naver.com.nheos.com^$important
+||video-phinf.pstatic.net^$important
+||storep-phinf.pstatic.net^$important
+||resources-rmcnmv.pstatic.net^$important
+||dthumb-phinf.pstatic.net^$important
+||dthumb-phinf.pstatic.net^$important
+||b01-kr-naver-vod.pstatic.net^$important
+||shopping-phinf.pstatic.net^$important
+||shop-phinf.pstatic.net^$important
+||mblogthumb-phinf.pstatic.net^$important
+||mimgnews.pstatic.net^$important
+||image-comic.pstatic.net^$important
+||naverwebtoon-phinf.pstatic.net^$important
+||music-phinf.pstatic.net^$important
+||musicmeta-phinf.pstatic.net^$important
+||cdn-vibe.pstatic.net^$important
+||st-audiop.pstatic.net^$important
+||glad-vod.pstatic.net.stream.gscdn.net^$important
+||b01-kr-naver-vod.pstatic.net.topo.gscdn.net^$important
+||a01-g-naver-vod.akamaized.net^$important
 
 
 
@@ -186,7 +295,7 @@ reasonsecurity
 ||mail.google.com^
 ||chat.google.com^
 ||news.google.com^
-
+||youtu.be^
 
 ### Apple ###
 ##||itunes.apple.com^
@@ -291,11 +400,34 @@ reasonsecurity
 ||xbox.com^
 ||nintendo.com^
 
+### Samsung ###
+||samsung.com^
+||samsungapps.com^
+||internet.apps.samsung.com^
+||samsungcloud.com^
+||galaxy.store^
+
+
+### News ###
+||cnn.com^
+||seoul.co.kr^
+||yna.co.kr^
+||kormedi.com^
+||donga.com^
+||spotvnews.co.kr^
+
+### TV and OTT ###
+||wavve.com^
+||nflximg.net^
+||nflxvideo.net^
+||spotv.com^
+||spotvnow.co.kr^
+||netflix.com^
+||wavve.com^
 
 ### Shopping ###
 ||ebay.com^
 ||esty.com^
-||aliexpress.com^
 ||wish.com^
 ||zalando.com^
 ||shein.com^
@@ -326,6 +458,7 @@ reasonsecurity
 ||themedicube.co.kr^
 ||thebodyshop.co.kr^
 ||lush.co.kr^
+||danawa.com^
 
 ### Game ####
 ||gamemeca.com^
@@ -343,29 +476,120 @@ reasonsecurity
 ||smilegate.com^
 ||api.chess.com^
 ||unity3d.com^
+||battle.net^
+
+### Potal Sites ###
+||msn.com^
+||bing.com^
+||yahoo.com^
+||nate.com^
+||yandex.com^
+||paran.com^
+||empas.com^
+||sayclub.com^
+||dreamwiz.com^
+||zum.com^
+||korea.com^
+
+### Music ###
+||soundcloud.com^
+
+### Mail, SNS, Blog, Message ###
+||telegram.org^
+||hotmail.com^
+||tistory.com^
+||reddit.com^
+||outlook.com^
+||x.com^$important
+||threads.com^$important
+
+### Video Streaming and Communication ###
+||zoom.us^
+||zoom.com^
+||camcdn.tgclab.com^
+||skype.com^
+
+### Sports, Wiki, Entertainment, Hobby, Travel ###
+||nba.com^
+||hotels.com^$important
+||wikitree.co.kr^
+
+### AI Sites ###
+||chatgpt.com^
+||genie.co.kr^
+||openai.com^
+||grok.com^
+||grok3.com^
+
+############# Just Bad, CHINA WILL DIE, etc. Never allow #################
+||qq.com^
+||wetv.vip^
+||wetv.com^
+||temu.com^
+||aliexpress.com^
+||huawei.com^
+/huawei/
+||tiktokv.com^
+||weibo.com^
+||baidu.com^
+||tieba.com^
+
+#### Global Site BlockList ###
+||search.brave.com^
+||qwant.com^
+||startpage.com^
+||swisscows.com^
+||mojeek.com^
+||sogou.com^
+||seznam.cz^
+||petalsearch.com^
+||you.com^
+||perplexity.ai^
+||gigablast.com^
+||ask.com^
+||mega.io^
+||mega.nz^
+||ecosia.org^
+||pixabay.com^
+||onesignal.com^
+||iqos.com^$important
+||apkpure.com^
+||download.apkpure.com^
+||aol.com^$important
+||dogpile.com^
+||metager.org^
+||searx.org^
+||fireball.de^
+||exalead.com^
+||entireweb.com^
+||yippy.com^
+||searchencrypt.com^
+||search.disconnect.me^
+||infinitysearch.co^
+||peekier.com^
+||gibiru.com^
+||oscobo.com^
+||qmamu.com^
+||neeva.com^
+||andisearch.com^
+||kagi.com^
+||infinitysearch.co^
+||peekier.com^
+||andisearch.com^
+||blackle.com^
+||millionshort.com^
+||webcrawler.com^
+||metacrawler.com^
 
 
 ### Etc
 ||fomos.kr^
-||samsungapps.com^
-||internet.apps.samsung.com^
-||samsungcloud.com^
-||openai.com^
-||netflix.com^
-||tiktokv.com^$important
 ||filejo.com^$important
 ||fmkorea.com^$important
 ||theqoo.net^$important
 ||humoruniv.com^$important
 ||anilife.live^
-||nate.com^
-||tistory.com^
-||soundcloud.com^
-||wavve.com^
-||camcdn.tgclab.com^
-||skype.com^
-||grok.com^
-||grok3.com^
+
 
 #### Adult ####
 ||yeotop.org^
@@ -561,12 +785,10 @@ ssakmoa/.com
 ||digimart.net^
 ||msfmc.co.kr^
 ||abbreviations.com^
-||coupang.com^
 ||ssg.com^
 ||wordpress.com^
 ||heye.kr^
 ||peanutoon.com^
-||funbe*.com^
 ||dogdrip.net^
 ||hihenji.com^
 ||foamgirl.net^
