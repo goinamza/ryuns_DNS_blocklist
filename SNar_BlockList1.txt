@@ -188,7 +188,6 @@
 @@||dict.naver.com_search^
 @@||terms.naver.com^
 @@||m.terms.naver.com^
-@@||cc.naver.com^
 @@||endic.naver.com^
 @@||endic-api.naver.com^$important
 @@||ssl.pstatic.net^$important
@@ -232,6 +231,7 @@
 ||lcs.naver.com^$important
 ||cc.naver.com^$important
 ||kr1-cc.naver.com.nfront.nheos.com^$important
+||cc.naver.com^$important
 #
 ||tivan.naver.com^$important
 ||safebrowsing.naver.com^$important
