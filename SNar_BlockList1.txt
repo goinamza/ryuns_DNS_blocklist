@@ -193,7 +193,6 @@
 @@||ssl.pstatic.net^$important
 @@||endic.naver.com^$important
 @@||navercorp.com^
-@@||cc.naver.com^$important
 @@||m.site.naver.com^
 @@||toast.com^
 @@||ssl.pstatic.net.nheos.com^$important
@@ -210,7 +209,6 @@
 @@||s.pstatic.net.nheos.com^$important
 @@||ac-dict.naver.com^$important
 @@||static.nid.naver.com.nheos.com^$important
-@@||kr1-cc.naver.com.nfront.nheos.com^$important
 @@||sm-waf-lb-16-6690352-2a56c6c4c307.kr.lb.naverncp.com^$important
 @@||kr1-lcs.naver.com.nfront.nheos.com^$important
 @@||pstatic.net.dn.gscdn.net^$important
