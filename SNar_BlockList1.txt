@@ -195,7 +195,6 @@
 @@||endic.naver.com^$important
 @@||navercorp.com^
 @@||cc.naver.com^$important
-||lcs.naver.com^$important
 @@||m.site.naver.com^
 @@||toast.com^
 @@||ssl.pstatic.net.nheos.com^$important
