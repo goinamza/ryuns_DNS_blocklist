@@ -800,7 +800,7 @@ orbi.kr
 @@||*.edgekey.net^
 # 외부와 단절되어 공부만 해야될 학생이 클라우드를 왜써
 ### icloud 전면 차단.
-||icloud.com^$important
+||icloud.com^
 ||*.icloud.com^
 ||icloud-dns.com^
 ||icloud-content.com^
@@ -838,13 +838,13 @@ orbi.kr
 @@||appleid.cdn-apple.com^$important
 @@||idmsa.apple.com^$important
 #### 체크
-||setup.icloud.com^$important
+@@||setup.icloud.com^
 @@||setup.apple.com^$important
 @@||setup.fe2.apple-dns.net^
 @@||auth.apple.com^$important
 @@||trustd.apple.com^$important
 #### 체크
-||static.icloud.com^$important
+@@||static.icloud.com^
 
 # Apple 기기 네트워크 상태 파악 도메인
 @@||netcts.cdn-apple.com^$important
@@ -1206,14 +1206,14 @@ orbi.kr
 
 # 캘린더 관련 (caldav)
 #### 체크
-||*caldav.icloud.com^
+@@||*caldav.icloud.com^
 @@||caldav.fe2.apple-dns.net^
 #### 체크
-||calenders.icloud.com^
+@@||calenders.icloud.com^
 
 # 연락처 동기화
 #### 체크
-||*contacts.icloud.com^
+@@||*contacts.icloud.com^
 @@||contacts.fe2.apple-dns.net^
 
 # Apple 날씨 관련 (weatherkit)
@@ -1325,13 +1325,13 @@ orbi.kr
 
 # 애플 기기 위치 찾기 (Find My iPhone) 분실 시 복구 등과 관련. 찾아줘야됨
 #### 체크
-||*fmipmobile.icloud.com^
+@@||*fmipmobile.icloud.com^
 @@||fmipmobile.fe2.apple-dns.net^
 #### 체크
-||p174-fmip.icloud.com^
-||*-fmip.icloud.com^
+@@||p174-fmip.icloud.com^
+@@||*-fmip.icloud.com^
 @@||fmip.fe2.apple-dns.net^
-||fmipalservice.icloud.com^
+@@||fmipalservice.icloud.com^
 @@||fmipalservice.fe2.apple-dns.net^
 @@||fmip.apple.com^
 
