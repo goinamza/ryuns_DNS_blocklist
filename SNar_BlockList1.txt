@@ -807,7 +807,7 @@ orbi.kr
 @@||*.edgekey.net^
 # 외부와 단절되어 공부만 해야될 학생이 클라우드를 왜써
 ### icloud 전면 차단.
-||icloud.com^
+@@||icloud.com^
 ||*.icloud.com^
 ||icloud-dns.com^
 ||icloud-content.com^
@@ -1347,6 +1347,9 @@ orbi.kr
 @@||cabana-config.lb-apple.com.akadns.net^$important
 @@||cabana-config.g.aaplimg.com^$important
 @@||cabana-server.g.aaplimg.com^
+
+# icloud keyvalueservice 관련
+@@||*-keyvalueservice.icloud.com^
 
 # Playgrounds (무슨 코딩인가 뭐시기? swift playgrounds)
 ||playgrounds-assets-cdn.apple.com^$important
