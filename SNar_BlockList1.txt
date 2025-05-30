@@ -103,6 +103,8 @@
 @@||www.netgear.com^$important
 @@||registration.ngxcld.com^$important
 @@||dlcdnets.asus.com^$important
+# KT 도메인
+@@||kgns1.com^
 
 
 ||*.in-addr.arpa^
@@ -404,6 +406,8 @@ orbi.kr
 @@||gomathtop.inclass.co.kr^
 @@||inclass-file.s3.ap-northeast-2.amazonaws.com^$important
 @@||inclass.notion.site^$important
+# inclass 관련인 것 같은 kt 도메인인데 확인 필요
+
 
 # STUDY WebSites 일반적인 학습 관련 싸이트들 모음입니다. 규모가 크거나 fine tuning이 필요한 것들은 따로 빼서 운용해도 됩니다. 
 @@||yigam.co.kr^
@@ -582,7 +586,6 @@ orbi.kr
 @@||giyoung-api-gateway-9s6qpjg4.an.gateway.dev^$important
 @@||giyoung.firebaseapp.com^$important
 @@||asia-northeast3-giyoung.cloudfunctions.net^$important
-
 
 
 # Google Services
