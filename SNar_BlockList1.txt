@@ -105,6 +105,8 @@
 @@||dlcdnets.asus.com^$important
 # KT 도메인
 @@||kgns1.com^
+# 비영리 분석 사이트인데 일단 보이는 것은 풀어둠
+@@||asp22.http.or.kr^
 
 
 ||*.in-addr.arpa^
@@ -684,8 +686,10 @@ orbi.kr
 ||fcm.googleapis.com^$important
 
 ### 구글 우회 관련 ####
-||googlehosted.l.googleusercontent.com^$important
-||firebaseremoteconfigrealtime.googleapis.com^$important
+# 이것만 풀어줌... 강사들이 여기를 통해 동영상 올릴 수 있음... ㅠㅠ
+@@||googlehosted.l.googleusercontent.com^
+#
+||firebaseremoteconfigrealtime.googleapis.com^$impor1tant
 ###||firestore.googleapis.com^$important
 ||firebaseremoteconfig.googleapis.com^$important
 ||safebrowsing.googleapis.com^$important
