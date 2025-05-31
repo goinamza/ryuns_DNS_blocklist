@@ -255,6 +255,8 @@
 ##### MATUTA PC의 성과 목록
 # p8464oxs.com 악성 도메인(고정 IP 사용)
 52.205.201.150
+### MARUTA PC의 Cloudfront IP 목록
+### 이건 아예 도메인에서 세션 차단하는게 좋을 것 같은디? ㅋ
 
 ####### 앱들의 Fallback 고정 IP들
 # mqtt-ig-p4.facebook.com
