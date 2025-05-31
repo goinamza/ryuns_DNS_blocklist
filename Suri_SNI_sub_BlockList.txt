@@ -560,6 +560,7 @@ reasonsecurity
 ||qq.com^
 ||wetv.vip^
 ||wetv.com^
+||wetvinfo.com^
 ||temu.com^
 ||aliexpress.com^
 ||huawei.com^
@@ -1068,4 +1069,4 @@ realtoon/.link
 ||batoon.net^
 /moontoon/
 ||linkboza.com^
-||wetvinfo.com^
+
