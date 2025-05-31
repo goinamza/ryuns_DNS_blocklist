@@ -77,7 +77,7 @@
 ||dqftc2wt1nb48.cloudfront.net^$important
 ||dls8gsji1bvz2.cloudfront.net^$important
 ||d20tfbvkp7m39c.cloudfront.net^$important
-
+||d1ht7lr8rdaubc.cloudfront.net^$important
 
 # Common Function Sites 일반적 동작에 필요한 싸이트들을 집어넣습니다.
 @@||ntp.org^
