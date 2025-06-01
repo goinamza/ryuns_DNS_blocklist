@@ -1512,7 +1512,7 @@ orbi.kr
 ###### Facebook
 # Facebook 차단 명시
 ||facebook.com^
-||connect.facebook.net^
+@@||connect.facebook.net^
 
 
 # Samsung Services
