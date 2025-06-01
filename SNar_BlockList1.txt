@@ -644,7 +644,10 @@ orbi.kr
 @@||d2cae6yaeu0pr6.cloudfront.net^$important
 @@||d2ch1c8885oq0w.cloudfront.net^$important
 @@||d2f9vfpkdwui8l.cloudfront.net^$important
-
+@@||d3sknckuh1o9tg.cloudfront.net^$important
+@@||dgcsirt0m2nbz.cloudfront.net^$important
+@@||die3wsrnlcoc1.cloudfront.net^$important
+@@||dihywp62vy9tg.cloudfront.net^$important
 
 # Google Services
 ||*google.com^
