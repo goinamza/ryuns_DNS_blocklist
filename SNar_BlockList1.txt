@@ -440,12 +440,8 @@ orbi.kr
 @@||kihoedu.com^
 @@||rawgit.com^
 @@||zocbo.com^
-@@||etoosbook.com^
 @@||axissoft.co.kr^
 @@||conects.com^
-@@||etoos.com^
-@@||etoos.gscdn.com^
-@@||etoos.net^$important
 @@||hiqri.ai^$important
 @@||auth.neoneo.co.kr^$important
 @@||sf.symcd.com^$important
@@ -552,8 +548,6 @@ orbi.kr
 @@||techhub.co.kr^$important
 @@||mimacstudy.com.wtxcdn.com^$important
 @@||mimacstudy.com.wtxcdn.com^$important
-@@||_44306._https.auth.etoosanswer.co.kr^$important
-@@||etoosanswer.co.kr^$important
 @@||img.megastudy.net.gtmc.hscdn.com^$important
 @@||sfnotes.cdn.calculator-tech.com^$important
 @@||quizrix.com^
@@ -612,6 +606,44 @@ orbi.kr
 @@||giyoung-api-gateway-9s6qpjg4.an.gateway.dev^$important
 @@||giyoung.firebaseapp.com^$important
 @@||asia-northeast3-giyoung.cloudfunctions.net^$important
+
+### 병신 이투스 특별관리. cloudfront에다 메인 페이지들을 박아놓은 무뇌짓 때문에 뭔 개 귀찮은 짓인가..
+@@||etoos.com^
+@@||etoos.gscdn.com^
+@@||etoos.net^$important
+@@||etoosbook.com^
+@@||_44306._https.auth.etoosanswer.co.kr^$important
+@@||etoosanswer.co.kr^$important
+# 그냥 아예 얘네 cloudfront를 확실히 allow로 지정함.
+@@||img.etoos.com^$important
+@@||d30fuo9j5370uc.cloudfront.net^$important
+@@||event.etoos.com^$important
+@@||d2ht4wihz8fq4p.cloudfront.net^$important
+@@||lecture.etoos.com^$important
+@@||d3byjucwe7ytyp.cloudfront.net^$important
+@@||member.etoos.com^$important
+@@||d2yfuq9hsn8oqi.cloudfront.net^$important
+@@||freevod.etoos.com^$important
+@@||dyl98pldxvypl.cloudfront.net^$important
+
+# 그 외 이 병신들이 사용하는 것으로 추정되는 cloudfront 도메인들
+@@||d127n5jiwb3j0b.cloudfront.net^$important
+@@||dnh523js9661q.cloudfront.net^$important
+@@||dr7hfz6gd3nob.cloudfront.net^$important
+@@||d1fpdhao7f8ux5.cloudfront.net^$important
+@@||d2m9duoqjhyhsq.cloudfront.net^$important
+@@||d357st2qvyfcrh.cloudfront.net^$important
+@@||d1syh6mjear537.cloudfront.net^$important
+@@||d1tru86qrby720.cloudfront.net^$important
+@@||d1b4ko8jqujqto.cloudfront.net^$important
+@@||d3tccjf3xiio5y.cloudfront.net^$important
+@@||d1bxh8uas1mnw7.cloudfront.net^$important
+@@||d1ex46a0eaqlz9.cloudfront.net^$important
+@@||d1pijg9qb98hxx.cloudfront.net^$important
+@@||d265380gw0gllt.cloudfront.net^$important
+@@||d2cae6yaeu0pr6.cloudfront.net^$important
+@@||d2ch1c8885oq0w.cloudfront.net^$important
+@@||d2f9vfpkdwui8l.cloudfront.net^$important
 
 
 # Google Services
