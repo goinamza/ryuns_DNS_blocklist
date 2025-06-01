@@ -121,6 +121,8 @@
 @@||kgns1.com^
 # 비영리 분석 사이트인데 일단 보이는 것은 풀어둠
 @@||asp22.http.or.kr^
+# Bose 음향기기인데 풀어줌
+@@||bose.io^
 
 
 ||*.in-addr.arpa^
@@ -591,6 +593,7 @@ orbi.kr
 @@||eseoul.go.kr^$important
 @@||slearn-cdn.eseoul.go.kr^$important
 @@||kmooc.kr^$important
+@@||dbpia.co.kr^$important
 # Orzo 관련 giyoung
 @@||orzo.kr^
 @@||giyoung-api-gateway-9s6qpjg4.an.gateway.dev^$important
@@ -1506,7 +1509,8 @@ orbi.kr
 # Facebook 차단 명시
 ||facebook.com^
 @@||connect.facebook.net^
-
+@@||scontent.xx.fbcdn.net^
+@@||scontent.fallback.xx.fbcdn.net^
 
 # Samsung Services
 @@||orcaservice.samsungmobile.com^$important
@@ -1623,6 +1627,8 @@ orbi.kr
 @@||tk.doem-0tpdlqj.com^$important
 @@||roughtime.int08h.com^$important
 @@||code.jquery.com^$important
+# Clickon은 광고 관련이긴 한데 일단 풀어줌
+@@||clickon.kr^
 ### opsnow 는 DoH 의심이었지만 아닌 것 같음. 일단 풀어줌.
 @@||bb8-server-prod.okc1.opsnow.com^
 
