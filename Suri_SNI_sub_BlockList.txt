@@ -311,7 +311,6 @@ reasonsecurity
 
 ### Google, Youtube ###
 
-||play.google.com^$important
 ||youtube.com^
 ||youtube-nocookie.com^$important
 ||googlevideo.com^
