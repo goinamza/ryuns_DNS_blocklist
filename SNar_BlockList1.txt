@@ -130,6 +130,9 @@
 @@||*.r2.cloudflarestorage.com^
 @@||api.wordlift.io^
 #
+@@||whatismyip.akamai.com^
+# 학습 동영상과 관련 높을 수 있는 동영상 스트리밍 cdn 주소
+@@||cdn.ntruss.com.ncpcdn.gscdn.net^
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
