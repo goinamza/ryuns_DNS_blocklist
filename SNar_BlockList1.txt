@@ -333,6 +333,8 @@
 @@||kapi-rgm85emo.kgslb.com^
 @@||accounts.kakao.com^
 @@||accounts-ec2avpvy.kgslb.com^
+@@||accounts.kakaocdn.net^
+@@||accounts-809yj20e.kgns1.com^
 #
 @@||developers.kakao.com^$important
 @@||t1.kakaocdn.net^$important
