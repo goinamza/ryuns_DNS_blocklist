@@ -325,6 +325,8 @@
 ||kakaoentcdn.com^
 ||onkakao.net
 # 로그인과 인증만 풀어줌 ##
+@@||logins.daum.net^
+@@||logins-ltm0w7xt.kgslb.com^
 @@||auth.kakao.com^
 @@||auth-3kttlp4v.kgslb.com^
 @@||kauth.kakao.com^
