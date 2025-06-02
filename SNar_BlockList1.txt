@@ -123,7 +123,10 @@
 @@||asp22.http.or.kr^
 # Bose 음향기기인데 풀어줌
 @@||bose.io^
-
+# pdf 잠금 해제하는 싸이트와 그것의 결제 api인데 결제는 웬만하면 밖에서.
+@@||smallpdf.com^$important
+@@||recurly.com^$important
+#
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
