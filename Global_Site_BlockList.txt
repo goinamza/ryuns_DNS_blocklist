@@ -45,12 +45,10 @@ icloud.com
 /\.cz$/
 ||nate.com^
 ||tistory.com^
-||kakao.com^
 ||reddit.com^
 ||telegram.org^$important
 ||outlook.com^
 ||qq.com^$important
-||kakaocdn.net^
 ||donga.com^
 ||onesignal.com^
 ||instagram.com^
