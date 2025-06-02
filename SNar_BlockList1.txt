@@ -126,6 +126,9 @@
 # pdf 잠금 해제하는 싸이트와 그것의 결제 api인데 결제는 웬만하면 밖에서.
 @@||smallpdf.com^$important
 @@||recurly.com^$important
+# Cloudflarestorage는 악용될 여지가 있긴 한데 일단 풀고 나중에 문제 생기면 닫는 것으로 하겠음.
+@@||*.r2.cloudflarestorage.com^
+@@||api.wordlift.io^
 #
 
 ||*.in-addr.arpa^
