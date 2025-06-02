@@ -663,6 +663,7 @@ orbi.kr
 ||analytics.google.com^
 @@||optimizationguide-pa.googleapis.com^$important
 @@||accounts.google.com^
+@@||myaccount.google.com^
 @@||apis.google.com^
 @@||time.android.com^$important
 @@||clients.l.google.com^$important
