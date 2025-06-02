@@ -306,28 +306,45 @@
 
 
 
-# Daum Kakao ####
+# Daum Kakao (Fine Tuning 결정함) ####
+||daum.net^
 @@||tts-dic.daum.net^
 @@||dic.daum.net^
 @@||100.daum.net^
 @@||dic.daum.net^
 @@||t1.daumcdn.net^
-@@||t1.kakaocdn.net^$important
 @@||t1.daumcdn.net.edgesuite.net^$important
 @@||a1988.dscw39.akamai.net^$important
-@@||developers.kakao.com^$important
-@@||postcode.map.daum.net^$important
-||onkakao.net
 ||daumcdn.net^
-||daum.net^
-||kakaoentcdn.com^
-||talk-pilsner.kakao.com^$important
-||ticket-loco.kakao.com^$important
+@@||postcode.map.daum.net^$important
 # 카카오 꺼져
-||kgslb.com^$important
-||onkakao.net^$important
 ||kakao.com^
+||kakaocorp.com^
+||kakao.co.kr^
 ||kakaocdn.net^
+||kakaoentcdn.com^
+||onkakao.net
+# 로그인과 인증만 풀어줌 ##
+@@||auth.kakao.com^
+@@||auth-3kttlp4v.kgslb.com^
+@@||kauth.kakao.com^
+@@||kauth-51la0hs1.kgslb.com^
+@@||kapi.kakao.com^
+@@||kapi-rgm85emo.kgslb.com^
+@@||accounts.kakao.com^
+@@||accounts-ec2avpvy.kgslb.com^
+#
+@@||developers.kakao.com^$important
+@@||t1.kakaocdn.net^$important
+# 나머지 kakao는 block 유지
+# Kakaotalk 전송은 확실히 block함
+||katalk.kakao.com^$important
+||talk.kakao.co.kr^$important
+||talk.kakao.com^$important
+||talk-pilsner.kakao.com^$important
+||kakaobizmessage.com^
+||ticket-loco.kakao.com^$important
+||kgslb.com^
 
 
 # Orbi
