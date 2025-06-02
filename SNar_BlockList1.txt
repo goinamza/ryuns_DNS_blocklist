@@ -326,6 +326,9 @@
 # 카카오 꺼져
 ||kgslb.com^$important
 ||onkakao.net^$important
+||kakao.com^
+||kakaocdn.net^
+
 
 # Orbi
 @@||academy.orbi.kr^
