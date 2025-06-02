@@ -334,15 +334,40 @@ reasonsecurity
 ||msn.com^
 ##||copilot.microsoft.com^
 
-### KakaoTalk ###
-||katalk.kakao.com^
-||talk.kakao.co.kr^
-||talk.kakao.com^
-||kakao.com^
+### KakaoTalk (Fine Tuning 적용. kakao.com 을 풀어주면서 나머지 중요 도메인을 모두 막는다.) ###
 ||kakaocorp.com^
 ||onkakao.net^
 ||kakao.co.kr^
 ||kakaobizmessage.com^
+||kakaoenterprise.com^
+# 그 외 카카오 도메인 모두 막음
+||developers.kakao.com^
+||open.kakao.com^
+||talk-pilsner.kakao.com^
+||talk-shareex.kakao.com^
+/talk-pilsner/
+||katalk.kakao.com^
+||talk.kakao.co.kr^
+||talk.kakao.com^
+||talk-apps.kakao.com^
+||pay.kakao.com^
+||map.kakao.com^
+||dapi.kakao.com^
+||apps.kakao.com^
+||video.kakao.com^
+||v.kakao.com^
+||tv.kakao.com^
+||kakaoi-newtone-openapi.kakao.com^
+||forms.kakao.com^
+||files.kakao.com^
+||smtp.kakao.com^
+||comment.kakao.com^
+||magazine.kakao.com^
+||tech.kakao.com^
+||tiara.kakao.com^
+||kyson.kakao.com^
+||api-alimtalk.cloud.toast.com^
+
 # 카카오 로그인 관련
 # auth.kakao.com
 # accounts.kakao.com
