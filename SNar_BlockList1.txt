@@ -574,7 +574,6 @@ orbi.kr
 @@||mimacstudy.com.wtxcdn.com^$important
 @@||mimacstudy.com.wtxcdn.com^$important
 @@||img.megastudy.net.gtmc.hscdn.com^$important
-@@||sfnotes.cdn.calculator-tech.com^$important
 @@||quizrix.com^
 @@||mbest.co.kr^
 @@||sdijon.com.service2.gscdn.net^$important
