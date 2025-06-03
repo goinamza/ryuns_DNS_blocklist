@@ -419,6 +419,8 @@ orbi.kr
 @@||ebs.co.kr^
 @@||ebsmath.co.kr^
 @@||debug-m.ebsmath.co.kr^$important
+@@||ai-plus.ebs.co.kr^$important
+@@||kr.object.ncloudstorage.com^$important
 ||news.ebs.co.kr^$important
 ||ai-new.ebs.co.kr^$important
 ||anikids.ebs.co.kr^$important
