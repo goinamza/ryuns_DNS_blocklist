@@ -162,9 +162,9 @@ reasonsecurity
 ||dns11.quad9.net^$important
 
 ### VPN Cloudfront DoH Domains
-#||d1radv0oaxye89.cloudfront.net^$important
-#||d1mz7hcv7etrz4.cloudfront.net^$important
-#||dcbdscbm35nst.cloudfront.net^$important
+||d1radv0oaxye89.cloudfront.net^$important
+||d1mz7hcv7etrz4.cloudfront.net^$important
+||dcbdscbm35nst.cloudfront.net^$important
 #||dlcadjfosxue7.cloudfront.net^$important
 #||dm5e8leztlghu.cloudfront.net^$important
 #||d3r0lkxhtoepil.cloudfront.net^$important
