@@ -632,6 +632,8 @@ orbi.kr
 @@||giyoung-api-gateway-9s6qpjg4.an.gateway.dev^$important
 @@||giyoung.firebaseapp.com^$important
 @@||asia-northeast3-giyoung.cloudfunctions.net^$important
+# 이감국어 관련
+@@||2sens.co.kr^$important
 
 ### 병신 이투스 특별관리. cloudfront에다 메인 페이지들을 박아놓은 무뇌짓 때문에 뭔 개 귀찮은 짓인가..
 @@||etoos.com^
