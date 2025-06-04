@@ -635,6 +635,13 @@ orbi.kr
 @@||asia-northeast3-giyoung.cloudfunctions.net^$important
 # 이감국어 관련
 @@||2sens.co.kr^$important
+# 그래프 그리는 싸이트
+@@||desmos.com^
+# 종로학원
+@@||jongro.co.kr^
+@@||jongroeclass.co.kr^
+@@||neoebiz.co.kr^
+
 
 ### 병신 이투스 특별관리. cloudfront에다 메인 페이지들을 박아놓은 무뇌짓 때문에 뭔 개 귀찮은 짓인가..
 @@||etoos.com^
