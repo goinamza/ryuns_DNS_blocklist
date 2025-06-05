@@ -1,0 +1,5 @@
+### 이것은 suricata에서 pass로 지정할 도메인들입니다. 우선순위가 높으며, 여기에 있는 도메인들은 BlockList에 있어도 pass 됩니다.
+### BlockList에 걸리는 상황이지만 해당 도메인만은 반드시 pass해야 하는 경우에 여기에다 적습니다.
+
+@@||scontent.xx.fbcdn.net^$important
+@@||scontent.fallback.xx.fbcdn.net^$important
