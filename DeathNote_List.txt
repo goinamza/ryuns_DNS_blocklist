@@ -113,7 +113,7 @@ ohttp-relay1.fastly-edge.com
 google-ohttp-relay-safebrowsing.fastly-edge.com
 ohttp-relay1.fastly-edge.com
 google-ohttp-relay-query.fastly-edge.com
-#google.cn
+#### google.cn이거는스킵
 vpn.google.com
 tunnel.googlezip.net
 
