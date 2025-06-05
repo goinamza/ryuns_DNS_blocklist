@@ -641,6 +641,9 @@ orbi.kr
 @@||jongro.co.kr^
 @@||jongroeclass.co.kr^
 @@||neoebiz.co.kr^
+@@||www.knjongro.co.kr^$important
+@@||www.kbjongro.co.kr^$important
+@@||jongro.hscdn.com^$important
 
 
 ### 병신 이투스 특별관리. cloudfront에다 메인 페이지들을 박아놓은 무뇌짓 때문에 뭔 개 귀찮은 짓인가..
