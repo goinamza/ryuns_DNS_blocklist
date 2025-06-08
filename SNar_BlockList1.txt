@@ -505,7 +505,11 @@ orbi.kr
 @@||goldedu.co.kr^
 @@||mirae-n.com^
 @@||parksun.co.kr^
+# 김범준수학관련
 @@||kimbeomjoon.co.kr^
+@@||malgnlms.com^
+@@||malgnsoft.com^
+#
 @@||battant.net^
 @@||potenup.kr^
 @@||ncic.re.kr^
