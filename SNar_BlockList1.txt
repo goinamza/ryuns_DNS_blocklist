@@ -13,9 +13,9 @@
 
 # firesn 도메인(자체도메인) 관련
 @@||*.firesn.com^
-||wpad.firesn.com^$important
-||lb._dns-sd._udp.firesn.com^$important
-||ingestion.log.infra.music-flo.io.firesn.com^$important
+@@||wpad.firesn.com^$important
+@@||lb._dns-sd._udp.firesn.com^$important
+@@||ingestion.log.infra.music-flo.io.firesn.com^$important
 
 # SN Academy
 @@||sn-timetable.web.app^
