@@ -605,6 +605,8 @@ orbi.kr
 ||news.seoul.go.kr^$important
 @@||dshw.co.kr^$important
 # 메가스터디 관련 추가도메인
+@@||megagong.net^$important
+@@||megastudy.netbook^$important
 @@||russeldata.megastudy.net.gtmc.hscdn.com^$important
 @@||megastudy.com^$important
 @@||megastudyedu.career.greetinghr.com^$important
