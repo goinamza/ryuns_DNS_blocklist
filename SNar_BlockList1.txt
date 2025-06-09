@@ -793,9 +793,11 @@ orbi.kr
 # 이것만 풀어줌... 강사들이 여기를 통해 동영상 올릴 수 있음... ㅠㅠ
 @@||googlehosted.l.googleusercontent.com^
 #
+## Firebase 관련 기능도 일부 허용해줌.
+###||firebaselogging-pa.googleapis.com^$important
 ||firebaseremoteconfigrealtime.googleapis.com^$impor1tant
-###||firestore.googleapis.com^$important
 ||firebaseremoteconfig.googleapis.com^$important
+###||firestore.googleapis.com^$important
 ||safebrowsing.googleapis.com^$important
 ||safebrowsing.google.com^$important
 ||safebrowsingohttpgateway.googleapis.com^$important
@@ -805,7 +807,7 @@ orbi.kr
 ||google-ohttp-relay-query.fastly-edge.com^$important
 ||dns.googleusercontent.com^
 ||google.cn^$important
-||firebaselogging-pa.googleapis.com^$important
+
 ||private.googleapis.com^$important
 ||restricted.googleapis.com^$important
 ||vpn.google.com^$important
