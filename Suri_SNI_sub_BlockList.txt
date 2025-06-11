@@ -13,6 +13,7 @@ twitter
 huawei
 booktoki
 dcinside
+inconnecting.com
 
 ### 도메인 문자열 ###
 
