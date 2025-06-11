@@ -459,6 +459,11 @@ orbi.kr
 @@||gomathtop.inclass.co.kr^
 @@||inclass-file.s3.ap-northeast-2.amazonaws.com^$important
 @@||inclass.notion.site^$important
+@@||file.kollus.com^$important
+@@||drm.kollus.com^$important
+@@||zcdn.krsys.op1top.com^$important
+@@||inclass.zcdn.kollus.com^$important
+@@||inclass.ycdn2.kollus.com^
 # inclass 관련인 것 같은 kt 도메인인데 확인 필요
 
 
