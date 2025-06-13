@@ -1,5 +1,3 @@
-# C2 서버 VPN JA3S 리스트 (서버 자체를 막음)
-f4febc55ea12b31ae17cfb7e614afda8
-15af977ce25de452b96affa2addb1036
-# Cloudfront 우회서버
-2ab44dd8c27bdce434a961463587356a
+# C2 서버 VPN JA3S 리스트 (서버 자체를 막음. 이것은 위험할 수 있으므로 신중해야함)
+
+
