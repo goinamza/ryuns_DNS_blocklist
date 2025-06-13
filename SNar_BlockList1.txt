@@ -1713,6 +1713,11 @@ orbi.kr
 ||criteo.com^$important
 ||patopi.com^$important
 
+#기상청 허용
+@@||auth2.efm-net.com^
+@@||www.kr-weathernews.com^
+@@||www.weather.go.kr.xcache.kinxcdn.com^
+@@||www.kma.go.kr.xcache.kinxcdn.com^
 
 ############### 분류가 필요한 것들 #############
 
