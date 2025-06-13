@@ -7,7 +7,7 @@ d666f86f356cbbfe4c7a7f3ca686bc3e
 
 
 # Other VPN JA3
-871a754af286dfb70c1b53c6887c62e0
+
 # Surfshark VPN JA3
 3b5074b1b5d032e5620f69f9f700ff0e
 #Surfshark Cloudfront JA3
