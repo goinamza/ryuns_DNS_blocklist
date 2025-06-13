@@ -1,0 +1,2 @@
+# C2 서버 VPN JA3S 리스트 (서버 자체를 막음)
+f4febc55ea12b31ae17cfb7e614afda8
