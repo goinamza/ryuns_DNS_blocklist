@@ -127,7 +127,7 @@ static.melon.co.kr
 ||dreamwiz.com^
 ||wetv.vip^
 ||wetv.com^
-
+||lazada.sg^
 
 
 
