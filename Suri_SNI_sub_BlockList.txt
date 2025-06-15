@@ -508,6 +508,7 @@ reasonsecurity
 ||thebodyshop.co.kr^
 ||lush.co.kr^
 ||danawa.com^
+||lazada.sg^
 
 ### Game ####
 ||gamemeca.com^
