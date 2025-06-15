@@ -597,7 +597,6 @@ orbi.kr
 ||tgclab.com^
 @@||www.vocacoca.com^$important
 @@||tool.cozci.com^$important
-@@||goodnotes.com^$important
 @@||vicleague.com^$important
 @@||hyperclass.co.kr^
 @@||hyperacademy.co.kr^
@@ -657,6 +656,13 @@ orbi.kr
 @@||jongro.hscdn.com^$important
 # 두각
 @@||dugak.net^
+# GoodNotes 관련
+@@||goodnotes.com^$important
+@@||goodnotescloud.com^$important
+@@||goodnotes-devops.com^$important
+@@||goodnotesplatform.com^$important
+
+
 
 ### 병신 이투스 특별관리. cloudfront에다 메인 페이지들을 박아놓은 무뇌짓 때문에 뭔 개 귀찮은 짓인가..
 @@||etoos.com^
