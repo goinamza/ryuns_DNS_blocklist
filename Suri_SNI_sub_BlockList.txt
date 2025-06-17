@@ -448,6 +448,7 @@ reasonsecurity
 ||playstation.com^
 ||xbox.com^
 ||nintendo.com^
+||tiny.one^
 
 ### Samsung ###
 ||samsung.com^
