@@ -15,6 +15,10 @@ d666f86f356cbbfe4c7a7f3ca686bc3e
 #Surfshark Cloudfront JA3
 871a754af286dfb70c1b53c6887c62e0
 
+# UltraSurf VPN JA3
+876f0a9528e72e4654eedacbc76f6761
+2a99999f5b097782023e079822076b75
+
 ## 노혁아 공부하자 VPN 쓰지마라
 7c59d4a20028fe5d1c2e827e88e47e93
 2aa3c46ddf8bce1dfe646a0b0a79ad62
