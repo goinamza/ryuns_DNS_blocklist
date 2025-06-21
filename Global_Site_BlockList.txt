@@ -129,7 +129,8 @@ static.melon.co.kr
 ||wetv.com^
 ||lazada.sg^
 ||iq.com^
-
+# 번개장터?
+||bunjang.co.kr^
 
 
 
