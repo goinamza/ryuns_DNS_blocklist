@@ -131,7 +131,8 @@ static.melon.co.kr
 ||iq.com^
 # 번개장터?
 ||bunjang.co.kr^
-
+# 샤오미를 쓰다니
+||xiaomi.net^
 
 
 
