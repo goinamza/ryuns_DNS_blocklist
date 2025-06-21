@@ -44,6 +44,7 @@
 ||dns11.quad9.net^$important
 ||a.nel.cloudflare.com^$important
 ||shared.sni.fastly.net^$important
+||doh.iq.com^$important
 # linkwang 이거 아주 나쁜 VPN 중계소
 ||linkwang.org^$important
 ||cyberghostvpn.com^$important
@@ -133,6 +134,11 @@
 @@||whatismyip.akamai.com^
 # 학습 동영상과 관련 높을 수 있는 동영상 스트리밍 cdn 주소
 @@||cdn.ntruss.com.ncpcdn.gscdn.net^
+# IPTime 인증 서버
+@@||auth2.efm-net.com^
+# omada AP 관련
+@@||omada^$important
+@@||tplinkcloud.com^$important
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
@@ -254,6 +260,10 @@
 @@||m.memo.naver.com^$important
 @@||ekyc.naver.com^$important
 @@||my.naver.com^$important
+## Naver 추가 허용 도메인(인증, 텍스트 템플릿(math포함), 사전썸네일 등
+@@||nid.naver.com.nheos.com^$important
+@@||api.naf.naver.com^$important
+@@||dbscthumb-phinf.pstatic.net.nheos.com^$important
 # 사용자 데이터 네이버 분석 노노
 ||lcs.naver.com^$important
 ||cc.naver.com^$important
@@ -661,6 +671,8 @@ orbi.kr
 @@||goodnotescloud.com^$important
 @@||goodnotes-devops.com^$important
 @@||goodnotesplatform.com^$important
+## ybmbook
+@@||ybmbooksam.com^$important
 
 
 
