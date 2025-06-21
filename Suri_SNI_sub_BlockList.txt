@@ -474,6 +474,7 @@ reasonsecurity
 ||spotvnow.co.kr^
 ||netflix.com^
 ||wavve.com^
+||iq.com^
 
 ### Shopping ###
 ||ebay.com^
