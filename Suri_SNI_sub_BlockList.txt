@@ -512,6 +512,7 @@ reasonsecurity
 ||lush.co.kr^
 ||danawa.com^
 ||lazada.sg^
+||bunjang.co.kr^
 
 ### Game ####
 ||gamemeca.com^
