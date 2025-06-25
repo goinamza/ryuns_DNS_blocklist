@@ -10,3 +10,4 @@ article.cafe.naver.com
 subscriptionapi.cafe.naver.com
 ipada.cafe.naver.com
 bff.cafe.naver.com
+golda.cafe.naver.com
