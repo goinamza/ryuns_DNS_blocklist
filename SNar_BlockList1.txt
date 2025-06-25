@@ -421,7 +421,7 @@ orbi.kr
 
 # EBS Family
 @@||ebsi.co.kr^
-||u.ebsi.co.kr^important
+||u.ebsi.co.kr^$important
 @@||ebsoc.co.kr^
 @@||livedown3.ebs.co.kr^
 @@||ai.ebs.co.kr^
