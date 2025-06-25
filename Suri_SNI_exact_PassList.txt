@@ -3,3 +3,4 @@
 
 scontent.xx.fbcdn.net
 scontent.fallback.xx.fbcdn.net
+cafe.naver.com
