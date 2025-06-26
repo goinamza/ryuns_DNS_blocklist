@@ -107,6 +107,7 @@ api.tunnelbear.com
 ext.surfshark.com
 nordcdn.com
 downloads77-windows.nordcdn.com
+terravpn.co.kr
 
 ### Google 우회 관련
 ohttp-relay1.fastly-edge.com
