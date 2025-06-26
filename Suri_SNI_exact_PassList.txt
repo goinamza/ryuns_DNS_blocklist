@@ -3,6 +3,7 @@
 
 scontent.xx.fbcdn.net
 scontent.fallback.xx.fbcdn.net
+### Show 를 위한 특별 pass
 cafe.naver.com
 apis.cafe.naver.com
 m.cafe.naver.com
