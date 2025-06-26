@@ -133,7 +133,7 @@ reasonsecurity
 ||unicorn-soft.com^$important
 ||nordcdn.com^$important
 ||vpn-api.proton.me^$important
-
+||terravpn.co.kr^
 
 ### DoH, Proxy###
 ||dns.msftncsi.com^
