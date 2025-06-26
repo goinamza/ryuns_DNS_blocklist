@@ -128,6 +128,7 @@ reasonsecurity
 ||unicorn-soft.com^$important
 ||nordcdn.com^$important
 ||vpn-api.proton.me^$important
+||terravpn.co.kr^$important
 
 
 ##### VPN Sites Must Die VPN은 주로 여기서 죽입니다. ######
