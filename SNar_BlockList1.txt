@@ -262,6 +262,7 @@
 @@||m.memo.naver.com^$important
 @@||ekyc.naver.com^$important
 @@||my.naver.com^$important
+@@||pstatic.net.static.gscdn.net^
 ## Naver 추가 허용 도메인(인증, 텍스트 템플릿(math포함), 사전썸네일 등
 @@||nid.naver.com.nheos.com^$important
 @@||api.naf.naver.com^$important
