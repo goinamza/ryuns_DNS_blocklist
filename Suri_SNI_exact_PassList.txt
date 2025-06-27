@@ -13,3 +13,4 @@ ipada.cafe.naver.com
 bff.cafe.naver.com
 golda.cafe.naver.com
 cafe.upphoto.naver.com
+camp-report.naver.com
