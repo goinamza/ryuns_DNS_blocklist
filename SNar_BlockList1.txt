@@ -139,6 +139,8 @@
 # omada AP 관련
 @@||omada^$important
 @@||tplinkcloud.com^$important
+# 오디오 -> 텍스트 변환 좋은 것 같음 turboscribe.ai
+@@||turboscribe.ai^
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
@@ -264,6 +266,10 @@
 @@||nid.naver.com.nheos.com^$important
 @@||api.naf.naver.com^$important
 @@||dbscthumb-phinf.pstatic.net.nheos.com^$important
+# Naver Cloud 관련 해제
+@@||ncloudgtm.com^
+@@||int-ncloudgtm.com^
+@@||naverncp.com^
 # 사용자 데이터 네이버 분석 노노
 ||lcs.naver.com^$important
 ||cc.naver.com^$important
