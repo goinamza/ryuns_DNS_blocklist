@@ -236,6 +236,7 @@
 @@||dict.naver.com^
 @@||terms.naver.com^
 @@||nid.naver.com^
+@@||ni.naver.com^
 @@nidapi.naver.com^
 @@openapi.naver.com^
 @@logins.naver.com^
