@@ -68,6 +68,8 @@
 #||dyqaofop3cx01.cloudfront.net^$important
 #||d2y0jgjgtwd97r.cloudfront.net^$important
 #||d1pgimoedcag4z.cloudfront.net^$important
+### VPN Cloudfront DoH Domains (from Stud)
+||d2jcsh14jfvfh3.cloudfront.net^$important
 
 
 # Common Function Sites 일반적 동작에 필요한 싸이트들을 집어넣습니다.
