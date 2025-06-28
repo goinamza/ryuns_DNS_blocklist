@@ -134,6 +134,7 @@ reasonsecurity
 ||nordcdn.com^$important
 ||vpn-api.proton.me^$important
 ||terravpn.co.kr^
+||trovpn.com^
 
 ### DoH, Proxy###
 ||dns.msftncsi.com^
