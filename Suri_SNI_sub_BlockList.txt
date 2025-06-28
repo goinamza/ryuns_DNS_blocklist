@@ -168,8 +168,8 @@ reasonsecurity
 ||d1radv0oaxye89.cloudfront.net^$important
 ||d1mz7hcv7etrz4.cloudfront.net^$important
 ||dcbdscbm35nst.cloudfront.net^$important
-#||dlcadjfosxue7.cloudfront.net^$important
-#||dm5e8leztlghu.cloudfront.net^$important
+||dlcadjfosxue7.cloudfront.net^$important
+||dm5e8leztlghu.cloudfront.net^$important
 #||d3r0lkxhtoepil.cloudfront.net^$important
 #||dcj05qvjifw53.cloudfront.net^$important
 #||d3upqka89w0312.cloudfront.net^$important
@@ -183,6 +183,7 @@ reasonsecurity
 #||dyqaofop3cx01.cloudfront.net^$important
 #||d2y0jgjgtwd97r.cloudfront.net^$important
 #||d1pgimoedcag4z.cloudfront.net^$important
+||d2jcsh14jfvfh3.cloudfront.net^$important
 
 
 ### Google 우회 관련 ###
