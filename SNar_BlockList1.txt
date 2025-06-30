@@ -143,6 +143,9 @@
 @@||tplinkcloud.com^$important
 # 오디오 -> 텍스트 변환 좋은 것 같음 turboscribe.ai
 @@||turboscribe.ai^
+## 이거는 이미지 픽셀 수정 뭐 이런거랑 관련 있음.
+@@||pixfuncsv2.azurewebsites.net^$important
+@@||onedscolprdwus19.westus.cloudapp.azure.com^$important
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
