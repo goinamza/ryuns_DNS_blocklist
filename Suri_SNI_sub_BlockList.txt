@@ -533,6 +533,7 @@ reasonsecurity
 ||api.chess.com^
 ||unity3d.com^
 ||battle.net^
+||bluestacks.com^
 
 ### Potal Sites ###
 ||msn.com^
