@@ -875,7 +875,8 @@ orbi.kr
 
 # Microsoft Services
 @@||live.com^
-@@||login.live.com^$important
+||onedrive.live.com^$important
+@@||login.live.com^
 @@||live.net^
 @@||microsoft.com^
 @@||windows.com^
