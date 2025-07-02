@@ -1,0 +1,3 @@
+### QUIC 중 SNI 기반 차단 시 활용
+
+amazonaws.com
