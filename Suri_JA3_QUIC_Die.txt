@@ -1,0 +1,7 @@
+# QUIC UDP JA3 이걸 막아야 놈들이 fallback을 해도 flow가 안됨
+
+948b7b1d56c39e118d9e0c9d737ffa02
+cdf044b907081f68cc22d0eba393bc42
+3a0f7371e32ba2d3a1ff0b8f5385c976
+4bf095bef7df32b99f67430ee57920d5
+
