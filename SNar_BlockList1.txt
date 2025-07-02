@@ -365,7 +365,7 @@
 @@||accounts.kakaocdn.net^
 @@||accounts-809yj20e.kgns1.com^
 #
-@@||developers.kakao.com^$important
+||developers.kakao.com^$important
 @@||t1.kakaocdn.net^$important
 # 나머지 kakao는 block 유지
 # Kakaotalk 전송은 확실히 block함
