@@ -1,0 +1,2 @@
+### QUIC 중 SNI 기반 Pass 시 활용
+googleapis.com
