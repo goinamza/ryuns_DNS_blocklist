@@ -151,6 +151,8 @@
 ## 이거는 이미지 픽셀 수정 뭐 이런거랑 관련 있음.
 @@||pixfuncsv2.azurewebsites.net^$important
 @@||onedscolprdwus19.westus.cloudapp.azure.com^$important
+# 날씨 앱
+@@||nalssinalssi.com^
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
