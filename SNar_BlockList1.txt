@@ -227,6 +227,9 @@
 @@||ocsp.pki.goog^$important
 @@||o.pki.goog^$important
 @@||crl.pki.goog^$important
+@@||symcd.com^$important
+@@||symcb.com^$important
+
 
 
 # Naver 네이버 fine tuning.
@@ -423,7 +426,6 @@ orbi.kr
 @@||sdk.iad-05.braze.com.cdn.cloudflare.net^$important
 @@||n2s.co.kr^$important
 @@||catoms.net^$important
-@@||symcb.com^$important
 @@||starplayer-49cba.firebaseio.com^$important
 @@||license.starplayer.net^$important
 @@||cab-starplayer.service.concdn.com^$important
