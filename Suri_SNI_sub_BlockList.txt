@@ -185,6 +185,11 @@ reasonsecurity
 #||d1pgimoedcag4z.cloudfront.net^$important
 ||d2jcsh14jfvfh3.cloudfront.net^$important
 
+### VPN amazonaws Domains (by 21.128)
+||n8z7zwivjg.execute-api.us-east-1.amazonaws.com^$important
+||w6wgmwa4bd.execute-api.us-east-1.amazonaws.com^$important
+
+
 
 ### Google 우회 관련 ###
 ||dns.google.com^
