@@ -1,0 +1,6 @@
+## IP QUIC Pass Set 
+# Google
+ipvar GOOGLE_QUIC_NET [64.233.160.0/19, 142.250.0.0/15, 172.217.0.0/16]
+# Apple
+ipvar APPLE_QUIC_NET [17.253.0.0/16]
+
