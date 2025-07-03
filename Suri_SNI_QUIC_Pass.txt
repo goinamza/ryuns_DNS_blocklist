@@ -1,2 +1,10 @@
 ### QUIC 중 SNI 기반 Pass 시 활용
 googleapis.com
+tether.edge.apple
+connect.facebook.net
+jsdelivr.net
+google.com
+bootstrapcdn.com
+graph.facebook.com
+i.instagram.com
+gateway.instagram.com
