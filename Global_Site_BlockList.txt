@@ -133,7 +133,8 @@ static.melon.co.kr
 ||bunjang.co.kr^
 # 샤오미를 쓰다니
 ||xiaomi.net^
-
+#이건뭥?
+||whatsapp.net^
 
 
 
