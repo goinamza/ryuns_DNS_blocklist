@@ -73,6 +73,10 @@
 # 129 녀석 Tor 위한 사전 서버일 가능성 높음
 ||d2yylw28yenj.cloudfront.net^$important
 
+### VPN amazonaws Domains (by 21.128)
+||n8z7zwivjg.execute-api.us-east-1.amazonaws.com^$important
+||w6wgmwa4bd.execute-api.us-east-1.amazonaws.com^$important
+
 # Common Function Sites 일반적 동작에 필요한 싸이트들을 집어넣습니다.
 @@||ntp.org^
 @@||nts.go.kr^
@@ -689,7 +693,8 @@ orbi.kr
 @@||goodnotesplatform.com^$important
 ## ybmbook
 @@||ybmbooksam.com^$important
-
+# 사전 앱인 듯함 cozci.com
+@@||cozci.com^
 
 
 ### 병신 이투스 특별관리. cloudfront에다 메인 페이지들을 박아놓은 무뇌짓 때문에 뭔 개 귀찮은 짓인가..
