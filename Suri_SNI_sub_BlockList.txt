@@ -583,6 +583,7 @@ reasonsecurity
 ||openai.com^
 ||grok.com^
 ||grok3.com^
+||bixbyllm.com^
 
 ############# Just Bad, CHINA WILL DIE, etc. Never allow #################
 ||qq.com^
