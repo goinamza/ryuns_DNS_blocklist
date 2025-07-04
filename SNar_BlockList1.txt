@@ -515,8 +515,6 @@ orbi.kr
 @@||sf.symcd.com^$important
 @@||linker.ac^$important
 @@||mimacstudy.com^
-@@||megals.co.kr^
-@@||megastudy.net^
 @@||ontactedu.co.kr^
 @@||gumstart.co.kr^
 @@||sinjiwonedu.co.kr^
@@ -606,7 +604,6 @@ orbi.kr
 @@||adiga.kr^
 @@||hackersbook.com^
 @@||auth.zocbo.com^
-@@||megastudy.mmath.co.kr^
 @@||dnsa.ds.co.kr^
 @@||qanda-server-storage.mathpresso.io^
 @@||qanda-thumbnailer-prod.qymtuasgp.ap-northeast-2.elasticbeanstalk.com^
@@ -620,13 +617,11 @@ orbi.kr
 @@||techhub.co.kr^$important
 @@||mimacstudy.com.wtxcdn.com^$important
 @@||mimacstudy.com.wtxcdn.com^$important
-@@||img.megastudy.net.gtmc.hscdn.com^$important
 @@||quizrix.com^
 @@||mbest.co.kr^
 @@||sdijon.com.service2.gscdn.net^$important
 @@||sdijscms.starplayer.net^$important
 @@||api.quizrix.com^$important
-@@||file.megastudy.net.gtmc.hscdn.com^$important
 @@||irontrain.co.kr^$important
 @@||yeolpumta-ko.firebaseio.com^$important
 @@||picf.tgclab.com^$important
@@ -644,23 +639,6 @@ orbi.kr
 @@||kimstudy.blob.core.windows.net^$important
 ||news.seoul.go.kr^$important
 @@||dshw.co.kr^$important
-# 메가스터디 관련 추가도메인
-@@||megagong.net^$important
-@@||megastudy.netbook^$important
-@@||russeldata.megastudy.net.gtmc.hscdn.com^$important
-@@||megastudy.com^$important
-@@||megastudyedu.career.greetinghr.com^$important
-@@||megastudybooks.com^
-@@||hscdn.com^
-@@||megalawyers.co.kr^
-@@||megamd.co.kr^
-@@||megaland.co.kr^
-@@||mystudying.sconn.io^$important
-@@||sconn.io^
-@@||aether-study.imweb.me^$important
-@@||unistudy.co.kr^$important
-@@||legendstudy.com^$important
-@@||megastudy.co.kr^$important
 @@||kimstudy.blob.core.windows.net^$important
 @@||edusherpa.kr^
 @@||edujin.co.kr^
@@ -701,6 +679,33 @@ orbi.kr
 @@||ybmbooksam.com^$important
 # 사전 앱인 듯함 cozci.com
 @@||cozci.com^
+
+
+# 메가스터디 관련 
+@@||megals.co.kr^
+@@||megastudy.net^
+@@||megagong.net^$important
+@@||megastudy.netbook^$important
+@@||megastudy.mmath.co.kr^
+@@||russeldata.megastudy.net.gtmc.hscdn.com^$important
+@@||file.megastudy.net.gtmc.hscdn.com^$important
+@@||img.megastudy.net.gtmc.hscdn.com^$important
+@@||megastudy.com^$important
+@@||megastudyedu.career.greetinghr.com^$important
+@@||megastudybooks.com^
+@@||hscdn.com^
+@@||megalawyers.co.kr^
+@@||megamd.co.kr^
+@@||megaland.co.kr^
+@@||mystudying.sconn.io^$important
+@@||sconn.io^
+@@||aether-study.imweb.me^$important
+@@||unistudy.co.kr^$important
+@@||legendstudy.com^$important
+@@||megastudy.co.kr^$important
+@@||qube.maisco.kr^$important
+
+
 
 
 ### 병신 이투스 특별관리. cloudfront에다 메인 페이지들을 박아놓은 무뇌짓 때문에 뭔 개 귀찮은 짓인가..
