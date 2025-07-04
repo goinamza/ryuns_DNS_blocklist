@@ -1652,6 +1652,13 @@ orbi.kr
 
 # Samsung Services
 @@||orcaservice.samsungmobile.com^$important
+@@||samsungcloud.com^
+@@||samsungdive.com^
+@@||samsungcloudplatform.com^
+@@||api.account.samsung.com^
+@@||samsungiotcloud.com^
+@@||samsungdm.com^
+@@||samsungmdec.com^
 ||play.samsungcloud.com^$important
 ||bixbyllm.com^
 
@@ -1768,6 +1775,9 @@ orbi.kr
 @@||clickon.kr^
 ### opsnow 는 DoH 의심이었지만 아닌 것 같음. 일단 풀어줌.
 @@||bb8-server-prod.okc1.opsnow.com^
+
+@@||api.revenuecat.com^
+@@||tizen.org^
 
 ||catalog.gamepass.com^$important
 ||app.adjust.com^$important
