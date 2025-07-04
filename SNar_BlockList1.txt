@@ -1723,7 +1723,6 @@ orbi.kr
 @@||bootstrapcdn.com^
 @@||jsdelivr.net^
 @@||gitple.io^
-@@||w6wgmwa4bd.execute-api.us-east-1.amazonaws.com^$important
 @@||license.pallycon.com^$important
 @@||device-api.urbanairship.com^$important
 @@||collector-pxvlufj7uv.perimeterx.net^$important
