@@ -1,4 +1,5 @@
 ### Show 를 위한 특별 pass
+192.168.21.121
 cafe.naver.com
 apis.cafe.naver.com
 m.cafe.naver.com
@@ -9,3 +10,7 @@ bff.cafe.naver.com
 golda.cafe.naver.com
 cafe.upphoto.naver.com
 camp-report.naver.com
+
+## 공부를 하면 풉니다.
+192.168.21.128
+exampleryun.com
