@@ -50,24 +50,24 @@
 ||cyberghostvpn.com^$important
 ||667791.xyz^$important
 ### VPN Cloudfront DoH Domains (by MARUTA PC and etc.)
-#||d1radv0oaxye89.cloudfront.net^$important
-#||d1mz7hcv7etrz4.cloudfront.net^$important
-#||dcbdscbm35nst.cloudfront.net^$important
-#||dlcadjfosxue7.cloudfront.net^$important
-#||dm5e8leztlghu.cloudfront.net^$important
-#||d3r0lkxhtoepil.cloudfront.net^$important
-#||dcj05qvjifw53.cloudfront.net^$important
-#||d3upqka89w0312.cloudfront.net^$important
-#||d1x4cjuev4v03f.cloudfront.net^$important
-#||d38z404i3b2g6o.cloudfront.net^$important
-#||d1holdc162rdzj.cloudfront.net^$important
-#||d9j1fikafpnzs.cloudfront.net^$important
-#||d2qfung93npfj6.cloudfront.net^$important
-#||d38iuo7puywvw.cloudfront.net^$important
-#||d1nz53bh6qi8v6.cloudfront.net^$important
-#||dyqaofop3cx01.cloudfront.net^$important
-#||d2y0jgjgtwd97r.cloudfront.net^$important
-#||d1pgimoedcag4z.cloudfront.net^$important
+||d1radv0oaxye89.cloudfront.net^$important
+||d1mz7hcv7etrz4.cloudfront.net^$important
+||dcbdscbm35nst.cloudfront.net^$important
+||dlcadjfosxue7.cloudfront.net^$important
+||dm5e8leztlghu.cloudfront.net^$important
+||d3r0lkxhtoepil.cloudfront.net^$important
+||dcj05qvjifw53.cloudfront.net^$important
+||d3upqka89w0312.cloudfront.net^$important
+||d1x4cjuev4v03f.cloudfront.net^$important
+||d38z404i3b2g6o.cloudfront.net^$important
+||d1holdc162rdzj.cloudfront.net^$important
+||d9j1fikafpnzs.cloudfront.net^$important
+||d2qfung93npfj6.cloudfront.net^$important
+||d38iuo7puywvw.cloudfront.net^$important
+||d1nz53bh6qi8v6.cloudfront.net^$important
+||dyqaofop3cx01.cloudfront.net^$important
+||d2y0jgjgtwd97r.cloudfront.net^$important
+||d1pgimoedcag4z.cloudfront.net^$important
 ### VPN Cloudfront DoH Domains (from Stud)
 ||d2jcsh14jfvfh3.cloudfront.net^$important
 # 129 녀석 Tor 위한 사전 서버일 가능성 높음
