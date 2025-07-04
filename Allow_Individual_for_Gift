@@ -1,13 +1,27 @@
-
-
+##### Special Pass~~~ #####
+# 김원준은 공부를 열심히 합니다. 네이버 카페 열기
+@@||cafe.naver.com^$client='192.168.21.121'
+@@||cafe.naver.com.nheos.com^$client='192.168.21.121'
+@@||scv-cafe.io.naver.com^$client='192.168.21.121'
+@@||abtest-cafe.io.naver.com^$client='192.168.21.121'
+@@||camp-api.naver.com^$client='192.168.21.121'
+@@||camp-report.naver.com^$client='192.168.21.121'
+@@||pstatic.net.nheos.com^$client='192.168.21.121'
+@@||s1.e.navercdn.com^$client='192.168.21.121'
+@@||camp-report.naver.com.nheos.com^$client='192.168.21.121'
+@@||camp-api.naver.com.nheos.com^$client='192.168.21.121'
+@@||cafe.upphoto.naver.com^$client='192.168.21.121'
+@@||cafe.upphoto.naver.com.nheos.com^$client='192.168.21.121'
+#### 아버지가 편찮으시면 연락을 합니다. 21.128
+@@||*courier.push.apple.com^$client='192.168.21.128'
 
 
 #유튜브를 풀어줄 땐!
-@@||youtube.com^$client='192.168.16.25'
-@@||ytimg.com^$client='192.168.16.25'
-@@||googlevideo.com^$client='192.168.16.25'
-@@||play.googleapis.com^$client='192.168.16.25'
-@@||play.google.com^$client='192.168.16.25'
-@@||gstatic.com^$client='192.168.16.25'
-@@||ggpht.com^$client='192.168.16.25'
-@@||youtubei.googleapis.com^$client='192.168.16.25'
+##@@||youtube.com^$client='192.168.16.25'
+##@@||ytimg.com^$client='192.168.16.25'
+##@@||googlevideo.com^$client='192.168.16.25'
+##@@||play.googleapis.com^$client='192.168.16.25'
+##@@||play.google.com^$client='192.168.16.25'
+##@@||gstatic.com^$client='192.168.16.25'
+##@@||ggpht.com^$client='192.168.16.25'
+##@@||youtubei.googleapis.com^$client='192.168.16.25'
