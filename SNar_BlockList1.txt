@@ -87,8 +87,11 @@
 
 ### VPN Cloudfront DoH Domains (from Stud)
 ||d2jcsh14jfvfh3.cloudfront.net^$important
-# 129 녀석 Tor 위한 사전 서버일 가능성 높음
+# 21.129 녀석 Tor 위한 사전 서버일 가능성 높음
 ||d2yylw28yenj.cloudfront.net^$important
+# 2025/07/05 6/17, 27.136
+||d2c9bbxaxare3d.cloudfront.net^$important
+
 
 ### VPN amazonaws Domains (by 21.128)
 ||n8z7zwivjg.execute-api.us-east-1.amazonaws.com^$important
