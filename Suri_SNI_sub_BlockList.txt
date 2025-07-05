@@ -459,10 +459,8 @@ reasonsecurity
 ||tiny.one^
 
 ### Samsung ###
-||samsung.com^
 ||samsungapps.com^
 ||internet.apps.samsung.com^
-||samsungcloud.com^
 ||galaxy.store^
 
 
