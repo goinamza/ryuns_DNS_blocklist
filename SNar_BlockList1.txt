@@ -1395,6 +1395,10 @@ orbi.kr
 ||mail.me.com^$important
 ||mail.me.com.akadns.net^$important
 
+# Apple 노드 최적화 관련
+@@||lcdn-locator.apple.com^
+@@||lcdn-locator-usms11.apple.com.akadns.net^
+
 # 컨텐츠 전송 관련
 @@||cl2.apple.com^
 @@||cl2-cdn.origin-apple.com.akadns.net^
