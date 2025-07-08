@@ -1537,8 +1537,8 @@ orbi.kr
 @@||pr-pod10-smp-device.gcsis-apple.com.akadns.net^
 
 # icloud 저장공간 확인
-||*quota.icloud.com^$important
-||quota.fe2.apple-dns.net^$important
+@@||*quota.icloud.com^
+@@||quota.fe2.apple-dns.net^
 
 
 
