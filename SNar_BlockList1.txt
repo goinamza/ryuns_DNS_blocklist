@@ -873,9 +873,8 @@ orbi.kr
 #
 ## Firebase 관련 기능도 일부 허용해줌.
 ###||firebaselogging-pa.googleapis.com^$important
-||firebaseremoteconfigrealtime.googleapis.com^$impor1tant
-||firebaseremoteconfig.googleapis.com^$important
-###||firestore.googleapis.com^$important
+@@||firebaseremoteconfigrealtime.googleapis.com^
+@@||firebaseremoteconfig.googleapis.com^
 ||safebrowsing.googleapis.com^$important
 ||safebrowsing.google.com^$important
 ||safebrowsingohttpgateway.googleapis.com^$important
