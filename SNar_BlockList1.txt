@@ -111,6 +111,8 @@
 @@||supdate.nprotect.net^$important
 @@||nist.gov^
 @@||kriss.re.kr^
+# notion.so 관련
+@@||notionusercontent.com^
 @@||notion.so^
 @@||ntp.kornet.net^$important
 @@||cdnetworks.co.kr^
@@ -699,6 +701,14 @@ orbi.kr
 @@||ybmbooksam.com^$important
 # 사전 앱인 듯함 cozci.com
 @@||cozci.com^
+# Onevoca
+@@||onevoca.org^
+
+
+
+
+
+
 
 
 # 메가스터디 관련 
@@ -927,6 +937,8 @@ orbi.kr
 @@||a767.dscg3.akamai.net^$important
 @@||www.msftconnecttest.com^$important
 @@||ax-msedge.net^$important
+# 시스템 연결 상태 확인 Microsoft
+@@||msftncsi.com^
 ||bing.com^
 ||mail.live.com^$important
 ||outlook.live.com^$important
@@ -1345,6 +1357,10 @@ orbi.kr
 ### Push는 최종적으로 아래 도메인에서 막히게 됨.
 ##||*.push-apple.com.akadns.net^$important
 ##||*.push.apple.com^$important
+# Sandbox courier(개발자 테스트용)도 막음
+||*-courier.sandbox.push.apple.com^$important
+||*.courier-sandbox-push-apple.com.akadns.net^$important
+||us-sandbox-courier-*.push-apple.com.akadns.net^$important
 
 # mesu 계열 (업데이트와 관련)
 @@||mesu.apple.com^
