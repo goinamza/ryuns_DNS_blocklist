@@ -179,6 +179,9 @@
 @@||nalssinalssi.com^
 # 한컴 업데이트
 @@||update.hancom.com^$important
+# Flag Streaming 관련
+@@||launchdarkly.com^
+
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
@@ -305,6 +308,7 @@
 @@||ekyc.naver.com^$important
 @@||my.naver.com^$important
 @@||pstatic.net.static.gscdn.net^
+@@||bookthumb-phinf.pstatic.net.nheos.com^
 ## Naver 추가 허용 도메인(인증, 텍스트 템플릿(math포함), 사전썸네일 등
 @@||nid.naver.com.nheos.com^$important
 @@||api.naf.naver.com^$important
