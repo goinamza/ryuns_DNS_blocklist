@@ -177,6 +177,8 @@
 @@||onedscolprdwus19.westus.cloudapp.azure.com^$important
 # 날씨 앱
 @@||nalssinalssi.com^
+# 한컴 업데이트
+@@||update.hancom.com^$important
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
