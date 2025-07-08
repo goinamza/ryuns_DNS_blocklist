@@ -878,6 +878,8 @@ orbi.kr
 ||analytics.google.com^$important
 # 학생들한테 푸시알림 하지마라
 ||fcm.googleapis.com^$important
+# 구글독스 풀어줌
+@@||docs.google.com^
 
 ### 구글 우회 관련 ####
 ||dns.google.com^$important
