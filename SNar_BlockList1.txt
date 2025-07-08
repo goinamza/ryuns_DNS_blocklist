@@ -880,6 +880,7 @@ orbi.kr
 ||fcm.googleapis.com^$important
 
 ### 구글 우회 관련 ####
+||dns.google.com^$important
 # 이것만 풀어줌... 강사들이 여기를 통해 동영상 올릴 수 있음... ㅠㅠ
 @@||googlehosted.l.googleusercontent.com^
 #
