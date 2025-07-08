@@ -1774,6 +1774,7 @@ orbi.kr
 @@||tk.doem-0tpdlqj.com^$important
 @@||roughtime.int08h.com^$important
 @@||code.jquery.com^$important
+@@||onevoca.org^
 # Clickon은 광고 관련이긴 한데 일단 풀어줌
 @@||clickon.kr^
 ### opsnow 는 DoH 의심이었지만 아닌 것 같음. 일단 풀어줌.
