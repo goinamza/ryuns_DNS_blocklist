@@ -1084,7 +1084,7 @@ orbi.kr
 # Gateway 여기를 통과해서 여기저기 뿌려지지만, 이걸 막아햐 하는 것인가..악랄한 gateway 서브도메인들을 보라.. 도메인 바꿔가며 도망가는 유해싸이트들과는 레벨이 다르다. (우회 관련!##)
 # 하지만 나는 도전을 좋아하니 gateway를 풀어준다.
 @@||gateway.icloud.com^
-||gateway.fe2.apple-dns.net^$important
+@@||gateway.fe2.apple-dns.net^
 ||p44-mccgateway.icloud.com^$important
 ||*mccgateway.icloud.com^$important
 ||mccgateway.fe2.apple-dns.net^$important
