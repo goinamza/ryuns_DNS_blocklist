@@ -315,6 +315,9 @@
 @@||nid.naver.com.nheos.com^$important
 @@||api.naf.naver.com^$important
 @@||dbscthumb-phinf.pstatic.net.nheos.com^$important
+# 네이버 파파고 영어 번역기
+@@||papago.naver.com^
+@@||papago-plus.com^
 # Naver Cloud 관련 해제
 @@||ncloudgtm.com^
 @@||int-ncloudgtm.com^
