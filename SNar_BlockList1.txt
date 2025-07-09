@@ -181,6 +181,8 @@
 @@||update.hancom.com^$important
 # Flag Streaming 관련
 @@||launchdarkly.com^
+#  AzureEdge
+@@||edgeassetservice.azureedge.net^$important
 
 
 ||*.in-addr.arpa^
@@ -937,6 +939,8 @@ orbi.kr
 @@||microsoft.com^
 @@||windows.com^
 @@||office.com^
+@@||resources.office.net^
+@@||clients.config.office.net^$important
 @@||onedrive.com^
 @@||disc501.prod.do.dsp.mp.microsoft.com^$important
 @@||geo.prod.do.dsp.mp.microsoft.com^$important
