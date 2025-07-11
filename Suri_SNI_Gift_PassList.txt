@@ -11,6 +11,6 @@ golda.cafe.naver.com
 cafe.upphoto.naver.com
 camp-report.naver.com
 
-## 공부를 하면 풉니다. 21.128
+## 공부를 하면 풉니다
 192.168.21.128
 courier.push.apple.com
