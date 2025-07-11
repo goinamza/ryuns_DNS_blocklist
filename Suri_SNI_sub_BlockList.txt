@@ -236,12 +236,9 @@ reasonsecurity
 ||relay.fe.apple-dns.net^$important
 ||relay.icloud.apple.com^$important
 ||gateway-oblivious.apple.com^$important
-||gateway.icloud.com^$important
-||gateway.fe2.apple-dns.net^$important
 ||acsegateway.fe2.apple-dns.net^$important
 ||acsegateway.icloud.com^$important
 /gateway/apple.com
-/gateway/icloud.com
 /gateway/apple-dns.net
 /relay/cloudflare.com
 /relay/icloud/
