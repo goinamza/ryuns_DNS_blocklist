@@ -1243,6 +1243,7 @@ orbi.kr
 ||tv.apple.com^$important
 ||tv-cdn.itunes-apple.com.akadns.net^$important
 ||itunes.apple.com.edgekey.net^$important
+||radio-activity.itunes.apple.com^$important
 ||radio.itunes.apple.com^$important
 ||radio.itunes.apple.com.edgekey.net^$important
 ### tv, radio 목적지
