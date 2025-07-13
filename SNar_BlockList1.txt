@@ -1184,7 +1184,7 @@ orbi.kr
 @@||a2030.dscapi9.akamai.net^$important
 
 #### 징글징글한 iTunes... 기본은 허용으로 할 수밖에 없음...
-||itunes.apple.com^$important
+||*.itunes.apple.com^$important
 ||itunes-cdn.itunes-apple.com.akadns.net^$important
 ||itunes.apple.com.edgekey.net^$important
 # 초기 이니셜라이즈. 이것은 풀어보자.
