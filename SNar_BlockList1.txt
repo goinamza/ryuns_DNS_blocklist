@@ -1185,6 +1185,7 @@ orbi.kr
 
 #### 징글징글한 iTunes... 기본은 허용으로 할 수밖에 없음...
 ||*.itunes.apple.com^$important
+# 이 itunes.apple.com만 정확하게 풀어주면 애플 기반 일부 앱들이 작동하되, 앱스토어는 제대로 작동 안함. 
 @@||itunes.apple.com^
 ||itunes-cdn.itunes-apple.com.akadns.net^$important
 ||itunes.apple.com.edgekey.net^$important
@@ -1221,7 +1222,6 @@ orbi.kr
 ||*buy.itunes-apple.com.akadns.net^$important
 ||p49-buy-lb.itunes-apple.com.akadns.net^$important
 ||*-buy-lb.itunes-apple.com.akadns.net^$important
-###||*.itunes.apple.com^$important
 # iTunes 음악 백엔드 서비스
 ||sandbox.itunes.apple.com^$important
 ||sandbox.itunes-apple.com.akadns.net^$important
