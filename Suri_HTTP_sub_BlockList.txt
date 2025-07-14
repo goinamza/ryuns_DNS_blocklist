@@ -1,3 +1,5 @@
 ### HTTP Blocklist
 
-
+||whatsapp.net^
+# 이상한 게임 관련
+||ec2-54-65-129-43.ap-northeast-1.compute.amazonaws.com^
