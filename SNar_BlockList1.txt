@@ -1619,6 +1619,9 @@ orbi.kr
 ||stocks-sparkline-lb.apple.com.akadns.net^$important
 ||stocks-data-service.lb-apple.com.akadns.net^$important
 
+# 애플 뉴스
+||c.apple.news^
+
 ##애플광고 iadsdk
 ||iadsdk.apple.com^$important
 ||iadsdk.apple.com.akadns.net^$important
