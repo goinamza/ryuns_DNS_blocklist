@@ -22,9 +22,6 @@
 @@||snacademy.co.kr^
 @@||portal.snacademy.co.kr^
 @@||snacademy.direct.quickconnect.to^
-@@||gofile.me^
-@@||global.quickconnect.to^
-@@||gofile-3539475067.jp5.quickconnect.to^
 @@||snacademy.direct.quickonnect.to^
 @@||snacademy.synology.me^
 @@||sn-timetable-default-rtdb.firebaseio.com^$important
@@ -34,6 +31,10 @@
 @@||cdn.jsdelivr.net.cdn.cloudflare.net^$important
 @@||jsdelivr.map.fastly.net^$important
 @@||channel.io^$important
+# 시놀로지 막음
+||gofile.me^
+||global.quickconnect.to^
+||gofile-3539475067.jp5.quickconnect.to^
 
 # DoH MUST DIE DoH DoH DoH DoH DoH DNS, DoH 또는 우회 관련 싸이트들을 넣습니다. 무조건 차단. #########
 ||doh.cleanbrowsing.org^$important
