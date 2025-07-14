@@ -854,6 +854,7 @@ orbi.kr
 ||instantmessaging-pa.googleapis.com^$important
 ||playatoms-pa.googleapis.com^$important
 @@||discover-pa.googleapis.com^$important
+||games.googleapis.com^$important
 ||applecommerce-pa.googleapis.com^$important
 ||firebaseinappmessaging.googleapis.com^$important
 ||firebaseappcheck.googleapis.com^$important
