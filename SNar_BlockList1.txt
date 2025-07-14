@@ -35,6 +35,7 @@
 ||gofile.me^
 ||global.quickconnect.to^
 ||gofile-3539475067.jp5.quickconnect.to^
+||*.synology.me^
 
 # DoH MUST DIE DoH DoH DoH DoH DoH DNS, DoH 또는 우회 관련 싸이트들을 넣습니다. 무조건 차단. #########
 ||doh.cleanbrowsing.org^$important
