@@ -712,7 +712,7 @@ orbi.kr
 # 이것은 왜 호출되는지 모르겠으나 일단 학습관리 페이지니 허용
 @@||student.aca2000.co.kr^$important
 ## 클래스메이트 앱
-@@||app.klassmate.co.kr^$important
+@@||klassmate.co.kr^
 
 
 
