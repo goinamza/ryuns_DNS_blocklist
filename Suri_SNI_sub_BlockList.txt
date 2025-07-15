@@ -136,6 +136,9 @@ reasonsecurity
 ||terravpn.co.kr^
 ||trovpn.com^
 ||sec-tunnel.com^
+||suinfra.com^
+||superunlimited.com^
+||ourip.info^
 
 ### DoH, Proxy###
 ||dns.msftncsi.com^
