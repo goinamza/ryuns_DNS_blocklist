@@ -1859,6 +1859,11 @@ orbi.kr
 # 날씨
 @@||us-west-api.openweathermap.org^$important
 
+#대인라
+@@||klassmate.co.kr^
+@@||cdnet.nasmob.com^$important
+@@||cdn.datamanager.co.kr^$important
+
 ############### 분류가 필요한 것들 #############
 
 
