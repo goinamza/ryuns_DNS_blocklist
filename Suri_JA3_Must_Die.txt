@@ -43,6 +43,8 @@ f46a3808c94e1eb0c4724b20f3df4ec0
 
 # 2025/7/8 Opera JA3
 049f44ae40ab2cab555bdfee22e7d7cb
+# 2025/7/16 VPN JA3
+c199b43d41b470f8f68c5561f8f1ce3e
 
 ## 말은 할 수 없지만 막아준다. JA3
 
