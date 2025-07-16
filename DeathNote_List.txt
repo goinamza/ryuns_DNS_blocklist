@@ -145,8 +145,6 @@ apple-relay.cloudflare.com
 relay.fe.apple-dns.net
 relay.icloud.apple.com
 gateway-oblivious.apple.com
-acsegateway.fe2.apple-dns.net
-acsegateway.icloud.com
 
 # Telegram 텔레그램 아이피 차단
 telegram.org
