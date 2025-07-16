@@ -144,7 +144,7 @@ apple-relay.fastly-edge.com
 apple-relay.cloudflare.com
 relay.fe.apple-dns.net
 relay.icloud.apple.com
-gateway-oblivious.apple.com
+
 
 # Telegram 텔레그램 아이피 차단
 telegram.org
