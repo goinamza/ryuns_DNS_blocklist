@@ -186,7 +186,6 @@ z-p3.instagram.com
 z-p4.instagram.com 
 cdninstagram.com
 scontent.cdninstagram.com
-scontent.xx.fbcdn.net
 scontent-lax3-1.cdninstagram.com
 scontent-lax3-2.cdninstagram.com
 scontent-icn1-1.fna.fbcdn.net
@@ -216,12 +215,10 @@ secure.facebook.com
 lookaside.facebook.com	
 api.facebook.com
 b-api.facebook.com	
-connect.facebook.net
 upload.facebook.com	
 l.instagram.com
 business.instagram.com
 edge-chat.facebook.com	
-scontent.xx.fbcdn.net	
 static.xx.fbcdn.net
 static-icn1-1.xx.fbcdn.net
 static-icn1-2.xx.fbcdn.net
@@ -276,9 +273,6 @@ talk.kakao.com
 talk-pilsner.kakao.com
 sharer.kakao.com
 kakao.com
-kauth.kakao.com
-kapi.kakao.com
-auth.kakao.com
 dn-m.talk.kakao.com
 dn-p.talk.kakao.com
 file.kakao.com
@@ -288,9 +282,7 @@ analytics.kakao.com
 fcmtalk-push.kakao.com
 fcm-push.kakao.com
 pay.kakao.com
-kapi.kakao.com
 k.kakaocdn.net
-t1.kakaocdn.net
 ad.kakao.com
 business.kakao.com
 
