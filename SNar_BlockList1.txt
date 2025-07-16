@@ -1110,10 +1110,10 @@ orbi.kr
 ||p44-mccgateway.icloud.com^$important
 ||*mccgateway.icloud.com^$important
 ||mccgateway.fe2.apple-dns.net^$important
-||acsegateway.fe2.apple-dns.net^$important
-||*acsegateway.icloud.com^$important
-||p125-acsegateway.icloud.com^$important
-||p134-acsegateway.icloud.com^$important
+@@||acsegateway.fe2.apple-dns.net^
+@@||*acsegateway.icloud.com^$
+@@||p125-acsegateway.icloud.com^
+@@||p134-acsegateway.icloud.com^
 
 # Update 관련(될지 안될지는 모르지만..)
 @@||updates.cdn-apple.com^
@@ -1421,6 +1421,8 @@ orbi.kr
 # Mail 관련
 ||mail.me.com^$important
 ||mail.me.com.akadns.net^$important
+||mail.icloud.com^$important
+||mail.we.apple-dns.net^$important
 
 # Apple 노드 최적화 관련
 @@||lcdn-locator.apple.com^
