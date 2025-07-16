@@ -129,10 +129,8 @@ mask.apple.com
 mask.icloud.com
 mask-h2.icloud.com
 mask.apple-dns.net
-mask-api.icloud.com
 mask.icloud-dns.net
 mask-tunnel.apple.com
-mask-api.fe2.apple-dns.net
 doh.dns.apple.com.v.aaplimg.com
 doh-dns-apple-com.v.aaplimg.com
 apple.com.doh.icloud-dns.com
