@@ -801,10 +801,14 @@ orbi.kr
 @@||gstatic.com^
 ||googletagmanager.com^
 @@||gvt1.com^
+@@||edgedl.me.gvt1.com^
 ||*.gvt1.com^
 @@||gvt2.com^
-||beacons4.gvt2.com^$important
+||beacons*.gvt2.com^$important
+||beacons.gcp.gvt2.com^$important
+||e2c43.gcp.gvt2.com^$important
 @@||gvt3.com^
+||beacons*.gvt3.com^$important
 @@||gvt4.com^
 @@||gvt5.com^
 @@||gvt6.com^
