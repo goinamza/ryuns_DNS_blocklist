@@ -38,8 +38,6 @@
 ||chatgpt.com^
 ||yahoo.com^
 ||hotmail.com^
-www.icloud.com
-icloud.com
 /\.cn$/
 /\.ru$/
 /\.cz$/
