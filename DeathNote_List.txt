@@ -108,6 +108,11 @@ ext.surfshark.com
 nordcdn.com
 downloads77-windows.nordcdn.com
 terravpn.co.kr
+sec-tunnel.com
+suinfra.com
+superunlimited.com
+ipinfo.superunlimited.com
+
 
 ### Google 우회 관련
 ohttp-relay1.fastly-edge.com
@@ -120,7 +125,6 @@ tunnel.googlezip.net
 
 # APPLE~~~!!!!! 애플 관련 거의 고정인 IP 차단이 필요한 경우에만 입력
 doh.dns.apple.com
-itunes.apple.com
 mask.apple.com
 mask.icloud.com
 mask-h2.icloud.com
@@ -141,8 +145,6 @@ apple-relay.cloudflare.com
 relay.fe.apple-dns.net
 relay.icloud.apple.com
 gateway-oblivious.apple.com
-gateway.icloud.com
-gateway.fe2.apple-dns.net
 acsegateway.fe2.apple-dns.net
 acsegateway.icloud.com
 
