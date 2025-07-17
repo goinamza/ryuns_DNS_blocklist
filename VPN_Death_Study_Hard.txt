@@ -81,7 +81,7 @@
 ||suinfra.com^
 ||superunlimited.com^
 ||ourip.info^
-
+||opengw.net^$important
 
 
 
