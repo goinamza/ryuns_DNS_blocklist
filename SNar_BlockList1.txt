@@ -1517,6 +1517,10 @@ orbi.kr
 @@||gs.apple.com^
 @@||gs.apple.com.v.aaplimg.com^
 
+@@||iswlocator.apple.com^
+@@||iswlocator.swu-apple.com.akadns.net^
+@@||ms11p01su-iswlocator.isu.swu-apple.com.akadns.net^
+
 ## wps 와이파이정보 위치추적
 ||wps.apple.com^$important
 ||wps.v.aaplimg.com^$important
