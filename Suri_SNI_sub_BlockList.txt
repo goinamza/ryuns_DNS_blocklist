@@ -240,8 +240,6 @@ reasonsecurity
 ||relay.fe.apple-dns.net^$important
 ||relay.icloud.apple.com^$important
 ||gateway-oblivious.apple.com^$important
-||acsegateway.fe2.apple-dns.net^$important
-||acsegateway.icloud.com^$important
 # /gateway/apple.com
 # /gateway/apple-dns.net
 /relay/cloudflare.com
