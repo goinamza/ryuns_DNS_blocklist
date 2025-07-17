@@ -1119,6 +1119,9 @@ orbi.kr
 @@||*acsegateway.icloud.com^$
 @@||p125-acsegateway.icloud.com^
 @@||p134-acsegateway.icloud.com^
+# 인증서 관련 icloud Gateway
+@@||attester.gateway.icloud.com^
+@@||attester.gateway.fe2.apple-dns.net^
 
 # Update 관련(될지 안될지는 모르지만..)
 @@||updates.cdn-apple.com^
