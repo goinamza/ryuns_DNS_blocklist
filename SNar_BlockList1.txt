@@ -490,6 +490,9 @@ orbi.kr
 @@||debug-m.ebsmath.co.kr^$important
 @@||ai-plus.ebs.co.kr^$important
 @@||kr.object.ncloudstorage.com^$important
+## EBS Streaming
+@@||wstrotu.ebs.co.kr^$important
+@@||wstr.ebsi.co.kr^$important
 ||news.ebs.co.kr^$important
 ||ai-new.ebs.co.kr^$important
 ||anikids.ebs.co.kr^$important
