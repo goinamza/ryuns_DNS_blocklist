@@ -468,6 +468,7 @@ orbi.kr
 @@/starplayer/
 @@||ec2-3-34-18-9.ap-northeast-2.compute.amazonaws.com^$important
 @@||all.ycdn2.kollus.com.w.cdngslb.com^$important
+@@||all.ycdn.kollus.com.w.cdngslb.com^$important
 
 
 # Vimeo Player Services
@@ -716,7 +717,8 @@ orbi.kr
 @@||student.aca2000.co.kr^$important
 ## 클래스메이트 앱
 @@||klassmate.co.kr^
-
+# 시험 관련
+@@||exam4you.com^$important
 
 
 
@@ -752,6 +754,8 @@ orbi.kr
 @@||legendstudy.com^$important
 @@||megastudy.co.kr^$important
 @@||qube.maisco.kr^$important
+@@||file-megastudy.cache.onscdn.co.kr^$important
+@@||imgs-megastudy.cache.onscdn.co.kr^$important
 
 
 
@@ -1395,6 +1399,9 @@ orbi.kr
 ### Push는 최종적으로 아래 도메인에서 막히게 됨.
 ##||*.push-apple.com.akadns.net^$important
 ##||*.push.apple.com^$important
+## iCloud 전용 webcourier push 막음
+||webcourier.push.apple.com^$important
+||webcourier-vs.push-apple.com.akadns.net^$important
 # Sandbox courier(개발자 테스트용)도 막음
 ||*-courier.sandbox.push.apple.com^$important
 ||*.courier-sandbox-push-apple.com.akadns.net^$important
