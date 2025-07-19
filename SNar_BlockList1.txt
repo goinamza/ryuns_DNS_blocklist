@@ -480,7 +480,7 @@ orbi.kr
 
 # EBS Family
 ||ebs.co.kr^
-||m.ebs.co.kr^
+||m.ebs.co.kr^$important
 ||www.ebs.co.kr^$important
 @@||*.ebs.co.kr^
 @@||ebsi.co.kr^
