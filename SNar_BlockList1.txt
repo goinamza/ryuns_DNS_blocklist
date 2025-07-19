@@ -479,21 +479,30 @@ orbi.kr
 @@||vimeo.map.fastly.net^$important
 
 # EBS Family
+||ebs.co.kr^
+||m.ebs.co.kr^
+||www.ebs.co.kr^$important
+@@||*.ebs.co.kr^
 @@||ebsi.co.kr^
 ||u.ebsi.co.kr^$important
 @@||ebsoc.co.kr^
+@@||sso.ebs.co.kr^$important
 @@||livedown3.ebs.co.kr^
 @@||ai.ebs.co.kr^
 @@||mid.ebs.co.kr^
+@@||dtory.ebs.co.kr^
 @@||ebse.co.kr^$important
-@@||ebs.co.kr^
 @@||ebsmath.co.kr^
+@@||debug-www.ebs.co.kr^$important
 @@||debug-m.ebsmath.co.kr^$important
 @@||ai-plus.ebs.co.kr^$important
 @@||kr.object.ncloudstorage.com^$important
+@@||ebook.ebs.co.kr^
+@@||book.ebs.co.kr^
 ## EBS Streaming
 @@||wstrotu.ebs.co.kr^$important
 @@||wstr.ebsi.co.kr^$important
+||ebr.ebs.co.kr^$important
 ||news.ebs.co.kr^$important
 ||ai-new.ebs.co.kr^$important
 ||anikids.ebs.co.kr^$important
@@ -513,6 +522,7 @@ orbi.kr
 ||primary.ebs.co.kr^$important
 ||ai-beta.ebs.co.kr^$important
 ||ai-plus.ebs.co.kr^$important
+||literacy.ebs.co.kr^$important
 
 # Inclass Study
 @@||inclass.co.kr^$important
