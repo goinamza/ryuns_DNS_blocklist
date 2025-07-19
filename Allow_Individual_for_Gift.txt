@@ -16,6 +16,21 @@
 @@||*courier.push.apple.com^$client='192.168.21.128'
 
 
+### 노혁이가 웬일? 네이버 카페 열기
+@@||cafe.naver.com^$client='192.168.26.121'
+@@||cafe.naver.com.nheos.com^$client='192.168.26.121'
+@@||scv-cafe.io.naver.com^$client='192.168.26.121'
+@@||abtest-cafe.io.naver.com^$client='192.168.26.121'
+@@||camp-api.naver.com^$client='192.168.26.121'
+@@||camp-api.naver.com.nheos.com^$client='192.168.26.121'
+@@||camp-report.naver.com^$client='192.168.26.121'
+@@||camp-report.naver.com.nheos.com^$client='192.168.26.121'
+@@||pstatic.net.nheos.com^$client='192.168.26.121'
+@@||s1.e.navercdn.com^$client='192.168.26.121'
+@@||cafe.upphoto.naver.com^$client='192.168.26.121'
+@@||cafe.upphoto.naver.com.nheos.com^$client='192.168.26.121'
+
+
 #유튜브를 풀어줄 땐!
 ##@@||youtube.com^$client='192.168.16.25'
 ##@@||ytimg.com^$client='192.168.16.25'
