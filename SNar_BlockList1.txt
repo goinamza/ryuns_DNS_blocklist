@@ -185,6 +185,8 @@
 @@||launchdarkly.com^
 #  AzureEdge
 @@||edgeassetservice.azureedge.net^$important
+# Tailwind CSS 페이지 소스
+@@||tailwindcss.com^$important
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
