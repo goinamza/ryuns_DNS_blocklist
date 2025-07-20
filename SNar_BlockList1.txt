@@ -625,8 +625,6 @@ orbi.kr
 @@||cedubook.com^
 @@||cedulearn.com^
 @@||chojungsik.com^
-@@||yeolpumta.com^
-@@||pi.tgclab.com^
 @@||book-sk.co.kr^
 @@||hohoonmath.com^
 @@||sangsangstudy.com^
@@ -665,9 +663,6 @@ orbi.kr
 @@||mbest.co.kr^
 @@||api.quizrix.com^$important
 @@||irontrain.co.kr^$important
-@@||yeolpumta-ko.firebaseio.com^$important
-@@||picf.tgclab.com^$important
-||tgclab.com^
 @@||www.vocacoca.com^$important
 @@||tool.cozci.com^$important
 @@||vicleague.com^$important
@@ -729,8 +724,14 @@ orbi.kr
 @@||klassmate.co.kr^
 # 시험 관련
 @@||exam4you.com^$important
-
-
+# 열품타
+@@||yeolpumta.com^
+@@||yeolpumta.notion.site^$important
+@@||yeolpumta-ko.firebaseio.com^$important
+||tgclab.com^
+@@||imgcdn.tgclab.com^$important
+@@||picf.tgclab.com^$important
+@@||pi.tgclab.com^
 
 # 시대인재 관련
 @@||sdij.com^
