@@ -186,6 +186,7 @@
 @@||edgeassetservice.azureedge.net^$important
 # Tailwind CSS 페이지 소스
 @@||tailwindcss.com^$important
+@@||gscdn.net^
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
@@ -742,6 +743,8 @@ orbi.kr
 @@||sdijon.com^
 @@||sdijbooks.com^
 @@||sdijc.com^
+@@||hds-image.hiconsysvc.com^$important
+@@||hiconsysvc.com^
 
 # 메가스터디 관련 
 @@||megals.co.kr^
