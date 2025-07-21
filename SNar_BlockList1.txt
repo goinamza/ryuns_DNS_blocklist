@@ -85,7 +85,6 @@
 ||d3kcmtojl2di5h.cloudfront.net^$important
 ||d20tfbvkp7m39c.cloudfront.net^$important
 ||d1b98g8hmfhkbr.cloudfront.net^$important
-||d3r0lkxhtoepil.cloudfront.net^$important
 
 ### VPN Cloudfront DoH Domains (from Stud)
 ||d2jcsh14jfvfh3.cloudfront.net^$important
