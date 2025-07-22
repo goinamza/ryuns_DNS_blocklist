@@ -359,9 +359,7 @@ reasonsecurity
 ||talk.kakao.co.kr^
 ||talk.kakao.com^
 ||talk-apps.kakao.com^
-||pay.kakao.com^
 ||map.kakao.com^
-||dapi.kakao.com^
 ||apps.kakao.com^
 ||video.kakao.com^
 ||v.kakao.com^
