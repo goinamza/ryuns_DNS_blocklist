@@ -202,6 +202,7 @@
 @@||pay.naver.com^$important
 @@||pay.naver.net^$important
 @@||sentry-fin.naver.com^$important
+@@||ncpt.naver.com^$important
 ### 농협카드
 @@||dapi.kakao.com^$important
 @@||nonghyup.com^$important
