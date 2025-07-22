@@ -207,7 +207,9 @@
 @@||nonghyup.com^$important
 @@||security-api.cdn-secuchart.com^$important
 @@||cdn-secuchart.com^$important
-
+### 카카오페이
+@@||kakaopay.com^$important
+@@||fido.kakao.com^$important
 
 # Weather Info Services 날씨 관련
 @@||kr-weathernews.com^important
