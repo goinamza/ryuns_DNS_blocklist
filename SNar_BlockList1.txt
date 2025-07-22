@@ -191,6 +191,24 @@
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
 
+
+########## 결제 관련  #######
+@@||inicis.com^
+@@||tosspayments.com^
+@@||sk-pay.co.kr^
+@@||easypay.co.kr^
+@@||nicepay.co.kr^
+### 네이버페이
+@@||pay.naver.com^$important
+@@||pay.naver.net^$important
+@@||sentry-fin.naver.com^$important
+### 농협카드
+@@||dapi.kakao.com^$important
+@@||nonghyup.com^$important
+@@||security-api.cdn-secuchart.com^$important
+@@||cdn-secuchart.com^$important
+
+
 # Weather Info Services 날씨 관련
 @@||kr-weathernews.com^important
 @@||galaxy.kr-weathernews.com^$important
@@ -734,6 +752,10 @@ orbi.kr
 @@||imgcdn.tgclab.com^$important
 @@||picf.tgclab.com^$important
 @@||pi.tgclab.com^
+# 교보문고!
+@@||kyobobook.co.kr^$important
+@@||cubot.eigene.io^$important
+@@||api.dsoc.eigene.io^$important
 
 # 시대인재 관련
 @@||sdij.com^
