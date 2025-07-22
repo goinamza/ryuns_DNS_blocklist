@@ -755,9 +755,11 @@ orbi.kr
 @@||picf.tgclab.com^$important
 @@||pi.tgclab.com^
 # 교보문고!
-@@||kyobobook.co.kr^$important
-@@||cubot.eigene.io^$important
-@@||api.dsoc.eigene.io^$important
+@@||kyobobook.co.kr^
+@@||cubot.eigene.io^
+@@||api.dsoc.eigene.io^
+||hottracks.kyobobook.co.kr^$important
+||mhottracks.kyobobook.co.kr^$important
 
 # 시대인재 관련
 @@||sdij.com^
