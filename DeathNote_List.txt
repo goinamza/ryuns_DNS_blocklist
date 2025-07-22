@@ -277,7 +277,6 @@ log.kakao.com
 analytics.kakao.com
 fcmtalk-push.kakao.com
 fcm-push.kakao.com
-pay.kakao.com
 k.kakaocdn.net
 ad.kakao.com
 business.kakao.com
