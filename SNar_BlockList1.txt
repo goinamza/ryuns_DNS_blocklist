@@ -187,6 +187,8 @@
 # Tailwind CSS 페이지 소스
 @@||tailwindcss.com^$important
 @@||gscdn.net^
+# 대성마이맥에서 uplus 를 호출함.
+@@||upmc.msghub.uplus.co.kr^$important
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
@@ -751,8 +753,12 @@ orbi.kr
 @@||onevoca.org^
 # 이것은 왜 호출되는지 모르겠으나 일단 학습관리 페이지니 허용
 @@||student.aca2000.co.kr^$important
-## 클래스메이트 앱
+## 클래스메이트 앱, 대인라
 @@||klassmate.co.kr^
+@@||klassmate.dev.meetmate.co.kr^$important
+@@||meetmate.co.kr^
+@@||cdnet.nasmob.com^$important
+@@||cdn.datamanager.co.kr^$important
 # 시험 관련
 @@||exam4you.com^$important
 # 열품타
@@ -1942,10 +1948,7 @@ orbi.kr
 # 날씨
 @@||us-west-api.openweathermap.org^$important
 
-#대인라
-@@||klassmate.co.kr^
-@@||cdnet.nasmob.com^$important
-@@||cdn.datamanager.co.kr^$important
+
 
 ############### 분류가 필요한 것들 #############
 
