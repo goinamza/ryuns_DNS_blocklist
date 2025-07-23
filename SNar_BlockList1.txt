@@ -198,11 +198,17 @@
 @@||sk-pay.co.kr^
 @@||easypay.co.kr^
 @@||nicepay.co.kr^
+@@||kcp.co.kr^
+@@||toss.im^
+@@||payroll-ktp.ey.com^$important
+@@||xpaywalletcdn-prod.azureedge.net^$important
 ### 네이버페이
 @@||pay.naver.com^$important
 @@||pay.naver.net^$important
 @@||sentry-fin.naver.com^$important
 @@||ncpt.naver.com^$important
+@@||pay.naver.com.nheos.com^$important
+@@||img.pay.naver.net.nheos.com^$important
 ### 농협카드
 @@||dapi.kakao.com^$important
 @@||nonghyup.com^$important
@@ -211,6 +217,11 @@
 ### 카카오페이
 @@||kakaopay.com^$important
 @@||fido.kakao.com^$important
+
+
+
+
+
 
 # Weather Info Services 날씨 관련
 @@||kr-weathernews.com^important
@@ -407,6 +418,7 @@
 @@||dic.daum.net^
 @@||100.daum.net^
 @@||dic.daum.net^
+@@||ssl.daumcdn.net^$important
 @@||t1.daumcdn.net^
 @@||t1.daumcdn.net.edgesuite.net^$important
 @@||a1988.dscw39.akamai.net^$important
@@ -607,8 +619,6 @@ orbi.kr
 @@||mae3.com^
 @@||extremechem.com^
 @@||vclock.kr^
-@@||qanda.ai^
-@@||qanda.co.kr^
 @@||seoul.go.kr^
 @@||kumsung.co.kr^
 @@||reclass.study^
@@ -671,8 +681,6 @@ orbi.kr
 @@||hackersbook.com^
 @@||auth.zocbo.com^
 @@||dnsa.ds.co.kr^
-@@||qanda-server-storage.mathpresso.io^
-@@||qanda-thumbnailer-prod.qymtuasgp.ap-northeast-2.elasticbeanstalk.com^
 @@||slearn.seoul.go.kr^
 @@||weblog.eseoul.go.kr^
 @@||catalog.gamepass.com^
@@ -761,6 +769,14 @@ orbi.kr
 @@||api.dsoc.eigene.io^
 ||hottracks.kyobobook.co.kr^$important
 ||mhottracks.kyobobook.co.kr^$important
+# 문제은행(내신) 
+@@||questionbank.co.kr^
+# 콴다 AI
+@@||qanda.ai^
+@@||qanda.co.kr^
+@@||mathpresso.net^
+@@||mathpresso.io^
+@@||qanda-thumbnailer-prod.qymtuasgp.ap-northeast-2.elasticbeanstalk.com^
 
 # 시대인재 관련
 @@||sdij.com^
