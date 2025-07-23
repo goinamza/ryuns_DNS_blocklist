@@ -550,6 +550,7 @@ reasonsecurity
 
 ### Music ###
 ||soundcloud.com^
+||spotify.com^
 
 ### Mail, SNS, Blog, Message ###
 ||telegram.org^
