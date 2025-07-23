@@ -769,7 +769,8 @@ orbi.kr
 @@||api.dsoc.eigene.io^
 ||hottracks.kyobobook.co.kr^$important
 ||mhottracks.kyobobook.co.kr^$important
-# 문제은행(내신) 
+# 문제은행(내신)
+@@||predictionai.co.kr^
 @@||questionbank.co.kr^
 # 콴다 AI
 @@||qanda.ai^
