@@ -189,6 +189,8 @@
 @@||gscdn.net^
 # 대성마이맥에서 uplus 를 호출함.
 @@||upmc.msghub.uplus.co.kr^$important
+# GPS 기반 위치 서비스
+@@||glpals.com^
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
@@ -1041,6 +1043,8 @@ orbi.kr
 ||bing.com^
 ||mail.live.com^$important
 ||outlook.live.com^$important
+||outlook.office.com^$important
+||outlook-sdf.office.com^$important
 ||api.onedrive.com^$important
 ||skyapi.live.net^$important
 ||teams.events.data.microsoft.com^$important
