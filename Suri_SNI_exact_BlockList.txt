@@ -11,6 +11,8 @@ google.com
 amazon.com
 lse.com
 
+### 딴짓우회 Will Die ###
+abuijx.cdn-settings.appsflyersdk.com
 
 ### DoH Will Die ###
 
