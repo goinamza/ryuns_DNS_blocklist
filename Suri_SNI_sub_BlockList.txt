@@ -167,6 +167,7 @@ reasonsecurity
 ||shared.sni.fastly.net^$important
 ||dns11.quad9.net^$important
 ||doh.iq.com^
+||northghost.com^
 
 ### VPN Cloudfront DoH Domains
 ||d1radv0oaxye89.cloudfront.net^$important
