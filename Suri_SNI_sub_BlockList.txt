@@ -596,6 +596,7 @@ reasonsecurity
 ||baidu.com^
 ||tieba.com^
 ||xiaomi.net^
+||taobao.com^
 
 #### Global Site BlockList ###
 ||search.brave.com^
