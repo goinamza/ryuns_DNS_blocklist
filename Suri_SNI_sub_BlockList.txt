@@ -194,6 +194,8 @@ reasonsecurity
 ||n8z7zwivjg.execute-api.us-east-1.amazonaws.com^$important
 ||w6wgmwa4bd.execute-api.us-east-1.amazonaws.com^$important
 ||e105l6mnx3.execute-api.eu-west-3.amazonaws.com^$important
+### (29.118)
+||sd3n0344di.execute-api.eu-west-3.amazonaws.com^$important
 
 
 ### Google 우회 관련 ###
