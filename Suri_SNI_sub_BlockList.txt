@@ -190,6 +190,7 @@ reasonsecurity
 ||d2y0jgjgtwd97r.cloudfront.net^$important
 ||d1pgimoedcag4z.cloudfront.net^$important
 ||d2jcsh14jfvfh3.cloudfront.net^$important
+||d1syh6mjear537.cloudfront.net^$important
 
 ### VPN amazonaws Domains (by 21.128)
 ||n8z7zwivjg.execute-api.us-east-1.amazonaws.com^$important
