@@ -83,5 +83,18 @@
 ||ourip.info^
 ||opengw.net^$important
 ||northghost.com^
+||ornet.io^
+
+### VPN은 아니지만 딸려 나오는 악당들
+||gen.fusionforce.cc^
+||cdn-global.configcat.com^
+||sdk-04.moengage.com^
+||abuijx.cdn-settings.appsflyersdk.com^
+||9861d8f52d3345bb8ecb738c9451765b.creativeidea.online^
+||creativeidea.online^
+||acp4dvbfmh3srjmshygj2t.browserapp.link^
+
+
+
 
 
