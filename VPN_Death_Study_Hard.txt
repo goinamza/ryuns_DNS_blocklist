@@ -93,6 +93,9 @@
 ||9861d8f52d3345bb8ecb738c9451765b.creativeidea.online^
 ||creativeidea.online^
 ||acp4dvbfmh3srjmshygj2t.browserapp.link^
+||dom.vibrantvoyage.xyz^
+||nexuswave.work^
+||transfer.freshfancy.xyz^
 
 
 
