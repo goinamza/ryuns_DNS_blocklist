@@ -139,6 +139,7 @@ reasonsecurity
 ||suinfra.com^
 ||superunlimited.com^
 ||ourip.info^
+||ornet.io^
 
 ### DoH, Proxy###
 ||dns.msftncsi.com^
