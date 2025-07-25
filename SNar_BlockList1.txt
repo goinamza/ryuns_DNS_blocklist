@@ -853,7 +853,6 @@ orbi.kr
 @@||d1fpdhao7f8ux5.cloudfront.net^$important
 @@||d2m9duoqjhyhsq.cloudfront.net^$important
 @@||d357st2qvyfcrh.cloudfront.net^$important
-@@||d1syh6mjear537.cloudfront.net^$important
 @@||d1tru86qrby720.cloudfront.net^$important
 @@||d1b4ko8jqujqto.cloudfront.net^$important
 @@||d3tccjf3xiio5y.cloudfront.net^$important
