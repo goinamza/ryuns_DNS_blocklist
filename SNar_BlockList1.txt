@@ -770,7 +770,7 @@ orbi.kr
 @@||yeolpumta.notion.site^$important
 @@||yeolpumta-ko.firebaseio.com^$important
 ||tgclab.com^
-@@||imgcdn.tgclab.com^$important
+||imgcdn.tgclab.com^
 @@||picf.tgclab.com^$important
 @@||pi.tgclab.com^
 # 교보문고!
