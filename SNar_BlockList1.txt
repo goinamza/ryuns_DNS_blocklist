@@ -127,8 +127,7 @@
 @@||op1top.com^$important
 @@||data-api.connectivityassistant.com^$important
 @@||api.weathercn.com^$important
-@@||gllto2.glpals.com^$important
-@@||gllto1.glpals.com^$important
+@@||glpals.com^
 @@||skt-prd.connectrcs.com^$important
 @@||aom.sp.sktelecom.com^$important
 @@||auth.prd.planetad.co.kr^$important
@@ -1042,6 +1041,7 @@ orbi.kr
 # 시스템 연결 상태 확인 Microsoft
 @@||msftncsi.com^
 ||bing.com^
+# Microsoft mail 차단
 ||mail.live.com^$important
 ||outlook.live.com^$important
 ||outlook.office.com^$important
@@ -1807,6 +1807,11 @@ orbi.kr
 @@||samsungmdec.com^
 ||play.samsungcloud.com^$important
 ||bixbyllm.com^
+# Samsung 인터넷 및 연결성 등 관련
+@@||api.samsungconsent.com^
+@@||connectivity.samsung.com.cn^
+@@||config-api.internet.apps.samsung.com^
+@@||www.internet.apps.samsung.com^
 
 ######### 대학들 싸이트 ac.kr #####################
 @@||snu.ac.kr^$important
@@ -1915,6 +1920,7 @@ orbi.kr
 @@||sbm.nate.com^$important
 @@||cm.meba.kr^$important
 @@||tk.doem-0tpdlqj.com^$important
+@@||api.doem-0tpdlqj.com^$important
 @@||roughtime.int08h.com^$important
 @@||code.jquery.com^$important
 @@||onevoca.org^
