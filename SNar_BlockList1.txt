@@ -787,6 +787,18 @@ orbi.kr
 @@||mathpresso.net^
 @@||mathpresso.io^
 @@||qanda-thumbnailer-prod.qymtuasgp.ap-northeast-2.elasticbeanstalk.com^
+# Ankiweb 이라는 학습 지원 앱
+@@||ankiweb.net^
+@@||ankisrs.net^
+@@||ankiuser.net^
+@@||anki2.hosted-by-discourse.com^
+@@||us1.discourse-cdn.com^
+@@||sea2.discourse-cdn.com^
+@@||142.132.136.176^
+@@||162.55.238.74^
+# 이건 cloud 웹호스팅 업체라는데 이게 왜 껴 있는지 알 수 없음.
+@@||hetzner.com^
+
 
 # 시대인재 관련
 @@||sdij.com^
