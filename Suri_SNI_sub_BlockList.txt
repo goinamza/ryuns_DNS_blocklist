@@ -463,7 +463,6 @@ reasonsecurity
 
 ### Samsung ###
 ||samsungapps.com^
-||internet.apps.samsung.com^
 ||galaxy.store^
 
 
