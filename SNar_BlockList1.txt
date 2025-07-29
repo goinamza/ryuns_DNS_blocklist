@@ -1940,6 +1940,8 @@ orbi.kr
 @@||nebooks.co.kr^$important
 @@||api.goodlocklabs.com^$important
 @@||g2sh.me^$important
+@@||younivclass.academy^$important
+@@||younivclass.com^$important
 # Clickon은 광고 관련이긴 한데 일단 풀어줌
 @@||clickon.kr^
 ### opsnow 는 DoH 의심이었지만 아닌 것 같음. 일단 풀어줌.
