@@ -115,8 +115,8 @@
 @@||nist.gov^
 @@||kriss.re.kr^
 # notion.so 관련
-||notionusercontent.com^
-||notion.so^
+@@||notionusercontent.com^
+@@||notion.so^
 @@||ntp.kornet.net^$important
 @@||cdnetworks.co.kr^
 @@||cdnetworks.com^
