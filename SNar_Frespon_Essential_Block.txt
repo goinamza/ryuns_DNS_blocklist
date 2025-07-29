@@ -1,14 +1,11 @@
 ##### SNarLink Freedom and Responsibility 망을 위한 필수 Block List
 
 ### 일반 문자열 ###
-discord
 tiktok
 netflix
 blizzard
-twitter
 huawei
 booktoki
-dcinside
 
 ### 도메인 문자열 ###
 
