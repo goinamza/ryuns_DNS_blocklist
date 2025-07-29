@@ -653,6 +653,7 @@ orbi.kr
 @@||jinhak.com^
 @@||korean.go.kr^
 @@||vocatrain.co.kr^
+@@||clabvoca.net^
 @@||imath.tv^
 @@||dsdo.co.kr^
 @@||kydi.co.kr^
