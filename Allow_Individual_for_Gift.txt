@@ -40,3 +40,6 @@
 ##@@||gstatic.com^$client='192.168.16.25'
 ##@@||ggpht.com^$client='192.168.16.25'
 ##@@||youtubei.googleapis.com^$client='192.168.16.25'
+
+###최동희 대리 test
+@@||*^$client='192.168.21.233'
