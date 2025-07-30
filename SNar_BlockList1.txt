@@ -799,7 +799,8 @@ orbi.kr
 @@||162.55.238.74^
 # 이건 cloud 웹호스팅 업체라는데 이게 왜 껴 있는지 알 수 없음.
 @@||hetzner.com^
-
+# 다정Books
+@@||dajeongbooks.com^
 
 # 시대인재 관련
 @@||sdij.com^
