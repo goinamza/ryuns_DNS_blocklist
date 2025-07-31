@@ -1943,6 +1943,8 @@ orbi.kr
 @@||g2sh.me^$important
 @@||younivclass.academy^$important
 @@||younivclass.com^$important
+@@||silgam-app-default-rtdb.asia-southeast1.firebasedatabase.app^$important
+@@||silgam.app^$important
 # Clickon은 광고 관련이긴 한데 일단 풀어줌
 @@||clickon.kr^
 ### opsnow 는 DoH 의심이었지만 아닌 것 같음. 일단 풀어줌.
