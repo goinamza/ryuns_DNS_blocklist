@@ -58,6 +58,8 @@ b0c402187c12d14349a8b7474df74bdb
 # 2025/07/24 NorthGhost VPN JA3 24.125
 923f4240e12130b3aec1782eb30ddd2d
 eb3e405dc7a855f78b9ab5d145bf85d8
+# 2025/08/03 24.125 이건 notion과 channel.io 와 같은 JA3 이지만 죽임.
+763c712b53f4a925a5f0a567ae92670d
 # 29.118에게는 자비가 없다. Tor, VPN Die, Tunnelbear까지 깔려 있다.
 7fee233b817ad8c8027cf2d021ad8bc8
 5a527c775ff4ae29b4f0c77b113f9625
