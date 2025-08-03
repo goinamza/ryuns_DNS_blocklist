@@ -171,6 +171,7 @@ reasonsecurity
 ||doh.iq.com^
 ||northghost.com^
 ||filegear-sg.me^
+||dpdns.org^
 
 ### VPN Cloudfront DoH Domains
 ||d1radv0oaxye89.cloudfront.net^$important
