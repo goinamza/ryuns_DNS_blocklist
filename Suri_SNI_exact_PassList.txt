@@ -3,4 +3,5 @@
 
 scontent.xx.fbcdn.net
 scontent.fallback.xx.fbcdn.net
-
+msgstore.www.notion.so
+front-ws.channel.io
