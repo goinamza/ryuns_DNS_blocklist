@@ -141,6 +141,7 @@ reasonsecurity
 ||ourip.info^
 ||ornet.io^
 
+
 ### DoH, Proxy###
 ||dns.msftncsi.com^
 ||nextdns.io^$important
@@ -169,6 +170,7 @@ reasonsecurity
 ||dns11.quad9.net^$important
 ||doh.iq.com^
 ||northghost.com^
+||filegear-sg.me^
 
 ### VPN Cloudfront DoH Domains
 ||d1radv0oaxye89.cloudfront.net^$important
