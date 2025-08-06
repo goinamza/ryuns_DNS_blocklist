@@ -64,6 +64,9 @@ eb3e405dc7a855f78b9ab5d145bf85d8
 7fee233b817ad8c8027cf2d021ad8bc8
 5a527c775ff4ae29b4f0c77b113f9625
 
+# 2025.08.06 14.132 VPN (Inconnecting)
+859f9d0ffa4b8fe433ba8ba6a4994967
+
 ## 말은 할 수 없지만 막아준다. JA3
 
 
