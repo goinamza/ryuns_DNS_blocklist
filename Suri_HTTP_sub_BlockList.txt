@@ -1,3 +1,6 @@
 ### HTTP Blocklist
 
 ||whatsapp.net^
+||dpdns.org^
+||vipren.biz.id^
+||iqiyi.com^
