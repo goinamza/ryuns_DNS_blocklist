@@ -158,6 +158,8 @@
 3.171.185.105
 23.32.56.18
 23.32.56.34
+# Alibaba Will Die
+47.241.128.0/17
 
 ### 짜증나는 QUIC Block
 # Fastly 서버, hostname 없음. QUIC
