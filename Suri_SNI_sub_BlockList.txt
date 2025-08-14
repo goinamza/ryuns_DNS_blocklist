@@ -604,6 +604,7 @@ reasonsecurity
 ||tieba.com^
 ||xiaomi.net^
 ||taobao.com^
+||iqiyi.com^
 
 #### Global Site BlockList ###
 ||search.brave.com^
