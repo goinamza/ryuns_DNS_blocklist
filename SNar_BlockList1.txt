@@ -192,6 +192,11 @@
 @@||upmc.msghub.uplus.co.kr^$important
 # GPS 기반 위치 서비스
 @@||glpals.com^
+# 배송조회 관련 도메인들
+@@||biz.epost.go.kr^
+@@||trace.cjlogistics.com^
+@@||net.slx.co.kr^
+@@||ilogen.com^
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
