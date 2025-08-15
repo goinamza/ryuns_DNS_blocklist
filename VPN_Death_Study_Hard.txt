@@ -86,6 +86,7 @@
 ||ornet.io^
 ||polargrizzly.com^
 /kawaiifreevpn/
+||rlinfraservices.com^
 
 ### VPN은 아니지만 딸려 나오는 악당들
 ||gen.fusionforce.cc^
