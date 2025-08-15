@@ -1789,7 +1789,8 @@ orbi.kr
 ||me.apple-dns.net^$important
 ||probe.icloud.com^$important
 ||probe-edge.v.aaplimg.com^$important
-||probe.me.apple-dns.net^$important
+# 최적 경로 확인을 위해 이것은 허용
+@@||probe.me.apple-dns.net^
 ||*escrowproxy.icloud.com^$important
 ||escrowproxy.icloud.com^$important
 ||escrowproxy.fe2.apple-dns.net^$important
