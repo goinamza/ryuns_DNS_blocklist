@@ -142,6 +142,7 @@ reasonsecurity
 ||ornet.io^
 /kawaiifreevpn/
 ||rlinfraservices.com^
+||dpdns.org^
 
 
 ### DoH, Proxy###
