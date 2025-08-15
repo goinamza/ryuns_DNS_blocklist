@@ -486,6 +486,7 @@ reasonsecurity
 ||netflix.com^
 ||wavve.com^
 ||iq.com^
+||sooplive.co.kr^
 
 ### Shopping ###
 ||ebay.com^
