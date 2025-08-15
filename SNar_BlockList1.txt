@@ -1343,8 +1343,9 @@ orbi.kr
 ||music-cdn.itunes-apple.com.akadns.net^$important
 ||podcasts.apple.com^$important
 ||podcasts-cdn.itunes-apple.com.akadns.net^$important
-||sync.itunes.apple.com^$important
-||sync-cdn.itunes-apple.com.akadns.net^$important
+## 다운로드 동기화, DRM 동기화를 위해 실험적으로 열어봄 (2025/08/15)
+@@||sync.itunes.apple.com^
+@@||sync-cdn.itunes-apple.com.akadns.net^
 ||apps.apple.com^$important
 ||apps-cdn.itunes-apple.com.akadns.net^$important
 ### 위의 것들의 중간 계류지 (매우 중요! itunes의 대부분은 다 이쪽으로 간 뒤에 e673으로 나감)
