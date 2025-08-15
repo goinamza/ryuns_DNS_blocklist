@@ -140,6 +140,7 @@ reasonsecurity
 ||superunlimited.com^
 ||ourip.info^
 ||ornet.io^
+/kawaiifreevpn/
 
 
 ### DoH, Proxy###
