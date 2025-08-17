@@ -952,7 +952,8 @@ orbi.kr
 ||nearbysharing-pa.googleapis.com^$important
 ||instantmessaging-pa.googleapis.com^$important
 ||playatoms-pa.googleapis.com^$important
-@@||discover-pa.googleapis.com^$important
+# discover-pa 는 자동완성, 커뮤니티 관련임.
+||discover-pa.googleapis.com^$important
 ||games.googleapis.com^$important
 ||applecommerce-pa.googleapis.com^$important
 ||firebaseinappmessaging.googleapis.com^$important
@@ -993,6 +994,11 @@ orbi.kr
 ||fcm.googleapis.com^$important
 # 구글독스 풀어줌
 @@||docs.google.com^
+# 구글 자동완성 차단
+||growth-pa.googleapis.com^$important
+# 구글 이미지 썸네일 등 사진 추천 차단
+||photosdata-pa.googleapis.com^$important
+||photos.googleapis.com^$important
 
 ### 구글 우회 관련 ####
 ||dns.google.com^$important
