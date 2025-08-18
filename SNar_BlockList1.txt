@@ -954,6 +954,14 @@ orbi.kr
 # discover-pa 는 자동완성, 커뮤니티 관련임.
 ||discover-pa.googleapis.com^$important
 ||games.googleapis.com^$important
+# 피드백 수집 도메인
+||feedback-pa.googleapis.com^$important
+# 구글 푸시 알림 공지 도메인
+||notifications-pa.googleapis.com^$important
+# 클라이언트 에러 알림 도메인
+||clienttracing-pa.googleapis.com^$important
+# 구글 드라이브 관련 도메인
+@@||drivefrontend-pa.googleapis.com^
 ||applecommerce-pa.googleapis.com^$important
 ||firebaseinappmessaging.googleapis.com^$important
 ||firebaseappcheck.googleapis.com^$important
@@ -1005,7 +1013,7 @@ orbi.kr
 @@||googlehosted.l.googleusercontent.com^
 #
 ## Firebase 관련 기능도 일부 허용해줌.
-###||firebaselogging-pa.googleapis.com^$important
+||firebaselogging-pa.googleapis.com^$important
 @@||firebaseremoteconfigrealtime.googleapis.com^
 @@||firebaseremoteconfig.googleapis.com^
 ||safebrowsing.googleapis.com^$important
