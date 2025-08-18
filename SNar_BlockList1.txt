@@ -901,7 +901,7 @@ orbi.kr
 @@||beacons.gcp.gvt2.com^
 @@||e2c43.gcp.gvt2.com^
 @@||gvt3.com^
-@@||beacons*.gvt3.com^
+||beacons*.gvt3.com^
 @@||gvt4.com^
 @@||gvt5.com^
 @@||gvt6.com^
