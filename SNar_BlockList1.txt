@@ -1521,17 +1521,21 @@ orbi.kr
 @@||pancake.g.aaplimg.com^
 
 # smoot 계열, 애플 검색 편의, 자동완성 등 검색 관련 시스템, 검색 엔진이 있는 것 같은데.. 써보질 않아서 모르겠다..
-@@||fbs.smoot.apple.com^
-@@||smoot-feedback.v.aaplimg.com^
-@@||api.smoot.apple.com^
-@@||bag-smoot.v.aaplimg.com^
-@@||api-glb-aapne1a.smoot.apple.com^
-@@||smoot-searchv2-aapne1a.v.aaplimg.com^
-@@||smoot-searchv2-aapne1c.v.aaplimg.com^
-@@||api-safari-aapne1a.smoot.apple.com^
-@@||smoot-api-safari-aapne1a.v.aaplimg.com^
-
-@@||api-glb-aapne1c.smoot.apple.com^
+# 검색엔진 맞음. 27.134 제보에 의하면 검색 됨 ㅇㅇ
+## smoot 의 subdomain 전체 차단! (2025/08/19)
+||*.smoot.apple.com^$important
+||fbs.smoot.apple.com^
+||smoot-feedback.v.aaplimg.com^
+||api.smoot.apple.com^
+||cdn2.smoot.apple.com^$important
+||cdn.smoot.g.aaplimg.com^$important
+||bag-smoot.v.aaplimg.com^$important
+||api-glb-aapne1a.smoot.apple.com^$important
+||smoot-searchv2-aapne1a.v.aaplimg.com^$important
+||smoot-searchv2-aapne1c.v.aaplimg.com^$important
+||api-safari-aapne1a.smoot.apple.com^$important
+||smoot-api-safari-aapne1a.v.aaplimg.com^$important
+||api-glb-aapne1c.smoot.apple.com^$important
 
 
 
