@@ -101,6 +101,17 @@
 ||w6wgmwa4bd.execute-api.us-east-1.amazonaws.com^$important
 ||e105l6mnx3.execute-api.eu-west-3.amazonaws.com^$important
 ||sd3n0344di.execute-api.eu-west-3.amazonaws.com^$important
+# 24.132 자꾸 짜증나게 나옴. 이거 막는다.
+||6bu347tn3k.execute-api.ap-northeast-2.amazonaws.com^$important
+||6h0j2uvxah.execute-api.ap-northeast-2.amazonaws.com^$important
+||deu1pfs6di.execute-api.ap-northeast-2.amazonaws.com^$important
+||03fqrj925j.execute-api.ap-northeast-2.amazonaws.com^$important
+||a77gxk4s01.execute-api.ap-northeast-2.amazonaws.com^$important
+||p34jlpj5fi.execute-api.ap-northeast-2.amazonaws.com^$important
+||9zr3husnr2.execute-api.ap-northeast-2.amazonaws.com^$important
+||vnvsat3zh0.execute-api.ap-northeast-2.amazonaws.com^$important
+
+
 
 # Common Function Sites 일반적 동작에 필요한 싸이트들을 집어넣습니다.
 @@||ntp.org^
