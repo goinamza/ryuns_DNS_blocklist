@@ -4,3 +4,4 @@
 ||dpdns.org^
 ||vipren.biz.id^
 ||iqiyi.com^
+||iq.com^
