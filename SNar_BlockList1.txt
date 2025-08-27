@@ -817,7 +817,10 @@ orbi.kr
 @@||hetzner.com^
 # 다정Books
 @@||dajeongbooks.com^
-
+# 영어듣기 관련
+@@||ne2.us^
+## 듣기평가 음성스트리밍 사이트 아맞다
+@@||amatda.com^$important
 # 시대인재 관련
 @@||sdij.com^
 @@||sdijon.com.service2.gscdn.net^$important
@@ -854,6 +857,10 @@ orbi.kr
 @@||qube.maisco.kr^$important
 @@||file-megastudy.cache.onscdn.co.kr^$important
 @@||imgs-megastudy.cache.onscdn.co.kr^$important
+@@||russeldata-megastudy.cache.onscdn.co.kr^
+
+
+
 
 
 
