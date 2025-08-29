@@ -496,6 +496,9 @@
 @@||mdl.aquan.class.orbi.kr.cdnga.net^$important
 @@||class.orbi.kr^
 @@||login.orbi.kr^
+@@||xcdn.kollus.com.bplslb.com^$important
+@@||wildcard-ucdn-kollus.cache.onscdn.co.kr^$important
+@@||class-dev.orbi.kr^$important
 orbi.kr
 ||s3-play.orbi.kr^$important
 ||play.orbi.kr$important
