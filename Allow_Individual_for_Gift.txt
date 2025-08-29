@@ -13,12 +13,12 @@
 @@||cafe.upphoto.naver.com^$client='192.168.21.121'
 @@||cafe.upphoto.naver.com.nheos.com^$client='192.168.21.121'
 #김원준 드롭박스 요청 허용했습니다.
-@@||dropbox.com^$client='192.168.21.234'
-@@||dropboxapi.com^$client='192.168.21.234'
-@@||dropbox-dns.com^$client='192.168.21.234'
-@@||162.125.84.19^$client='192.168.21.234'
-@@||142.250.206.202^$client='192.168.21.234'
-@@||172.217.161.234^$client='192.168.21.234'
+@@||dropbox.com^$client='192.168.21.121'
+@@||dropboxapi.com^$client='192.168.21.121'
+@@||dropbox-dns.com^$client='192.168.21.121'
+@@||162.125.84.19^$client='192.168.21.121'
+@@||142.250.206.202^$client='192.168.21.121'
+@@||172.217.161.234^$client='192.168.21.121'
 
 #### 아버지가 편찮으시면 연락을 합니다. 21.128
 @@||*courier.push.apple.com^$client='192.168.21.128'
