@@ -470,6 +470,7 @@ reasonsecurity
 ### Samsung ###
 ||samsungapps.com^
 ||galaxy.store^
+||play.samsungcloud.com^
 
 
 ### News ###
