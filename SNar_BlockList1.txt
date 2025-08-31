@@ -1955,6 +1955,9 @@ orbi.kr
 @@||knou.ac.kr^
 @@||karts.ac.kr^
 
+#### 대학, 공공기관 메일은 안됨 ㅋㅋ
+||mail.seoul.go.kr^$important
+||mail.cnu.ac.kr^$important
 
 
 ##### Etc. 기타 분류하기 애매하거나 잘 모르는 것들은 여기에 놓았는데 확인이 되면 다른 곳으로 옮겨도 됩니다. ###############
