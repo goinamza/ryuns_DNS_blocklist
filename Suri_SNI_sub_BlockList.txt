@@ -609,6 +609,8 @@ reasonsecurity
 ||xiaomi.net^
 ||taobao.com^
 ||iqiyi.com^
+||iqiyipic.com^
+||qy.net^
 
 #### Global Site BlockList ###
 ||search.brave.com^
