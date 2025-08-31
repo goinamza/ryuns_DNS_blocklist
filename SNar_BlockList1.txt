@@ -2026,7 +2026,8 @@ orbi.kr
 # 날씨
 @@||us-west-api.openweathermap.org^$important
 
-
+## 축구 노노
+||premierleague-static-files.s3.us-east-1.amazonaws.com^$important
 
 ############### 분류가 필요한 것들 #############
 
