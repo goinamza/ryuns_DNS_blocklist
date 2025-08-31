@@ -663,7 +663,8 @@ reasonsecurity
 ||webcrawler.com^
 ||metacrawler.com^
 ||terabox.com^
-
+||dropbox.com^
+||dropboxapi.com^
 
 ### Etc
 ||fomos.kr^
