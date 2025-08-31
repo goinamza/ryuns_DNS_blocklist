@@ -527,6 +527,7 @@ reasonsecurity
 ||danawa.com^
 ||lazada.sg^
 ||bunjang.co.kr^
+||musinsa.com^
 
 ### Game ####
 ||gamemeca.com^
