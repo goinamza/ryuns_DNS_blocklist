@@ -101,7 +101,7 @@
 ||w6wgmwa4bd.execute-api.us-east-1.amazonaws.com^$important
 ||e105l6mnx3.execute-api.eu-west-3.amazonaws.com^$important
 ||sd3n0344di.execute-api.eu-west-3.amazonaws.com^$important
-# 24.132 자꾸 짜증나게 나옴. 이거 막는다.
+# 24.132 자꾸 짜증나게 나옴. 이거 막는다(25/08/16
 ||6bu347tn3k.execute-api.ap-northeast-2.amazonaws.com^$important
 ||6h0j2uvxah.execute-api.ap-northeast-2.amazonaws.com^$important
 ||deu1pfs6di.execute-api.ap-northeast-2.amazonaws.com^$important
@@ -110,6 +110,7 @@
 ||p34jlpj5fi.execute-api.ap-northeast-2.amazonaws.com^$important
 ||9zr3husnr2.execute-api.ap-northeast-2.amazonaws.com^$important
 ||vnvsat3zh0.execute-api.ap-northeast-2.amazonaws.com^$important
+||stwr8uaga2.execute-api.ap-northeast-2.amazonaws.com^$important
 
 
 
