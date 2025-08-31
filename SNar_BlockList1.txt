@@ -317,6 +317,7 @@
 @@||crl.pki.goog^$important
 @@||symcd.com^$important
 @@||symcb.com^$important
+@@||ocsp.r2m02.amazontrust.com^$important
 
 
 
