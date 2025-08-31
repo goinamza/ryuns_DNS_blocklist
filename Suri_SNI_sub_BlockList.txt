@@ -547,6 +547,8 @@ reasonsecurity
 ||unity3d.com^
 ||battle.net^
 ||bluestacks.com^
+||samsung-gamelauncher.com^
+||gameplayapi.intel.com^
 
 ### Potal Sites ###
 ||msn.com^
