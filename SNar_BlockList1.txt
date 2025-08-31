@@ -2021,6 +2021,8 @@ orbi.kr
 ||footprintdns.com^
 ||criteo.com^$important
 ||patopi.com^$important
+||dropbox.com^
+||dropboxapi.com^
 
 #기상청 허용
 @@||weather.go.kr^
