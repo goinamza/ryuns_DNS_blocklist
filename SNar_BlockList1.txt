@@ -209,6 +209,8 @@
 @@||trace.cjlogistics.com^
 @@||net.slx.co.kr^
 @@||ilogen.com^
+### 일부 앱에서 graph.facebook.com 을 호출하는데 일단 풀어줌
+@@||graph.facebook.com^
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
