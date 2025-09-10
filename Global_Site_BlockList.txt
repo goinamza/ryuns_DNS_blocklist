@@ -137,12 +137,57 @@ static.melon.co.kr
 ||premierleague-static-files.s3.us-east-1.amazonaws.com^$important
 #나무위키
 ||namu.wiki^
-#동아일보, 한경 등
+#동아일보, 한경 등 뉴스
 ||donga.com^
 ||hankyung.com^
 ||ajunews.com^
+||financemedia.co.kr^
+||mk.co.kr^
+||swtvnews.com^
+||idaegu.com^
+||dailian.co.kr^
 #토렌트 차단
 /torrent/
+#검색기능
+||lifestudy.co.kr^
+||itset.co^
+||datamoa.net^
+||keetip.com^
+||lettercounter.net^
+||savetip.co.kr^
+||corensi.co.kr^
+||imyfone.com^
+||infomanual.net^
+||toptip.co.kr^
+||rollingseed.com^
+||wemoneywise.com^
+||savetip.co.kr^
+||fiscalcode.com^
+||pinterest.com^
+||solo.to^
+||datamoa.net^
+||jbmon.co.kr^
+||lawtalk.co.kr^
+||cafe24.com^
+||theqoo.net^
+# 비디오 컨버터
+||videoproc.com^
+#게임
+||steamcommunity.com^
+#쇼핑
+||homeplus.co.kr^
+||joongna.com^
+||lifeanddogue.com^
+||coupang.com^
+||ssg.com^
+#운수
+||uslogis.co.kr^
+#종교
+||paengryontemple.or.kr^
+#회사
+||netlify.app^
+||teamblind.com^
+||play.sejong.ac.kr^
 
 
 
