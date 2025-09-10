@@ -137,7 +137,8 @@ static.melon.co.kr
 ||premierleague-static-files.s3.us-east-1.amazonaws.com^$important
 #나무위키
 ||namu.wiki^
-
+#동아일보, 한경 등
+||donga.com^
 
 
 
