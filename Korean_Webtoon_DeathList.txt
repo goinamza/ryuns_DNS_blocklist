@@ -215,8 +215,6 @@
 ||nets.eu^
 ||bitpunk.one^
 ||foamgirl.net^
-||donga.com^
-||hankyung.com^
 ||marginfan.com^
 ||blockmedia.co.kr^
 ||baraag.net^
