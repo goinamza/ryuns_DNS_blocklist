@@ -139,7 +139,9 @@ static.melon.co.kr
 ||namu.wiki^
 #동아일보, 한경 등
 ||donga.com^
-
+||hankyung.com^
+#토렌트 차단
+/torrent/
 
 
 
