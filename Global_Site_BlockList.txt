@@ -140,6 +140,7 @@ static.melon.co.kr
 #동아일보, 한경 등
 ||donga.com^
 ||hankyung.com^
+||ajunews.com^
 #토렌트 차단
 /torrent/
 
