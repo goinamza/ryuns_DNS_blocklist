@@ -34,7 +34,6 @@
 /webtoon/
 ||lsrank.com^
 ||navy-apple.com^
-||namu.wiki^
 ||gflix.kr^
 ||infomanual.net^
 ||web-to-on.net^
