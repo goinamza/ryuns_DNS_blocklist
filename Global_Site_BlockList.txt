@@ -135,7 +135,8 @@ static.melon.co.kr
 ||whatsapp.net^
 # 프리미어리그를 왜봐
 ||premierleague-static-files.s3.us-east-1.amazonaws.com^$important
-
+#나무위키
+||namu.wiki^
 
 
 
