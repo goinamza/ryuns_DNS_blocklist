@@ -363,7 +363,6 @@
 ||dangtoon*.com^
 ||freetoon*.com^
 ||torrentgirl*.com^
-/torrent/
 ||noritermoa.com^
 ||xn--h32bi4v20h.com^
 ||totodomain*.com^
