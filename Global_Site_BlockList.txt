@@ -170,6 +170,8 @@ static.melon.co.kr
 ||lawtalk.co.kr^
 ||cafe24.com^
 ||theqoo.net^
+||seasonmanual.com^
+||dailymotion.com^
 # 비디오 컨버터
 ||videoproc.com^
 #게임
@@ -182,12 +184,13 @@ static.melon.co.kr
 ||ssg.com^
 #운수
 ||uslogis.co.kr^
+||yango.com^
 #종교
 ||paengryontemple.or.kr^
 #회사
 ||netlify.app^
 ||teamblind.com^
 ||play.sejong.ac.kr^
-
+||sunjinvr.co.kr^
 
 
