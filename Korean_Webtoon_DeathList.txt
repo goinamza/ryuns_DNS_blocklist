@@ -90,16 +90,11 @@
 ||nscakorea.or.kr^
 ||klog.kr^
 ||cookmana.com^
-||seasonmanual.com^
-||yango.com^
-||toudental.com^
-||sunjinvr.co.kr^
 ||linksesang.net^
 ||audiocomics.kr^
 /comics/
 ||dongast.co.kr^
 ||hotjuso.com^
-||seoulrio.com^
 ||mcomics.co.kr^
 ||blitz.gg^
 ||kimsungmo.com^
@@ -111,7 +106,6 @@
 ||sunwiya.com^
 ||linksch*.com^
 ||webtoonguide.com^
-||dailymotion.com^
 ||jusomania.com^
 ||starnpoem.com^
 ||yesfile.com^
