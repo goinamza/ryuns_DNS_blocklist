@@ -843,13 +843,14 @@ orbi.kr
 @@||hiconsysvc.com^
 # 모의고사 채점 싸이트
 @@||hdmo.store^
+@@||netlify.app^
 ##수시기간 원서접수 사이트
 @@||uwayapply.com^
 @@||jinhak.com^
 @@||jinhakapply.com^
 @@||neis.go.kr^
 @@||neis.sen.go.kr^
-@@||netlify.app^
+
 
 
 
