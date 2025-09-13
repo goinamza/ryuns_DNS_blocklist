@@ -211,6 +211,9 @@
 @@||ilogen.com^
 ### 일부 앱에서 graph.facebook.com 을 호출하는데 일단 풀어줌
 @@||graph.facebook.com^
+### Adobe 폰트 관련 도메인
+@@||typekit.net^
+
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
@@ -838,6 +841,17 @@ orbi.kr
 @@||sdijc.com^
 @@||hds-image.hiconsysvc.com^$important
 @@||hiconsysvc.com^
+# 모의고사 채점 싸이트
+@@||hdmo.store^
+##수시기간 원서접수 사이트
+@@||uwayapply.com^
+@@||jinhak.com^
+@@||jinhakapply.com^
+@@||neis.go.kr^
+@@||neis.sen.go.kr^
+@@||netlify.app^
+
+
 
 # 메가스터디 관련 
 @@||megals.co.kr^
