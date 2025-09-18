@@ -1017,7 +1017,7 @@ orbi.kr
 ||developer.android.com^$important
 # 일부 이감 모의고사 같은 앱들이 인터넷 연결 확인용으로 play.google.com 을 사용함. 이것만 풀어주는 경우에는 스토어 어차피 못함. 고로 풀어줌.
 @@||play.google.com^
-||play.googleapis.com^
+||play.googleapis.com^$important
 ||gameswhitelisted.googleapis.com^$important
 ||play-fe.googleapis.com^$important
 ||playstoregatewayadapter-pa.googleapis.com^$important
