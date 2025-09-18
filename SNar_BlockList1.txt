@@ -959,7 +959,6 @@ orbi.kr
 ||alt4-mtalk.google.com^$important
 ||alt5-mtalk.google.com^$important
 ||alt6-mtalk.google.com^$important
-||play-fe.googleapis.com^$important
 ||alt8-mtalk.google.com^$important
 ||alt7-mtalk.google.com^$important
 @@||android.clients.google.com^$important
