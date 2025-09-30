@@ -681,7 +681,6 @@ orbi.kr
 @@||vocatrain.co.kr^
 @@||clabvoca.net^
 @@||imath.tv^
-@@||dsdo.co.kr^
 @@||kydi.co.kr^
 @@||kihoedu.com^
 @@||science.org^
@@ -2050,7 +2049,12 @@ orbi.kr
 @@||www.kma.go.kr.xcache.kinxcdn.com^
 # 날씨
 @@||us-west-api.openweathermap.org^$important
-
+##더프
+@@||dsdo.co.kr^$important
+@@||shopby-skin.cdn-nhncommerce.com^$important
+@@||rlgkd0v7e.toastcdn.net^$important
+@@||shop-api.e-ncp.com^$important
+@@||cdn-nhncommerce.com^$important
 ## 축구 노노
 ||premierleague-static-files.s3.us-east-1.amazonaws.com^$important
 
