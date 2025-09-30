@@ -205,7 +205,8 @@ reasonsecurity
 ### (29.118)
 ||sd3n0344di.execute-api.eu-west-3.amazonaws.com^$important
 ||abuijx.launches.appsflyersdk.com^$important
-
+### Bad (2025.09.19)
+||njdiuw-skadsdkless.appsflyersdk.com^$important
 
 ### Google 우회 관련 ###
 ||dns.google.com^
@@ -550,6 +551,7 @@ reasonsecurity
 ||bluestacks.com^
 ||samsung-gamelauncher.com^
 ||gameplayapi.intel.com^
+||supercell.com^
 
 ### Potal Sites ###
 ||msn.com^
@@ -583,6 +585,7 @@ reasonsecurity
 ||zoom.com^
 ||camcdn.tgclab.com^
 ||skype.com^
+||savefrom.net^
 
 ### Sports, Wiki, Entertainment, Hobby, Travel ###
 ||nba.com^
