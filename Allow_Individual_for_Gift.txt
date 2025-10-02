@@ -1,5 +1,5 @@
 ##### Special Pass~~~ #####
-# 김원준은 공부를 열심히 합니다. 네이버 카페 열기
+# 김원준은 공부를 열심히 합니다. 네이버 카페 열기 10월2일 차단요청함
 #@@||cafe.naver.com^$client='192.168.21.121'
 #@@||cafe.naver.com.nheos.com^$client='192.168.21.121'
 #@@||scv-cafe.io.naver.com^$client='192.168.21.121'
