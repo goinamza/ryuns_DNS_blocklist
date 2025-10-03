@@ -38,22 +38,6 @@
 @@||cafe.upphoto.naver.com^$client='192.168.26.121'
 @@||cafe.upphoto.naver.com.nheos.com^$client='192.168.26.121'
 
-#네이버 사전 이미지
-# phinf.pstatic.net (본문/썸네일 이미지)
-116.125.0.0/16
-113.110.0.0/16
-110.5.0.0/16
-
-# ssl.pstatic.net, static-like, feedback 등 정적 CDN
-61.247.192.0/18
-43.250.152.0/24
-1.227.196.0/24
-125.209.226.0/24
-1.255.62.0/24
-
-# terms.naver.com 본문/like 서버
-210.89.168.0/24
-202.179.180.0/24
 
 #유튜브를 풀어줄 땐!
 ##@@||youtube.com^$client='192.168.16.25'
