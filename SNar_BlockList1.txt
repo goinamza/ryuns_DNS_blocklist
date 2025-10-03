@@ -410,8 +410,8 @@
 ||video-phinf.pstatic.net^$important
 ||storep-phinf.pstatic.net^$important
 ||resources-rmcnmv.pstatic.net^$important
-||dthumb-phinf.pstatic.net^$important
-||dthumb-phinf.pstatic.net^$important
+@@||dthumb-phinf.pstatic.net^$important
+@@||dthumb-phinf.pstatic.net^$important
 ||b01-kr-naver-vod.pstatic.net^$important
 ||shopping-phinf.pstatic.net^$important
 ||shop-phinf.pstatic.net^$important
