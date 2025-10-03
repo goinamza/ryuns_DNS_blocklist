@@ -2060,7 +2060,27 @@ orbi.kr
 
 ############### 분류가 필요한 것들 #############
 
-
+@@||*.pstatic.net^$important
+@@||*.phinf.naver.net^$important
+@@||*.navercdn.com^$important
+@@||dthumb-phinf.pstatic.net^$important
+@@||dbscthumb-phinf.pstatic.net^$important
+@@||dbscthumb.phinf.naver.net^$important
+@@||dic-phinf.pstatic.net^$important
+@@||bookthumb-phinf.pstatic.net^$important
+@@||postfiles.pstatic.net^$important
+@@||mblogthumb-phinf.pstatic.net^$important
+@@||ssl.pstatic.net^$important
+@@||s.pstatic.net^$important
+@@||search.pstatic.net^$important
+@@||sstatic-g.rmcnmv.naver.net^$important
+@@||s2.e.navercdn.com^$important
+@@||static-like.pstatic.net^$important
+@@||static-feedback.pstatic.net^$important
+@@||static-audiop.pstatic.net^$important
+@@||static.nid.naver.com^$important
+@@||common.like.naver.com^$important
+@@||route-like.naver.com^$important
 
 
 
