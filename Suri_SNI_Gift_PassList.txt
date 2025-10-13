@@ -1,15 +1,15 @@
 ### Show 를 위한 특별 pass
-#192.168.21.121
-#cafe.naver.com
-#apis.cafe.naver.com
-#m.cafe.naver.com
-#article.cafe.naver.com
-#subscriptionapi.cafe.naver.com
-#ipada.cafe.naver.com
-#bff.cafe.naver.com
-#golda.cafe.naver.com
-#cafe.upphoto.naver.com
-#camp-report.naver.com
+192.168.21.121
+cafe.naver.com
+apis.cafe.naver.com
+m.cafe.naver.com
+article.cafe.naver.com
+subscriptionapi.cafe.naver.com
+ipada.cafe.naver.com
+bff.cafe.naver.com
+golda.cafe.naver.com
+cafe.upphoto.naver.com
+camp-report.naver.com
 
 ### 노혁이가 각서를 썼으니 네이버카페
 192.168.26.121
