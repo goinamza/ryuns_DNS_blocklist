@@ -7,3 +7,6 @@
 ||iq.com^
 ||iqiyipic.com^
 ||qy.net^
+||qpyou.cn^
+||com2us.net^
+||kream.co.kr^
