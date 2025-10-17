@@ -1,6 +1,8 @@
 # 여기서는 주로 차단 위주의 정책들을 입력합니다. Akamai 계열은 완전 풀어놓았습니다. 메인은 풀고 세부를 막아야 합니다. important를 잘 쓰면 됩니다. 
 
 ##### Bad Sites ######
+||qpyou.cn^$important
+||com2us.net^$important
 /tiktok/$important
 ||*.tiktokv.com^$important
 ||tiktokv.com^$important
