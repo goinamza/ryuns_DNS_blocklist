@@ -530,6 +530,7 @@ reasonsecurity
 ||lazada.sg^
 ||bunjang.co.kr^
 ||musinsa.com^
+||kream.co.kr^
 
 ### Game ####
 ||gamemeca.com^
@@ -552,6 +553,7 @@ reasonsecurity
 ||samsung-gamelauncher.com^
 ||gameplayapi.intel.com^
 ||supercell.com^
+||com2us.net^
 
 ### Potal Sites ###
 ||msn.com^
@@ -586,6 +588,7 @@ reasonsecurity
 ||camcdn.tgclab.com^
 ||skype.com^
 ||savefrom.net^
+||onzoom.com^
 
 ### Sports, Wiki, Entertainment, Hobby, Travel ###
 ||nba.com^
@@ -618,6 +621,9 @@ reasonsecurity
 ||iqiyi.com^
 ||iqiyipic.com^
 ||qy.net^
+||qpyou.cn^
+/pglstatp.com/
+||miui.com^
 
 #### Global Site BlockList ###
 ||search.brave.com^
