@@ -273,6 +273,7 @@ reasonsecurity
 ||nlog.naver.com^
 ||blog.naver.com^
 ||search.naver.com^
+||api-talks.naver.com^
 ||band.us^
 ||line.me^
 ||lcs.naver.com^$important
