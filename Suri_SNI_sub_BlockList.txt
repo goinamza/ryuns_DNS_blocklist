@@ -589,7 +589,6 @@ reasonsecurity
 ||camcdn.tgclab.com^
 ||skype.com^
 ||savefrom.net^
-||onzoom.com^
 
 ### Sports, Wiki, Entertainment, Hobby, Travel ###
 ||nba.com^
