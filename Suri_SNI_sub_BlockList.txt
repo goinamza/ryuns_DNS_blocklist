@@ -555,6 +555,7 @@ reasonsecurity
 ||gameplayapi.intel.com^
 ||supercell.com^
 ||com2us.net^
+||gamepass.com^
 
 ### Potal Sites ###
 ||msn.com^
