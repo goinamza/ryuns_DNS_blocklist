@@ -276,9 +276,6 @@ reasonsecurity
 ||api-talks.naver.com^
 ||band.us^
 ||line.me^
-||lcs.naver.com^$important
-||cc.naver.com^$important
-||kr1-cc.naver.com.nfront.nheos.com^$important
 ||tivan.naver.com^$important
 ||safebrowsing.naver.com^$important
 ||livecloud-slit.pstatic.net^$important
