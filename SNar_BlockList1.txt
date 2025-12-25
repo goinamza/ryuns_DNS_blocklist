@@ -386,7 +386,7 @@
 @@||int-ncloudgtm.com^
 @@||naverncp.com^
 # 사용자 데이터 네이버 분석 노노(하지만 네이버가 저걸 허용 안하면 리디렉션 안되게 막아놓아서 어쩔 수 없어짐 ㅠㅠ)
-||lcs.naver.com^$important
+@@||lcs.naver.com^
 @@||cc.naver.com^
 @@||kr1-cc.naver.com.nfront.nheos.com^
 @@||cc.naver.com^
