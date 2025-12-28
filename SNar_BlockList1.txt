@@ -323,6 +323,7 @@
 @@||symcd.com^$important
 @@||symcb.com^$important
 @@||ocsp.r2m02.amazontrust.com^$important
+@@||ocsp.digicert.com.cdn.cloudflare.net^$important
 
 
 
@@ -851,7 +852,8 @@ orbi.kr
 @@||neis.sen.go.kr^
 ## 이감모의고사
 @@||yimo.co.kr^
-
+## 고3이과
+@@||www.gosamigwa.kr^
 
 # 메가스터디 관련 
 @@||megals.co.kr^
@@ -879,6 +881,7 @@ orbi.kr
 @@||file-megastudy.cache.onscdn.co.kr^$important
 @@||imgs-megastudy.cache.onscdn.co.kr^$important
 @@||russeldata-megastudy.cache.onscdn.co.kr^
+@@||viccoach.web.app^
 
 
 
