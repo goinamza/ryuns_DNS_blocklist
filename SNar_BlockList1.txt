@@ -882,7 +882,7 @@ orbi.kr
 @@||imgs-megastudy.cache.onscdn.co.kr^$important
 @@||russeldata-megastudy.cache.onscdn.co.kr^
 @@||viccoach.web.app^
-
+@@||us-central1-viccoach.cloudfunctions.net^
 
 
 
