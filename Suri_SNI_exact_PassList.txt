@@ -10,3 +10,4 @@ api.channel.io
 secure.gravatar.com
 cdn.channel.io
 t1.daumcdn.net
+channel.io
