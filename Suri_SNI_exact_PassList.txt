@@ -5,3 +5,4 @@ scontent.xx.fbcdn.net
 scontent.fallback.xx.fbcdn.net
 msgstore.www.notion.so
 front-ws.channel.io
+vz-bf240736-287.b-cdn.net
