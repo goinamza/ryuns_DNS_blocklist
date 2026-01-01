@@ -4,7 +4,6 @@ www.naver.com
 naver.com
 www.daum.net
 daum.net
-www.google.com
 www.google.co.kr
 www.google.cn
 www.google.ru
