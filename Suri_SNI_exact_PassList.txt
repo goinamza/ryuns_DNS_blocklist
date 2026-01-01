@@ -9,3 +9,4 @@ vz-bf240736-287.b-cdn.net
 api.channel.io
 secure.gravatar.com
 cdn.channel.io
+t1.daumcdn.net
