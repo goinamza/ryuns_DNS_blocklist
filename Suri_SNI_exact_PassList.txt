@@ -8,3 +8,4 @@ front-ws.channel.io
 vz-bf240736-287.b-cdn.net
 api.channel.io
 secure.gravatar.com
+cdn.channel.io
