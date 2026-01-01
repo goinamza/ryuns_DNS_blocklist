@@ -12,3 +12,6 @@ cdn.channel.io
 t1.daumcdn.net
 channel.io
 b-cdn.net
+d3lbe8snoo32em.cloudfront.net
+s3-r-w.ap-northeast-2.amazonaws.com
+skimmify-data.s3.ap-northeast-2.amazonaws.com
