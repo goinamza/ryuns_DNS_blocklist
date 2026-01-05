@@ -2085,6 +2085,21 @@ orbi.kr
 @@||thumbnail.jpg^$important
 @@||b-cdn.net^$important
 @@||79.127.242.0/23^$important
+### 플레이앤플레이 (더 파봐야함)
+@@||playnplay.com^$important
+@@||onecs-live.azureedge.net^$important
+@@||msftauth.net^$important
+@@||mem.gfx.ms^$important
+@@||c.s-microsoft.com^$important
+@@||login.microsoftonline.com^$important
+@@||api.intelsa.intel.com^$important
+@@||eastasia-0.in.applicationinsights.azure.com^$important
+@@||lgincdnmsftuswe2.azureedge.net^$important
+@@||acctcdnmsftuswe2.azureedge.net^$important
+@@||assets.adobedtm.com^$important
+@@||msauth.net^$important
+@@||3.168.167.26^$important
+@@||playnplay-service.js^$important
 ############### 분류가 필요한 것들 #############
 
 
