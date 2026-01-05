@@ -14,7 +14,7 @@ d666f86f356cbbfe4c7a7f3ca686bc3e
 # Surfshark VPN JA3
 # 3b5074b1b5d032e5620f69f9f700ff0e # 대성마이맥 playnplay 에서 씀
 #Surfshark Cloudfront JA3
-871a754af286dfb70c1b53c6887c62e0
+# 871a754af286dfb70c1b53c6887c62e0 # Fingerprint 바뀐 듯 함 일단 허용
 
 # UltraSurf VPN JA3
 876f0a9528e72e4654eedacbc76f6761
