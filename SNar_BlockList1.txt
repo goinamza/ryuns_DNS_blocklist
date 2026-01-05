@@ -1016,10 +1016,10 @@ orbi.kr
 ||firebaseinappmessaging.googleapis.com^$important
 ||firebaseappcheck.googleapis.com^$important
 @@||firestore.googleapis.com^$important
-||nearbydevices-pa.googleapis.com^$important
+@@||nearbydevices-pa.googleapis.com^
 ||searchnotifications-pa.googleapis.com^$important
 ||xgapromomanager-pa.googleapis.com^$important
-||geller-pa.googleapis.com^$important
+@@||geller-pa.googleapis.com^
 ||searchlabspartnerservice-pa.googleapis.com^$important
 ||chromewebstore.googleapis.com^$important
 ||waa-pa.clients6.google.com^$important
