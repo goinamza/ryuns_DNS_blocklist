@@ -2075,7 +2075,16 @@ orbi.kr
 @@||cdn-nhncommerce.com^$important
 ## 축구 노노
 ||premierleague-static-files.s3.us-east-1.amazonaws.com^$important
-
+##에브리데이매쓰
+@@||everydaymath.kr^$important
+@@||vz-bf240736-287.b-cdn.net^$important
+@@||o249840.ingest.sentry.io^$important
+@@||secure.gravatar.com^$important
+@@||141.164.35.160^$important
+@@||183.199.40.0/23^$important
+@@||thumbnail.jpg^$important
+@@||b-cdn.net^$important
+@@||79.127.242.0/23^$important
 ############### 분류가 필요한 것들 #############
 
 
