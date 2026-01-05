@@ -214,7 +214,6 @@
 ### Adobe 폰트 관련 도메인
 @@||typekit.net^
 
-
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
 
@@ -427,6 +426,9 @@
 ||glad-vod.pstatic.net.stream.gscdn.net^$important
 ||b01-kr-naver-vod.pstatic.net.topo.gscdn.net^$important
 ||a01-g-naver-vod.akamaized.net^$important
+### 네이버 CDN
+@@||adam.cdn.toastoven.net^$important
+
 
 
 # 연관 akamai 계열 (분류 필요함)
@@ -854,6 +856,13 @@ orbi.kr
 @@||yimo.co.kr^
 ## 고3이과
 @@||www.gosamigwa.kr^
+### Neis 계산기 등 기능 dev
+@@||devcomma.com^$important
+### 단끝
+@@||vocaending.co.kr^$important
+
+
+
 
 # 메가스터디 관련 
 @@||megals.co.kr^
@@ -1136,6 +1145,12 @@ orbi.kr
 ||skydrive.wns.windows.com^
 ||onedrive.live.com^
 ||copilot.microsoft.com^$important
+### Azure 의 cdn
+@@||edge-consumer-static.azureedge.net^$important
+### msn 의 NTP
+@@||ntp.msn.com^$important
+
+
 
 # Adobe Services
 @@||adobe.io^$important
