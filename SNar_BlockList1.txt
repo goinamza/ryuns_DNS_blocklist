@@ -2100,6 +2100,17 @@ orbi.kr
 @@||msauth.net^$important
 @@||3.168.167.26^$important
 @@||playnplay-service.js^$important
+##토단정
+@@||skimmify.com^$important
+@@||appsflyersdk.com^$important
+@@||o712ix.conversions.appsflyersdk.com^$important
+@@||kd6der.launches.appsflyersdk.com^$important
+@@||api2.amplitude.com^$important
+@@||d3lbe8snoo32em.cloudfront.net^$important
+@@||browser-intake-datadoghq.com^$important
+@@||firebase-settings.crashlytics.com^$important
+@@||us-central1-viccoach.cloudfunctions.net^$important
+@@||99.84.230.0/23^$important
 ############### 분류가 필요한 것들 #############
 
 
