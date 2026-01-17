@@ -10,3 +10,7 @@
 ||qpyou.cn^
 ||com2us.net^
 ||kream.co.kr^
+||avast.com^
+||vpngate2.jp^
+||www.amazon.com^
+||www.youtube.com^
