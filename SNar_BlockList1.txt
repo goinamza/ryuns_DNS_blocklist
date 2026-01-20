@@ -757,6 +757,10 @@ orbi.kr
 @@||dbpia.co.kr^$important
 # Orzo 관련 giyoung
 @@||orzo.kr^
+@@||orzo.framer.website^
+@@||framer.com^
+@@||framerusercontent.com^
+@@||app.framerstatic.com^
 @@||giyoung-api-gateway-9s6qpjg4.an.gateway.dev^$important
 @@||giyoung.firebaseapp.com^$important
 @@||asia-northeast3-giyoung.cloudfunctions.net^$important
