@@ -650,7 +650,8 @@ orbi.kr
 @@||kice.re.kr^
 @@||correctchemistry.com^
 @@||riss.kr^
-@@||mae3.com^
+### 키출판사
+@@||mae3.com^$important
 @@||extremechem.com^
 @@||vclock.kr^
 @@||seoul.go.kr^
@@ -744,7 +745,6 @@ orbi.kr
 @@||kimstudy.blob.core.windows.net^$important
 @@||edusherpa.kr^
 @@||edujin.co.kr^
-@@||toptutor.co.kr^
 @@||ksredu.com^
 @@||suneungcalc.com^$important
 @@||eonedu.co.kr^$important
@@ -860,7 +860,10 @@ orbi.kr
 @@||devcomma.com^$important
 ### 단끝
 @@||vocaending.co.kr^$important
-
+##마더텅
+@@||toptutor.co.kr^$important
+## 듀오링고
+@@||www.duolingo.com^$important
 
 
 
@@ -892,7 +895,8 @@ orbi.kr
 @@||russeldata-megastudy.cache.onscdn.co.kr^
 @@||viccoach.web.app^
 @@||us-central1-viccoach.cloudfunctions.net^
-
+### 메가스터디 AI
+@@||megastudy.allthatai.io^$important
 
 
 
