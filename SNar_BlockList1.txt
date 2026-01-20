@@ -191,8 +191,9 @@
 @@||onedscolprdwus19.westus.cloudapp.azure.com^$important
 # 날씨 앱
 @@||nalssinalssi.com^
-# 한컴 업데이트
+# 한컴, 한컴독스
 @@||update.hancom.com^$important
+@@||hancomdocs.com^
 # Flag Streaming 관련
 @@||launchdarkly.com^
 #  AzureEdge
@@ -829,6 +830,7 @@ orbi.kr
 @@||hetzner.com^
 # 다정Books
 @@||dajeongbooks.com^
+@@||bubble.io^$important
 # 영어듣기 관련
 @@||ne2.us^
 ## 듣기평가 음성스트리밍 사이트 아맞다
@@ -864,6 +866,16 @@ orbi.kr
 @@||toptutor.co.kr^$important
 ## 듀오링고
 @@||www.duolingo.com^$important
+###김병기 보충
+@@||keytokey.co.kr^$important
+###범작가
+@@||beomjaka.com^$important
+## 윤스, 윤도영에듀
+@@||yoon-s.com^$important
+##리로스쿨
+@@||riroschool.kr^$important
+
+
 
 
 
@@ -1055,6 +1067,7 @@ orbi.kr
 ||fcm.googleapis.com^$important
 # 구글독스 풀어줌
 @@||docs.google.com^
+@@||doc-08-1k-docstext.googleusercontent.com^
 # 구글 자동완성 차단
 ||growth-pa.googleapis.com^$important
 # 구글 이미지 썸네일 등 사진 추천 차단
