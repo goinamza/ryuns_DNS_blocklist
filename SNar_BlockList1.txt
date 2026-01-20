@@ -869,7 +869,7 @@ orbi.kr
 ##마더텅
 @@||toptutor.co.kr^$important
 ## 듀오링고
-@@||www.duolingo.com^$important
+@@||duolingo.com^$important
 ###김병기 보충
 @@||keytokey.co.kr^$important
 ###범작가
