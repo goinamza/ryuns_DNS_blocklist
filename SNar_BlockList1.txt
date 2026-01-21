@@ -2015,6 +2015,9 @@ orbi.kr
 ||mail.seoul.go.kr^$important
 ||mail.cnu.ac.kr^$important
 
+### 고등학교 홈페이지 전체 허용
+@@||*.hs.kr^
+
 
 ##### Etc. 기타 분류하기 애매하거나 잘 모르는 것들은 여기에 놓았는데 확인이 되면 다른 곳으로 옮겨도 됩니다. ###############
 @@||polka.typekit.com^$important
