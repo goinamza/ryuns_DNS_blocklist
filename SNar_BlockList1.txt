@@ -214,6 +214,10 @@
 @@||graph.facebook.com^
 ### Adobe 폰트 관련 도메인
 @@||typekit.net^
+### 날씨 관련
+@@||api.weather.com^$important
+@@||config.samsungweather.com^$important
+@@||api.weatherforecast.io^$important
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
@@ -880,7 +884,9 @@ orbi.kr
 @@||riroschool.kr^$important
 ## 온라인 심리검사 career4u
 @@||career4u.net^$important
-
+### Goodnote 관련
+@@||odr.ml-goodnotes.com^$important
+@@||api.goodnotes.email^$important
 
 
 
@@ -914,6 +920,8 @@ orbi.kr
 @@||us-central1-viccoach.cloudfunctions.net^
 ### 메가스터디 AI
 @@||megastudy.allthatai.io^$important
+### 메가스터디 미어캣 MDM 짜증나지만 풀어줌
+@@||megastudy.meerkatmdm.com^$important
 
 
 
