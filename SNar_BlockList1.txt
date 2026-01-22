@@ -1724,10 +1724,10 @@ orbi.kr
 @@||iswlocator.swu-apple.com.akadns.net^
 @@||ms11p01su-iswlocator.isu.swu-apple.com.akadns.net^
 
-## wps 와이파이정보 위치추적
-||wps.apple.com^$important
-||wps.v.aaplimg.com^$important
-||apse1-wps-prod.apple.com^$important
+## wps 와이파이정보 위치추적 인데 어차피 위치는 다 아니 그냥 알아서 하라고 하자.
+@@||wps.apple.com^$important
+@@||wps.v.aaplimg.com^$important
+@@||apse1-wps-prod.apple.com^$important
 
 # Apple 콘텐츠 전송 및 다운로드 시스템 (cds)
 @@||cds.apple.com^
@@ -1849,8 +1849,8 @@ orbi.kr
 ||iadsdk.apple.com.edgekey.net^$important
 ||e4805.dsca.akamaiedge.net^$important
 
-# 애플에 도움을 왜요청해?
-||help.apple.com^$important
+# 애플에 도움을 왜요청해? 해라.
+@@||help.apple.com^$important
 
 # 메모는 아이클라우드 메모 말고 다른 것도 많다.
 ||prod-event-relay-notes-api.v.aaplimg.com^$important
