@@ -887,6 +887,9 @@ orbi.kr
 ### Goodnote 관련
 @@||odr.ml-goodnotes.com^$important
 @@||api.goodnotes.email^$important
+### 자바실험실
+@@||javalab.org^$important
+
 
 
 
@@ -1806,6 +1809,11 @@ orbi.kr
 
 # icloud keyvalueservice 관련
 @@||*-keyvalueservice.icloud.com^
+
+# 애플 OS 등 정적 리소스 관련 도메인
+@@||sequoia.cdn-apple.com^$important
+# 애플 AI 가중치 리소스 관련 도메인
+@@||ml.cdn-apple.com^$important
 
 # Playgrounds (무슨 코딩인가 뭐시기? swift playgrounds)
 ||playgrounds-assets-cdn.apple.com^$important
