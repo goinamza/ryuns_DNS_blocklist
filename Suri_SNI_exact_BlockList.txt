@@ -7,7 +7,6 @@ daum.net
 www.google.co.kr
 www.google.cn
 www.google.ru
-google.com
 amazon.com
 lse.com
 
