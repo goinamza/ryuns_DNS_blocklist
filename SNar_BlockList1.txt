@@ -1089,6 +1089,8 @@ orbi.kr
 # 구글 이미지 썸네일 등 사진 추천 차단
 ||photosdata-pa.googleapis.com^$important
 ||photos.googleapis.com^$important
+# 구글 업데이트 다운로드
+@@||dl.google.com^$important
 
 ### 구글 우회 관련 ####
 ||dns.google.com^$important
