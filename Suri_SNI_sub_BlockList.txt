@@ -271,7 +271,6 @@ reasonsecurity
 ||comic.naver.com^
 ||chzzk.naver.com^
 ||nlog.naver.com^
-||blog.naver.com^
 ||search.naver.com^
 ||api-talks.naver.com^
 ||band.us^
