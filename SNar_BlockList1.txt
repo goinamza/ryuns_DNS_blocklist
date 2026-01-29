@@ -480,6 +480,9 @@
 @@||accounts-ec2avpvy.kgslb.com^
 @@||accounts.kakaocdn.net^
 @@||accounts-809yj20e.kgns1.com^
+## 카카오 로그인 관련
+@@||dkaptcha.kakao.com^$important
+@@||*.kgns3.com^
 #
 ||developers.kakao.com^$important
 @@||t1.kakaocdn.net^$important
