@@ -680,7 +680,7 @@ reasonsecurity
 ||theqoo.net^$important
 ||humoruniv.com^$important
 ||anilife.live^
-
+||anilife.app^
 
 #### Adult ####
 ||yeotop.org^
