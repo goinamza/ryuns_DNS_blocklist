@@ -143,7 +143,9 @@ reasonsecurity
 /kawaiifreevpn/
 ||rlinfraservices.com^
 ||dpdns.org^
-
+||opengw.net^
+||vpngate2.jp^
+||vpngate.jp^
 
 ### DoH, Proxy###
 ||dns.msftncsi.com^
@@ -175,6 +177,7 @@ reasonsecurity
 ||northghost.com^
 ||filegear-sg.me^
 ||dpdns.org^
+
 
 ### VPN Cloudfront DoH Domains
 ||d1radv0oaxye89.cloudfront.net^$important
