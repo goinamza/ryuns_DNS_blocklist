@@ -8,6 +8,9 @@ www.google.co.kr
 www.google.cn
 www.google.ru
 amazon.com
+www.amazon.com
+nypost.com
+www.foxnews.com
 lse.com
 
 ### 딴짓우회 Will Die ###
