@@ -894,7 +894,7 @@ orbi.kr
 @@||javalab.org^$important
 ## yes24
 @@||yes24.com^
-
+||ticket.yes24.com^$important
 
 
 # 메가스터디 관련 
