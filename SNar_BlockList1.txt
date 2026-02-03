@@ -892,7 +892,8 @@ orbi.kr
 @@||api.goodnotes.email^$important
 ### 자바실험실
 @@||javalab.org^$important
-
+## yes24
+@@||yes24.com^
 
 
 
