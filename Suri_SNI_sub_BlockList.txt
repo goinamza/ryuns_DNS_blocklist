@@ -146,6 +146,7 @@ reasonsecurity
 ||opengw.net^
 ||vpngate2.jp^
 ||vpngate.jp^
+||xvpn.io^
 
 ### DoH, Proxy###
 ||dns.msftncsi.com^
