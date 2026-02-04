@@ -895,7 +895,8 @@ orbi.kr
 ## yes24
 @@||yes24.com^
 ||ticket.yes24.com^$important
-
+## 나이스플러스
+@@||neisplus.kr^
 
 # 메가스터디 관련 
 @@||megals.co.kr^
