@@ -19,6 +19,7 @@
 
 # SN Academy
 @@||sn-timetable.web.app^
+@@||snargpt.ai^
 @@||snacademy.co.kr^
 @@||portal.snacademy.co.kr^
 @@||snacademy.direct.quickconnect.to^
@@ -897,6 +898,9 @@ orbi.kr
 ||ticket.yes24.com^$important
 ## 나이스플러스
 @@||neisplus.kr^
+## KISSENG
+@@||us-central1-kisseng-o58uhk.cloudfunctions.net^$important
+@@||asia-northeast3-kisseng-o58uhk.cloudfunctions.net^$important
 
 # 메가스터디 관련 
 @@||megals.co.kr^
