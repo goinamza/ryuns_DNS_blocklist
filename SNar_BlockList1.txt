@@ -1271,6 +1271,7 @@ orbi.kr
 @@||valid.origin-apple.com.akadns.net^$important
 @@||valid-apple.g.aaplimg.com^$important
 @@||ppq.apple.com^$important
+@@||jposa3.icloud-content.com^$important
 
 # 로그인은 해야됨
 @@||appleid.apple.com^$important
@@ -1428,7 +1429,7 @@ orbi.kr
 ||musicstatus-apac-n.edge-itunes-apple.com.akadns.net^$important
 ### 4 목적지
 ###@@||a2030.dscapi9.akamai.net^$important
-||bag.itunes.apple.com^$important
+@@||bag.itunes.apple.com^$important
 ||bag-cdn.itunes-apple.com.akadns.net^$important
 ||bag-cdn-lb2.itunes-apple.com.akadns.net^$important
 ||bag-cdn-akam.itunes-apple.com.akadns.net^$important
@@ -1587,7 +1588,7 @@ orbi.kr
 ||securemetrics.v.aaplimg.com^$important
 
 
-######## Push 계열 ############# 미치는 부분...
+######## Push 계열 #############
 @@||push.apple.com^
 @@||init.push.apple.com^
 @@||init.push-apple.com.akadns.net^
