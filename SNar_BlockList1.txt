@@ -901,6 +901,9 @@ orbi.kr
 ## KISSENG
 @@||us-central1-kisseng-o58uhk.cloudfunctions.net^$important
 @@||asia-northeast3-kisseng-o58uhk.cloudfunctions.net^$important
+## 네이버 파파고
+@@||openapis-papago.naver.com^$important
+@@||vrecog.search.naver.com^$important
 
 # 메가스터디 관련 
 @@||megals.co.kr^
