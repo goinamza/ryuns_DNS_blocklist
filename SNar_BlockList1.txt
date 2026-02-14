@@ -896,6 +896,15 @@ orbi.kr
 ## yes24
 @@||yes24.com^
 ||ticket.yes24.com^$important
+||ch.yes24.com^$important
+||sarak.yes24.com^$important
+||sarak-api.yes24.com^$important
+||adgirl.yes24.com^$important
+||chat.yes24.com^$important
+||cremaclub.yes24.com^$important
+||event.yes24.com^$important
+||push.yes24.com^$important
+
 ## 나이스플러스
 @@||neisplus.kr^
 ## KISSENG
