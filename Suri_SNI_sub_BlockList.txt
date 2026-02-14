@@ -1128,4 +1128,6 @@ realtoon/.link
 ||batoon.net^
 /moontoon/
 ||linkboza.com^
+||yadong.party^
+
 
