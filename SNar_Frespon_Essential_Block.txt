@@ -217,14 +217,14 @@ reasonsecurity
 
 ### Google 우회 관련 ###
 ||dns.google.com^
-/ohttp-relay/
+##/ohttp-relay/
 ##||safebrowsing.googleapis.com^$important
 ##||safebrowsing.google.com^$important
 ##||safebrowsingohttpgateway.googleapis.com^$important
-||ohttp-relay1.fastly-edge.com^$important
-||google-ohttp-relay-safebrowsing.fastly-edge.com^$important
-||ohttp-relay1.fastly-edge.com^$important
-||google-ohttp-relay-query.fastly-edge.com^$important
+##||ohttp-relay1.fastly-edge.com^$important
+##||google-ohttp-relay-safebrowsing.fastly-edge.com^$important
+##||ohttp-relay1.fastly-edge.com^$important
+##||google-ohttp-relay-query.fastly-edge.com^$important
 ||google.cn^$important
 ##||private.googleapis.com^$important
 ##||restricted.googleapis.com^$important
@@ -238,29 +238,29 @@ reasonsecurity
 ||doh.dns.apple.com.v.aaplimg.com^$important
 ||doh-dns-apple-com.v.aaplimg.com^$important
 ||apple.com.doh.icloud-dns.com$important
-/mask/apple/
-/mask/icloud/
-||mask.apple.com^$important
-||mask.icloud.com^$important
-||mask.icloud-dns.net^
-||mask-tunnel.apple.com^$important
-||mask-api.icloud.com^
-||mask-h2.icloud.com^$important
-||mask.apple-dns.net^$important
-||mask-api.icloud.com^$important
-||mask-api.fe2.apple-dns.net^$important
-||proxy.safebrowsing.apple^
-||token.safebrowsing.apple^$important
-||safebrowsing-proxy.g.aaplimg.com^$important
-||safebrowsing.g.aaplimg.com^$important
-||apple-relay.fastly-edge.com^$important
-||apple-relay.cloudflare.com^$important
-||relay.fe.apple-dns.net^$important
-||relay.icloud.apple.com^$important
-||gateway-oblivious.apple.com^$important
-/relay/cloudflare.com
-/relay/icloud/
-/relay/apple/
+##/mask/apple/
+##/mask/icloud/
+##||mask.apple.com^$important
+##||mask.icloud.com^$important
+##||mask.icloud-dns.net^
+##||mask-tunnel.apple.com^$important
+##||mask-api.icloud.com^
+##||mask-h2.icloud.com^$important
+##||mask.apple-dns.net^$important
+##||mask-api.icloud.com^$important
+##||mask-api.fe2.apple-dns.net^$important
+##||proxy.safebrowsing.apple^
+##||token.safebrowsing.apple^$important
+##||safebrowsing-proxy.g.aaplimg.com^$important
+##||safebrowsing.g.aaplimg.com^$important
+##||apple-relay.fastly-edge.com^$important
+##||apple-relay.cloudflare.com^$important
+##||relay.fe.apple-dns.net^$important
+##||relay.icloud.apple.com^$important
+##||gateway-oblivious.apple.com^$important
+##/relay/cloudflare.com
+##/relay/icloud/
+##/relay/apple/
 
 
 ### 최소한의 뻘짓 방지
