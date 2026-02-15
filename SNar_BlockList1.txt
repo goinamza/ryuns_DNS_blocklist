@@ -396,6 +396,8 @@
 @@||cc.naver.com^
 @@||kr1-cc.naver.com.nfront.nheos.com^
 @@||cc.naver.com^
+## 네이버 카페(특정 허용 시) 사진 업로드 도메인
+@@||cafe.upphoto.naver.com^
 #
 ||tivan.naver.com^$important
 ||safebrowsing.naver.com^$important
@@ -913,6 +915,9 @@ orbi.kr
 ## 네이버 파파고
 @@||openapis-papago.naver.com^$important
 @@||vrecog.search.naver.com^$important
+## 마케팅 문자인데 마이맥에서 사용
+@@||me2.kr^
+
 
 # 메가스터디 관련 
 @@||megals.co.kr^
