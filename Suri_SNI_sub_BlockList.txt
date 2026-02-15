@@ -267,7 +267,7 @@ reasonsecurity
 ### Naver ###
 ||m.naver.com^
 ||nlog.naver.com^
-||cafe.naver.com^
+#||cafe.naver.com^
 ||mail.naver.com^
 ||shopping.naver.com^
 ||news.naver.com^
