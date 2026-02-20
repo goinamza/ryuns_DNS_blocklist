@@ -14,3 +14,11 @@
 ||vpngate2.jp^
 ||www.amazon.com^
 ||www.youtube.com^
+
+||checkip.amazonaws.com^$important
+||*.check.cloudflareresolve.com^$important
+||api.cloudflareclient.com^$important
+||cloudflareok.com^$important
+||cloudflarecp.com^$important
+||cloudflareportal.com^$important
+||gcs-us-00002.content-storage-download.googleapis.com^$important
