@@ -212,6 +212,15 @@ reasonsecurity
 ### Bad (2025.09.19)
 ||njdiuw-skadsdkless.appsflyersdk.com^$important
 
+### VPN cloudflare ech related
+||checkip.amazonaws.com^$important
+/.check.cloudflareresolve.com/
+||api.cloudflareclient.com^$important
+||cloudflareok.com^$important
+||cloudflarecp.com^$important
+||cloudflareportal.com^$important
+||gcs-us-00002.content-storage-download.googleapis.com^$important
+
 ### Google 우회 관련 ###
 ||dns.google.com^
 /ohttp-relay/
