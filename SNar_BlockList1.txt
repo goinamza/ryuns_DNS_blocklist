@@ -348,8 +348,6 @@
 @@||m.site.naver.com^
 @@||toast.com^
 @@||ssl.pstatic.net.nheos.com^$important
-@@||dict.naver.com^
-@@||terms.naver.com^
 @@||nid.naver.com^
 @@||ni.naver.com^
 @@nidapi.naver.com^
