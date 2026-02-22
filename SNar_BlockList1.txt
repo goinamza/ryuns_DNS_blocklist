@@ -777,7 +777,6 @@ orbi.kr
 # 종로학원
 @@||jongro.co.kr^
 @@||jongroeclass.co.kr^
-@@||neoebiz.co.kr^
 @@||www.knjongro.co.kr^$important
 @@||www.kbjongro.co.kr^$important
 @@||jongro.hscdn.com^$important
