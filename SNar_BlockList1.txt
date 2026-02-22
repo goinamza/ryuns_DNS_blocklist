@@ -2085,8 +2085,6 @@ orbi.kr
 @@||api.doem-0tpdlqj.com^$important
 @@||roughtime.int08h.com^$important
 @@||code.jquery.com^$important
-@@||onevoca.org^
-@@||nebooks.co.kr^$important
 @@||api.goodlocklabs.com^$important
 @@||g2sh.me^$important
 @@||younivclass.academy^$important
