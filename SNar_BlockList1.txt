@@ -634,20 +634,15 @@ orbi.kr
 @@||rawgit.com^
 @@||zocbo.com^
 @@||axissoft.co.kr^
-@@||conects.com^
 @@||hiqri.ai^$important
 @@||auth.neoneo.co.kr^$important
 @@||sf.symcd.com^$important
 @@||linker.ac^$important
 @@||mimacstudy.com^
-@@||ontactedu.co.kr^
 @@||gumstart.co.kr^
 @@||sinjiwonedu.co.kr^
-@@||mmath.co.kr^
 @@||classcard.net^
-@@||cheongsol.co.kr^
 @@||hackers.com^
-@@||hubspot.com^
 @@||mathbang.net^
 @@||nebooks.co.kr^
 @@||neungyule.com^
@@ -662,7 +657,6 @@ orbi.kr
 @@||extremechem.com^
 @@||vclock.kr^
 @@||seoul.go.kr^
-@@||kumsung.co.kr^
 @@||reclass.study^
 @@||goldedu.co.kr^
 @@||mirae-n.com^
@@ -673,7 +667,6 @@ orbi.kr
 @@||malgnsoft.com^
 #
 @@||battant.net^
-@@||potenup.kr^
 @@||ncic.re.kr^
 @@||holsoo.com^
 @@||imaginecne.com^
@@ -736,11 +729,8 @@ orbi.kr
 @@||mbest.co.kr^
 @@||api.quizrix.com^$important
 @@||irontrain.co.kr^$important
-@@||www.vocacoca.com^$important
 @@||tool.cozci.com^$important
 @@||vicleague.com^$important
-@@||hyperclass.co.kr^
-@@||hyperacademy.co.kr^
 @@||horaeng.com^$important
 @@||milkt.co.kr^
 @@||kimstudy.com^
@@ -748,11 +738,8 @@ orbi.kr
 @@||u.expo.dev^$important
 @@||kimstudy.blob.core.windows.net^$important
 ||news.seoul.go.kr^$important
-@@||dshw.co.kr^$important
 @@||kimstudy.blob.core.windows.net^$important
-@@||edusherpa.kr^
 @@||edujin.co.kr^
-@@||ksredu.com^
 @@||suneungcalc.com^$important
 @@||eonedu.co.kr^$important
 @@||imweb.me^$important
@@ -798,7 +785,6 @@ orbi.kr
 ## 클래스메이트 앱, 대인라
 @@||klassmate.co.kr^
 @@||klassmate.dev.meetmate.co.kr^$important
-@@||meetmate.co.kr^
 @@||cdnet.nasmob.com^$important
 @@||cdn.datamanager.co.kr^$important
 # 시험 관련
@@ -823,8 +809,6 @@ orbi.kr
 # 콴다 AI
 @@||qanda.ai^
 @@||qanda.co.kr^
-@@||mathpresso.net^
-@@||mathpresso.io^
 @@||qanda-thumbnailer-prod.qymtuasgp.ap-northeast-2.elasticbeanstalk.com^
 # Ankiweb 이라는 학습 지원 앱
 @@||ankiweb.net^
@@ -915,9 +899,7 @@ orbi.kr
 
 
 # 메가스터디 관련 
-@@||megals.co.kr^
 @@||megastudy.net^
-@@||megagong.net^$important
 @@||megastudy.netbook^$important
 @@||megastudy.mmath.co.kr^
 @@||russeldata.megastudy.net.gtmc.hscdn.com^$important
@@ -927,16 +909,12 @@ orbi.kr
 @@||megastudyedu.career.greetinghr.com^$important
 @@||megastudybooks.com^
 @@||hscdn.com^
-@@||megalawyers.co.kr^
-@@||megamd.co.kr^
-@@||megaland.co.kr^
 @@||mystudying.sconn.io^$important
 @@||sconn.io^
 @@||aether-study.imweb.me^$important
 @@||unistudy.co.kr^$important
 @@||legendstudy.com^$important
 @@||megastudy.co.kr^$important
-@@||qube.maisco.kr^$important
 @@||file-megastudy.cache.onscdn.co.kr^$important
 @@||imgs-megastudy.cache.onscdn.co.kr^$important
 @@||russeldata-megastudy.cache.onscdn.co.kr^
@@ -957,7 +935,6 @@ orbi.kr
 @@||etoos.net^$important
 @@||etoosbook.com^
 @@||_44306._https.auth.etoosanswer.co.kr^$important
-@@||etoosanswer.co.kr^$important
 # 그냥 아예 얘네 cloudfront를 확실히 allow로 지정함.
 @@||img.etoos.com^$important
 @@||d30fuo9j5370uc.cloudfront.net^$important
