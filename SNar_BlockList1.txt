@@ -651,7 +651,6 @@ orbi.kr
 @@||mathbang.net^
 @@||nebooks.co.kr^
 @@||neungyule.com^
-@@||aca.reclass.study^
 @@||sinsago.co.kr^
 @@||quizlet.com^
 @@||geogebra.org^
