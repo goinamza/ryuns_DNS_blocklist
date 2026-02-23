@@ -37,18 +37,6 @@
 ||global.quickconnect.to^
 ||gofile-3539475067.jp5.quickconnect.to^
 ||*.synology.me^
-## SNarPTa 가동
-@@||snarlink.sn^$important
-192.168.88.3 korean.snarpta.snarlink.sn
-192.168.88.3 math.snarpta.snarlink.sn
-192.168.88.3 english.snarpta.snarlink.sn
-192.168.88.3 social1.snarpta.snarlink.sn
-192.168.88.3 social2.snarpta.snarlink.sn
-192.168.88.3 science1.snarpta.snarlink.sn
-192.168.88.3 science2.snarpta.snarlink.sn
-192.168.88.3 k-history.snarpta.snarlink.sn
-192.168.88.3 custom.snarpta.snarlink.sn
-
 
 # DoH MUST DIE DoH DoH DoH DoH DoH DNS, DoH 또는 우회 관련 싸이트들을 넣습니다. 무조건 차단. #########
 ||doh.cleanbrowsing.org^$important
