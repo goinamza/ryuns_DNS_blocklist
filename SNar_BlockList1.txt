@@ -888,6 +888,8 @@ orbi.kr
 ||push.yes24.com^$important
 ## uway
 @@||uway.com^$important
+## 메리포핀스북스
+@@||mpsbooks.com^
 
 ## 나이스플러스
 @@||neisplus.kr^
