@@ -219,6 +219,7 @@
 @@||api.weather.com^$important
 @@||config.samsungweather.com^$important
 @@||api.weatherforecast.io^$important
+@@||weather.com^$important
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
@@ -885,6 +886,8 @@ orbi.kr
 ||cremaclub.yes24.com^$important
 ||event.yes24.com^$important
 ||push.yes24.com^$important
+## uway
+@@||uway.com^$important
 
 ## 나이스플러스
 @@||neisplus.kr^
