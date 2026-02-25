@@ -373,7 +373,6 @@ reasonsecurity
 ||kakaobizmessage.com^
 ||kakaoenterprise.com^
 # 그 외 카카오 도메인 모두 막음
-||developers.kakao.com^
 ||open.kakao.com^
 ||talk-pilsner.kakao.com^
 ||talk-shareex.kakao.com^
