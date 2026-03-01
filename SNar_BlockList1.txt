@@ -890,7 +890,11 @@ orbi.kr
 @@||uway.com^$important
 ## 메리포핀스북스
 @@||mpsbooks.com^
-
+## 스터디코드
+@@||studycode.com^$important
+@@||cdn.life-code.co.kr^$important
+@@||vjs.zencdn.net^$important
+@@||license-global.pallycon.com^$important
 ## 나이스플러스
 @@||neisplus.kr^
 ## KISSENG
@@ -1094,6 +1098,8 @@ orbi.kr
 ||photos.googleapis.com^$important
 # 구글 업데이트 다운로드
 @@||dl.google.com^$important
+# 구글 js 및 xml cdn
+@@||ajax.googleapis.com^$important
 
 ### 구글 우회 관련 ####
 ||dns.google.com^$important
