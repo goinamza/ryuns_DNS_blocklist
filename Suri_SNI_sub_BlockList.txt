@@ -477,6 +477,7 @@ reasonsecurity
 ||xbox.com^
 ||nintendo.com^
 ||tiny.one^
+||4shared.com^
 
 ### Samsung ###
 ||samsungapps.com^
@@ -592,6 +593,7 @@ reasonsecurity
 ||x.com^$important
 ||threads.com^$important
 ||whatsapp.net^
+
 
 ### Video Streaming and Communication ###
 ||zoom.us^
