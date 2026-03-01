@@ -225,6 +225,16 @@
 ||*.ip6.arpa^
 
 
+########## 건강 관련 ######
+@@||health.kr^
+@@||druginfo.co.kr^
+@@||nedrug.mfds.go.kr^
+@@||ncmh.go.kr^
+@@||knpa.or.kr^
+@@||mindpost.or.kr^
+@@||drugs.com^
+@@||mayoclinic.org^
+
 ########## 결제 관련  #######
 @@||inicis.com^
 @@||tosspayments.com^
