@@ -867,14 +867,14 @@ orbi.kr
 ## 윤스, 윤도영에듀
 @@||yoon-s.com^$important
 ##리로스쿨
-@@||riroschool.kr^$important
+@@||riroschool.kr^
 ## 온라인 심리검사 career4u
-@@||career4u.net^$important
+@@||career4u.net^
 ### Goodnote 관련
 @@||odr.ml-goodnotes.com^$important
 @@||api.goodnotes.email^$important
 ### 자바실험실
-@@||javalab.org^$important
+@@||javalab.org^
 ## yes24
 @@||yes24.com^
 ||ticket.yes24.com^$important
@@ -887,14 +887,28 @@ orbi.kr
 ||event.yes24.com^$important
 ||push.yes24.com^$important
 ## uway
-@@||uway.com^$important
+@@||uway.com^
 ## 메리포핀스북스
 @@||mpsbooks.com^
 ## 스터디코드
-@@||studycode.com^$important
+@@||studycode.com^
 @@||cdn.life-code.co.kr^$important
 @@||vjs.zencdn.net^$important
 @@||license-global.pallycon.com^$important
+# 김재하수학
+@@||kimjaehamath.com^
+# 아크미스터디 라이브클래스
+@@||liveklass.com^
+@@||o4509820638789632.ingest.us.sentry.io^$important
+@@||acmestudy.net^
+@@||acmestudy.liveklass.com^
+@@||static.wixstatic.com^$important
+@@||static.parastorage.com^$important
+# Picsum (추후 뭐하는것인지 확인)
+@@||picsum.photos^
+# 서울시교육청 교육연구정보원
+@@||ssem.or.kr^
+
 ## 나이스플러스
 @@||neisplus.kr^
 ## KISSENG
@@ -905,7 +919,8 @@ orbi.kr
 @@||vrecog.search.naver.com^$important
 ## 마케팅 문자인데 마이맥에서 사용
 @@||me2.kr^
-
+# 마이맥 이벤트 체커
+@@||nice.checkplus.co.kr^
 
 # 메가스터디 관련 
 @@||megastudy.net^
