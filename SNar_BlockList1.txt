@@ -907,6 +907,8 @@ orbi.kr
 @@||picsum.photos^
 # 서울시교육청 교육연구정보원
 @@||ssem.or.kr^
+# 콴다 관련
+@@||mathpresso.net^
 
 ## 나이스플러스
 @@||neisplus.kr^
