@@ -639,7 +639,6 @@ orbi.kr
 @@||auth.neoneo.co.kr^$important
 @@||sf.symcd.com^$important
 @@||linker.ac^$important
-@@||mimacstudy.com^
 @@||gumstart.co.kr^
 @@||sinjiwonedu.co.kr^
 @@||classcard.net^
@@ -917,10 +916,7 @@ orbi.kr
 ## 네이버 파파고
 @@||openapis-papago.naver.com^$important
 @@||vrecog.search.naver.com^$important
-## 마케팅 문자인데 마이맥에서 사용
-@@||me2.kr^
-# 마이맥 이벤트 체커
-@@||nice.checkplus.co.kr^
+
 
 # 메가스터디 관련 
 @@||megastudy.net^
@@ -949,9 +945,12 @@ orbi.kr
 ### 메가스터디 미어캣 MDM 짜증나지만 풀어줌
 @@||megastudy.meerkatmdm.com^$important
 
-
-
-
+### 대성마이맥 관련, 대성
+@@||mimacstudy.com^
+## 마케팅 문자인데 마이맥에서 사용
+@@||me2.kr^
+# 마이맥 이벤트 체커
+@@||nice.checkplus.co.kr^
 
 ### 병신 이투스 특별관리. cloudfront에다 메인 페이지들을 박아놓은 무뇌짓 때문에 뭔 개 귀찮은 짓인가..
 @@||etoos.com^
