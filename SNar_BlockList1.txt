@@ -919,6 +919,8 @@ orbi.kr
 @@||ssem.or.kr^
 # 콴다 관련
 @@||mathpresso.net^
+# Todomate 일정계획 앱
+@@||todomate.net^
 
 ## 나이스플러스
 @@||neisplus.kr^
