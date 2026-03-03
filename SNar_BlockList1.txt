@@ -32,6 +32,8 @@
 @@||cdn.jsdelivr.net.cdn.cloudflare.net^$important
 @@||jsdelivr.map.fastly.net^$important
 @@||channel.io^$important
+# supabase (vercel) daechi.snacademy 용
+@@*.supabase.co^
 # 시놀로지 막음
 ||gofile.me^
 ||global.quickconnect.to^
