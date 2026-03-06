@@ -34,6 +34,8 @@
 @@||channel.io^$important
 # supabase (vercel) daechi.snacademy 용
 @@||supabase.co^
+# 대치 vercel 저장소
+@@||2f470a3f1459c188.vercel-dns-017.com^$important
 # 시놀로지 막음
 ||gofile.me^
 ||global.quickconnect.to^
