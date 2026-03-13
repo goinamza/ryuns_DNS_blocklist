@@ -972,6 +972,8 @@ orbi.kr
 # 플레이엔플레이인 것으로 보임
 @@||pnp-api.cdnetworks.com.wtxcdn.com^$important
 @@||pnp-appdn.cdnetworks.com.wtxcdn.com^$important
+# 대성학원
+@@||dshw.co.kr^
 
 ### 병신 이투스 특별관리. cloudfront에다 메인 페이지들을 박아놓은 무뇌짓 때문에 뭔 개 귀찮은 짓인가..
 @@||etoos.com^
