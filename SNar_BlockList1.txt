@@ -2076,6 +2076,7 @@ orbi.kr
 @@||kau.ac.kr^
 @@||knou.ac.kr^
 @@||karts.ac.kr^
+@@||rokaf.airforce.mil.kr^
 
 #### 대학, 공공기관 메일은 안됨 ㅋㅋ
 ||mail.seoul.go.kr^$important
