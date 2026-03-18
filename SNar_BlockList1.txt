@@ -224,6 +224,12 @@
 @@||config.samsungweather.com^$important
 @@||api.weatherforecast.io^$important
 @@||weather.com^$important
+## 멜론 인증 관련
+@@||smmd.melon.com^$important
+@@||m2.melon.com^$important
+@@||member.melon.com^$important
+@@||personal.melon.com^$important
+@@||smmd-policy-gslb.kakaoentcdn.com^$important
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
@@ -926,6 +932,12 @@ orbi.kr
 # Todomate 일정계획 앱
 @@||todomate.net^
 
+# 학습싸이트?
+@@||jsj-science.com^$important
+@@||learnsy.kr^$important
+@@||hdethics.com^$important
+
+
 ## 나이스플러스
 @@||neisplus.kr^
 ## KISSENG
@@ -981,6 +993,13 @@ orbi.kr
 @@||etoos.net^$important
 @@||etoosbook.com^
 @@||_44306._https.auth.etoosanswer.co.kr^$important
+# 이투스 인증 관련
+@@||pnp-appdn.cdnetworks.com.wtxcdn.com^$important
+@@||auth.etoosanswer.co.kr^$important
+@@||auth.hyperacademy.co.kr^$important
+@@||auth.hyperclass.co.kr^$important
+@@||auth.cheongsol.co.kr^$important
+@@||auth2.samsungosp.com^$important
 # 그냥 아예 얘네 cloudfront를 확실히 allow로 지정함.
 @@||img.etoos.com^$important
 @@||d30fuo9j5370uc.cloudfront.net^$important
