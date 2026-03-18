@@ -224,12 +224,12 @@
 @@||config.samsungweather.com^$important
 @@||api.weatherforecast.io^$important
 @@||weather.com^$important
-## 멜론 인증 관련
-@@||smmd.melon.com^$important
-@@||m2.melon.com^$important
-@@||member.melon.com^$important
-@@||personal.melon.com^$important
-@@||smmd-policy-gslb.kakaoentcdn.com^$important
+## 멜론 인증 관련(학생이 취소함)
+#@@||smmd.melon.com^$important
+#@@||m2.melon.com^$important
+#@@||member.melon.com^$important
+#@@||personal.melon.com^$important
+#@@||smmd-policy-gslb.kakaoentcdn.com^$important
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
