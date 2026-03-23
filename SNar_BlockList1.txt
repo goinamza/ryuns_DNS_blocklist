@@ -931,6 +931,8 @@ orbi.kr
 @@||mathpresso.net^
 # Todomate 일정계획 앱
 @@||todomate.net^
+# 새이솔
+@@||saeisol.com^
 
 # 학습싸이트?
 @@||jsj-science.com^$important
