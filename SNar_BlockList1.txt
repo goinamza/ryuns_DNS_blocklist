@@ -939,6 +939,11 @@ orbi.kr
 @@||learnsy.kr^$important
 @@||hdethics.com^$important
 
+# 교육청들
+@@||sen.go.kr^
+@@||goe.go.kr^
+@@||pen.go.kr^
+@@||ice.go.kr^
 
 ## 나이스플러스
 @@||neisplus.kr^
