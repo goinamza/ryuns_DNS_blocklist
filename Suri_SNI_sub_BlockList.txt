@@ -147,6 +147,7 @@ reasonsecurity
 ||vpngate2.jp^
 ||vpngate.jp^
 ||xvpn.io^
+||download-39.twitch-ext.rootonline.de^
 
 ### DoH, Proxy###
 ||dns.msftncsi.com^
