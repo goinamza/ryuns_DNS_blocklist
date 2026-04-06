@@ -617,7 +617,7 @@ orbi.kr
 ||lifelongschool.ebs.co.kr^$important
 ||on.ebs.co.kr^$important
 ||d-u.ebsi.co.kr^$important
-||primary.ebs.co.kr^$important
+@@||primary.ebs.co.kr^$important
 ||ai-beta.ebs.co.kr^$important
 ||ai-plus.ebs.co.kr^$important
 ||literacy.ebs.co.kr^$important
