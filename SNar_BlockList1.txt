@@ -485,7 +485,7 @@
 ||kakao.com^
 ||kakaocorp.com^
 ||kakao.co.kr^
-||kakaocdn.net^
+@@||kakaocdn.net^
 ||kakaoentcdn.com^
 ||onkakao.net
 # 로그인과 인증만 풀어줌 ##
