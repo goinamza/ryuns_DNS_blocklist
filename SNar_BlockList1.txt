@@ -479,6 +479,7 @@
 @@||t1.daumcdn.net^
 @@||t1.daumcdn.net.edgesuite.net^$important
 @@||a1988.dscw39.akamai.net^$important
+@@||tistory3.daumcdn.net^
 ||daumcdn.net^
 @@||postcode.map.daum.net^$important
 # 카카오 꺼져
