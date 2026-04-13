@@ -373,6 +373,8 @@
 @@||ni.naver.com^
 @@nidapi.naver.com^
 @@openapi.naver.com^
+#openapi 의 CNAME ndash
+@@||d4b87330.ndash.net^$important
 @@logins.naver.com^
 @@apis.naver.com^
 @@nidlogin.naver.com^
@@ -568,6 +570,7 @@ orbi.kr
 @@||ec2-3-34-18-9.ap-northeast-2.compute.amazonaws.com^$important
 @@||all.ycdn2.kollus.com.w.cdngslb.com^$important
 @@||all.ycdn.kollus.com.w.cdngslb.com^$important
+@@||wildcard-lcdn-kollus.cache.cdn.cloudn.co.kr^$important
 
 
 # Vimeo Player Services
