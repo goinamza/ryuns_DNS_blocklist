@@ -942,6 +942,8 @@ orbi.kr
 @@||saeisol.com^
 # 디디쌤
 @@||didisam.com^
+# 마보 심리/명상
+@@||mabopractice.com^
 
 # 학습싸이트?
 @@||jsj-science.com^$important
