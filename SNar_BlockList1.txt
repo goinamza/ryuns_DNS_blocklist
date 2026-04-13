@@ -230,6 +230,9 @@
 #@@||member.melon.com^$important
 #@@||personal.melon.com^$important
 #@@||smmd-policy-gslb.kakaoentcdn.com^$important
+## QR코드 스캔 링크
+@@||free-qr.com^
+@@||tistory3.daumcdn.net^
 
 ||*.in-addr.arpa^
 ||*.ip6.arpa^
