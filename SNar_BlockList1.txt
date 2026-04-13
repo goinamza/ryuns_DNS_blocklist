@@ -944,6 +944,8 @@ orbi.kr
 @@||didisam.com^
 # 마보 심리/명상
 @@||mabopractice.com^
+# 수학 수식 그리는 싸이트
+@@||symbolab.com^
 
 # 학습싸이트?
 @@||jsj-science.com^$important
