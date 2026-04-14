@@ -585,7 +585,7 @@ reasonsecurity
 ||soundcloud.com^
 ||spotify.com^
 
-### Mail, SNS, Blog, Message ###
+### Mail, SNS, Blog, Message, Cloud ###
 ||telegram.org^
 ||hotmail.com^
 ||tistory.com^
@@ -594,6 +594,7 @@ reasonsecurity
 ||x.com^$important
 ||threads.com^$important
 ||whatsapp.net^
+||mypikpak.com^
 
 
 ### Video Streaming and Communication ###
