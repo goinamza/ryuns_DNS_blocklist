@@ -946,6 +946,8 @@ orbi.kr
 @@||mabopractice.com^
 # 수학 수식 그리는 싸이트
 @@||symbolab.com^
+# 법학적성시험 LEET
+@@||leet.or.kr^
 
 # 학습싸이트?
 @@||jsj-science.com^$important
