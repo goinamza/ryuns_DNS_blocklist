@@ -948,6 +948,8 @@ orbi.kr
 @@||symbolab.com^
 # 법학적성시험 LEET
 @@||leet.or.kr^
+# 고양교육지원청 및 고교
+@@||goegy.kr^
 
 # 학습싸이트?
 @@||jsj-science.com^$important
