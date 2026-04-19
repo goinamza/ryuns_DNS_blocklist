@@ -1,5 +1,7 @@
 ### HTTP Blocklist
 
+vpn
+
 ||whatsapp.net^
 ||dpdns.org^
 ||vipren.biz.id^
